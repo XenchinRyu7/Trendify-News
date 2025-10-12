@@ -2,7 +2,7 @@ name: Fetch Latest News
 
 on:
   schedule:
-    - cron: '0 */6 * * *'
+    - cron: '0 */3 * * *'  # Setiap 3 jam = 8x sehari (lebih banyak commit!)
   workflow_dispatch:
 
 jobs:
@@ -47,8 +47,8 @@ jobs:
           
       - name: Commit and push changes
         run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
+          git config --local user.email "xenchinryu7@users.noreply.github.com"
+          git config --local user.name "XenchinRyu7"
           git add data/articles/
           git diff --staged --quiet || git commit -m "🤖 Auto-update: Fetch latest tech news - $(date +'%Y-%m-%d %H:%M')"
           git push

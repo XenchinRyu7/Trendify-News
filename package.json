@@ -7,7 +7,7 @@
     "build": "next build --turbopack",
     "start": "next start",
     "lint": "eslint",
-    "fetch-news": "node scripts/fetchNews.mjs"
+    "fetch-news": "tsx scripts/fetchNews.ts"
   },
   "dependencies": {
     "date-fns": "^4.1.0",
@@ -25,6 +25,7 @@
     "eslint": "^9",
     "eslint-config-next": "15.5.4",
     "tailwindcss": "^4",
+    "tsx": "^4.20.6",
     "typescript": "^5"
   }
 }
