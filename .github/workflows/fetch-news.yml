@@ -23,25 +23,7 @@ jobs:
         run: npm ci
         
       - name: Fetch news articles
-        run: |
-          curl -X POST http://localhost:3000/api/fetchNews || \
-          node -e "
-            const { fetchAllNews } = require('./src/lib/newsFetcher');
-            const { saveArticles } = require('./src/lib/articleStorage');
-            
-            async function run() {
-              try {
-                const articles = await fetchAllNews();
-                await saveArticles(articles);
-                console.log('Successfully fetched and saved', articles.length, 'articles');
-              } catch (error) {
-                console.error('Error:', error);
-                process.exit(1);
-              }
-            }
-            
-            run();
-          "
+        run: npm run fetch-news
         env:
           NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
           
