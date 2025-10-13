@@ -1,11 +1,12 @@
 # 🚀 Trendify - IT News Tracker
 
-A modern, automated web app that fetches and displays the latest technology news from various sources with a stunning glassmorphism design.
+A modern, automated web app that fetches and displays the latest technology news with a stunning glassmorphism design. Now supports static export and automatic deployment to GitHub Pages.
 
 ![Next.js](https://img.shields.io/badge/Next.js-15-black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-4-38bdf8)
 ![License](https://img.shields.io/badge/license-MIT-green)
+![GitHub Pages](https://img.shields.io/badge/Deploy-GitHub%20Pages-2088FF)
 
 ## ✨ Features
 
@@ -13,8 +14,9 @@ A modern, automated web app that fetches and displays the latest technology news
 - 🔍 **Smart Search**: Filter news by keywords, source, or content
 - 🕶️ **Glassmorphism UI**: Modern, translucent cards with frosted glass effect
 - 🎨 **Beautiful Gradients**: Indigo-purple-pink gradient background
-- 🔄 **Auto-refresh**: GitHub Actions workflow fetches news every 6 hours
-- 📱 **Fully Responsive**: Works perfectly on all devices
+- 🔄 **Auto-refresh**: GitHub Actions workflow fetches news every 3 hours
+- � **Static Export**: Built as a static site, perfect for GitHub Pages
+- �📱 **Fully Responsive**: Works perfectly on all devices
 - ⚡ **Fast & Modern**: Built with Next.js 15 App Router and Turbopack
 - 🎭 **Smooth Animations**: Framer Motion for delightful interactions
 
@@ -25,19 +27,20 @@ A modern, automated web app that fetches and displays the latest technology news
 - **Styling**: [Tailwind CSS 4](https://tailwindcss.com/)
 - **Animations**: [Framer Motion](https://www.framer.com/motion/)
 - **Date Formatting**: [date-fns](https://date-fns.org/)
-- **Deployment**: [Vercel](https://vercel.com/)
+- **Deployment**: GitHub Pages (via Actions) or Vercel
 
 ## 📁 Project Structure
 
 ```
-trendify/
+Trendify-News/
 ├── .github/
 │   └── workflows/
-│       └── fetch-news.yml        # GitHub Actions workflow
+│       ├── fetch-news.yml        # GitHub Actions: fetch & commit articles
+│       └── deploy-pages.yml      # GitHub Actions: build & deploy to Pages
 ├── data/
 │   └── articles/                 # Auto-generated news articles
 │       ├── latest.json
-│       └── articles-YYYY-MM-DD.json
+│       └── articles-YYYY-MM-DDTHH-mm-SS.json
 ├── src/
 │   ├── app/
 │   │   ├── api/
@@ -54,7 +57,7 @@ trendify/
 │       ├── newsFetcher.ts        # News API integrations
 │       └── articleStorage.ts     # Article file operations
 ├── scripts/
-│   └── fetchNews.mjs             # Manual fetch script
+│   └── fetchNews.ts              # Manual fetch script (TypeScript via tsx)
 └── package.json
 ```
 
@@ -70,8 +73,8 @@ trendify/
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/trendify.git
-cd trendify
+git clone https://github.com/XenchinRyu7/Trendify-News.git
+cd Trendify-News
 ```
 
 2. **Install dependencies**
@@ -114,27 +117,28 @@ Navigate to [http://localhost:3000](http://localhost:3000)
 - `npm run lint` - Run ESLint
 - `npm run fetch-news` - Manually fetch latest news
 
-## 🤖 GitHub Actions Setup
+## 🤖 Automation with GitHub Actions
 
-The app includes a GitHub Actions workflow that automatically fetches news every 6 hours and commits the updates.
+This project includes two workflows located in `.github/workflows/`:
 
-### Setup Instructions:
+1) Fetch and commit latest news: `fetch-news.yml`
+- Schedule: Every 3 hours (cron: `0 */3 * * *`)
+- Reads optional `NEWS_API_KEY` from repository Secrets
+- Saves articles into `data/articles/` and updates `latest.json`
+- Commits with your GitHub username (uses `${{ github.actor }}`)
 
-1. **Enable GitHub Actions** in your repository settings
+Setup:
+- Settings → Secrets and variables → Actions → New repository secret → Name: `NEWS_API_KEY` (optional)
+- Ensure repo has Actions workflow permissions to write contents (we set `permissions: contents: write` in workflow)
 
-2. **Add NewsAPI Secret** (optional):
-   - Go to Settings > Secrets and variables > Actions
-   - Add a new secret: `NEWS_API_KEY`
+2) Build and deploy to GitHub Pages: `deploy-pages.yml`
+- Triggers on push to `main` and on manual dispatch
+- Builds static site to `out/` (`next.config.ts` uses `output: 'export'`)
+- Uploads and deploys artifact to GitHub Pages
 
-3. **Enable workflow permissions**:
-   - Go to Settings > Actions > General
-   - Under "Workflow permissions", select "Read and write permissions"
-
-The workflow will:
-- Run every 6 hours (cron: `0 */6 * * *`)
-- Fetch latest news articles
-- Save them to `data/articles/`
-- Commit and push changes automatically
+First-time Pages setup:
+- Settings → Pages → Build and deployment → Source: GitHub Actions
+- Your site will be available at: `https://xenchinryu7.github.io/Trendify-News/`
 
 ## 🎨 Customization
 
@@ -173,16 +177,20 @@ Edit `src/app/globals.css`:
 
 ## 🚢 Deployment
 
-### Deploy to Vercel (Recommended)
+### Deploy to GitHub Pages (Recommended)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/yourusername/trendify)
+Automatic via Actions (already configured):
+1. Push to `main`
+2. Monitor Actions → `Deploy to GitHub Pages`
+3. Visit: `https://xenchinryu7.github.io/Trendify-News/`
 
-Or manually:
+Notes:
+- For Pages, the app uses static export with `basePath`/`assetPrefix` set from the repo name.
+- During deploy, `data/articles/*.json` are copied to `public/data/articles/` so the site can fetch `latest.json` statically.
 
-1. Push your code to GitHub
-2. Import project in Vercel
-3. Add environment variable: `NEWS_API_KEY` (optional)
-4. Deploy!
+### Deploy to Vercel (Alternative)
+
+You can still deploy to Vercel; just import the repo and set `NEWS_API_KEY` if needed.
 
 ### Other Platforms
 
@@ -219,9 +227,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
+Maintained by [XenchinRyu7](https://github.com/XenchinRyu7)
 
-Project Link: [https://github.com/yourusername/trendify](https://github.com/yourusername/trendify)
+Project Link: [https://github.com/XenchinRyu7/Trendify-News](https://github.com/XenchinRyu7/Trendify-News)
 
 ---
 
