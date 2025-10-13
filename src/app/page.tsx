@@ -22,14 +22,30 @@ export default function Home() {
   const loadArticles = async () => {
     try {
       setLoading(true);
-      const res = await fetch('/api/fetchNews');
-      const data = await res.json();
-      
-      if (data.success) {
-        setArticles(data.articles);
-        setFilteredArticles(data.articles);
-        setLastUpdated(new Date().toISOString());
+      // Try API route first (when running on a server)
+      try {
+        const apiRes = await fetch('/api/fetchNews');
+        if (apiRes.ok) {
+          const data = await apiRes.json();
+          if (data.success) {
+            setArticles(data.articles);
+            setFilteredArticles(data.articles);
+            setLastUpdated(new Date().toISOString());
+            return;
+          }
+        }
+      } catch {
+        // ignore and fallback to static data
       }
+
+      // Fallback for static export (GitHub Pages): read latest.json from public path
+      const base = typeof window !== 'undefined' ? window.location.pathname.replace(/\/[^/]*$/, '/') : '/';
+      const latestUrl = `${base}data/articles/latest.json`;
+      const res = await fetch(latestUrl);
+      const articles = await res.json();
+      setArticles(articles);
+      setFilteredArticles(articles);
+      setLastUpdated(new Date().toISOString());
     } catch (error) {
       console.error('Error loading articles:', error);
     } finally {

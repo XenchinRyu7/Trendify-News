@@ -1,3 +1,6 @@
+// Disable this route when exporting static site (e.g., on GitHub Pages)
+export const dynamic = 'force-static';
+export const revalidate = 0;
 import { NextResponse } from 'next/server';
 import { fetchAllNews } from '@/lib/newsFetcher';
 import { saveArticles } from '@/lib/articleStorage';
