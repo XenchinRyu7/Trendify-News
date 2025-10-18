@@ -1,0 +1,436 @@
+[
+  {
+    "title": "Pixnapping Attack",
+    "source": "Hacker News",
+    "url": "https://www.pixnapping.com/",
+    "publishedAt": "2025-10-15T06:05:51.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "I am a programmer, not a rubber-stamp that approves Copilot generated code",
+    "source": "Hacker News",
+    "url": "https://prahladyeri.github.io/blog/2025/10/i-am-a-programmer.html",
+    "publishedAt": "2025-10-15T05:09:44.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Can we know whether a profiler is accurate?",
+    "source": "Hacker News",
+    "url": "https://stefan-marr.de/2025/10/can-we-know-whether-a-profiler-is-accurate/",
+    "publishedAt": "2025-10-15T02:04:26.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Disk Prices",
+    "source": "Hacker News",
+    "url": "https://diskprices.com/?locale=us",
+    "publishedAt": "2025-10-15T02:02:32.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Nvidia DGX Spark: great hardware, early days for the ecosystem",
+    "source": "Hacker News",
+    "url": "https://simonwillison.net/2025/Oct/14/nvidia-dgx-spark/",
+    "publishedAt": "2025-10-15T00:49:25.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "FSF announces Librephone project",
+    "source": "Hacker News",
+    "url": "https://www.fsf.org/news/librephone-project",
+    "publishedAt": "2025-10-14T23:47:08.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "GrapheneOS is ready to break free from Pixels",
+    "source": "Hacker News",
+    "url": "https://www.androidauthority.com/graphene-os-major-android-oem-partnership-3606853/",
+    "publishedAt": "2025-10-14T22:36:40.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Surveillance data challenges what we thought we knew about location tracking",
+    "source": "Hacker News",
+    "url": "https://www.lighthousereports.com/investigation/surveillance-secrets/",
+    "publishedAt": "2025-10-14T20:36:01.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Why Is SQLite Coded In C",
+    "source": "Hacker News",
+    "url": "https://www.sqlite.org/whyc.html",
+    "publishedAt": "2025-10-14T20:32:32.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Unpacking Cloudflare Workers CPU Performance Benchmarks",
+    "source": "Hacker News",
+    "url": "https://blog.cloudflare.com/unpacking-cloudflare-workers-cpu-performance-benchmarks/",
+    "publishedAt": "2025-10-14T20:17:44.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "How to turn liquid glass into a solid interface",
+    "source": "Hacker News",
+    "url": "https://tidbits.com/2025/10/09/how-to-turn-liquid-glass-into-a-solid-interface/",
+    "publishedAt": "2025-10-14T19:27:41.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Preparing for AI's economic impact: exploring policy responses",
+    "source": "Hacker News",
+    "url": "https://www.anthropic.com/research/economic-policy-responses",
+    "publishedAt": "2025-10-14T19:06:27.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "What Americans die from vs. what the news reports on",
+    "source": "Hacker News",
+    "url": "https://ourworldindata.org/does-the-news-reflect-what-we-die-from",
+    "publishedAt": "2025-10-14T18:40:23.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Beliefs that are true for regular software but false when applied to AI",
+    "source": "Hacker News",
+    "url": "https://boydkane.com/essays/boss",
+    "publishedAt": "2025-10-14T18:26:00.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "SmolBSD – build your own minimal BSD system",
+    "source": "Hacker News",
+    "url": "https://smolbsd.org",
+    "publishedAt": "2025-10-14T17:43:33.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "How bad can a $2.97 ADC be?",
+    "source": "Hacker News",
+    "url": "https://excamera.substack.com/p/how-bad-can-a-297-adc-be",
+    "publishedAt": "2025-10-14T17:12:10.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "How AI hears accents: An audible visualization of accent clusters",
+    "source": "Hacker News",
+    "url": "https://accent-explorer.boldvoice.com/",
+    "publishedAt": "2025-10-14T16:07:37.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "A modern approach to preventing CSRF in Go",
+    "source": "Hacker News",
+    "url": "https://www.alexedwards.net/blog/preventing-csrf-in-go",
+    "publishedAt": "2025-10-14T15:34:51.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "DOJ seizes $15B in Bitcoin from 'pig butchering' scam based in Cambodia",
+    "source": "Hacker News",
+    "url": "https://www.cnbc.com/2025/10/14/bitcoin-doj-chen-zhi-pig-butchering-scam.html",
+    "publishedAt": "2025-10-14T15:08:38.000Z",
+    "summary": "https:&#x2F;&#x2F;www.justice.gov&#x2F;opa&#x2F;pr&#x2F;chairman-prince-group-indicte......"
+  },
+  {
+    "title": "Show HN: Metorial (YC F25) – Vercel for MCP",
+    "source": "Hacker News",
+    "url": "https://github.com/metorial/metorial",
+    "publishedAt": "2025-10-14T14:49:56.000Z",
+    "summary": "Hey HN! We&#x27;re Wen and Tobias, and we&#x27;re building Metorial (https:&#x2F;&#x2F;metorial.com), an integration platform that connects AI agents ..."
+  },
+  {
+    "title": "Astronomers 'image' a mysterious dark object in the distant Universe",
+    "source": "Hacker News",
+    "url": "https://www.mpg.de/25518363/1007-asph-astronomers-image-a-mysterious-dark-object-in-the-distant-universe-155031-x",
+    "publishedAt": "2025-10-14T14:45:02.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "ADS-B Exposed",
+    "source": "Hacker News",
+    "url": "https://adsb.exposed/",
+    "publishedAt": "2025-10-14T10:38:48.000Z",
+    "summary": "https:&#x2F;&#x2F;github.com&#x2F;ClickHouse&#x2F;adsb.exposed&#x2F;Show HN: ADS-B visualizer - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=39..."
+  },
+  {
+    "title": "Croc's Remaster Returns This Week With A Free 'Platinum Edition' Update - Nintendo Life",
+    "source": "Nintendo Life",
+    "url": "https://www.nintendolife.com/news/2025/10/crocs-switch-remaster-returns-this-week-with-a-free-platinum-edition-update",
+    "publishedAt": "2025-10-14T01:55:00Z",
+    "summary": "Including achievements and a new name...",
+    "imageUrl": "https://images.nintendolife.com/0eebae3a96543/large.jpg"
+  },
+  {
+    "title": "Pokémon TCG Pocket Announces \"New And Updated\" Features For First Anniversary - Nintendo Life",
+    "source": "Nintendo Life",
+    "url": "https://www.nintendolife.com/news/2025/10/pokemon-tcg-pocket-announces-new-and-updated-features-for-first-anniversary",
+    "publishedAt": "2025-10-14T01:19:11Z",
+    "summary": "Get ready, trainers",
+    "imageUrl": "https://images.nintendolife.com/40eb17ac2e531/large.jpg"
+  },
+  {
+    "title": "Netflix makes a major move to win over subscribers - TheStreet",
+    "source": "TheStreet",
+    "url": "https://www.thestreet.com/entertainment/netflix-makes-a-major-move-to-win-over-subscribers",
+    "publishedAt": "2025-10-13T22:03:00Z",
+    "summary": "Netflix goes beyond streaming to keep customers happy.",
+    "imageUrl": "https://www.thestreet.com/.image/t_share/MjAxNTYzOTAxODI4MDE1NDg5/video-streaming-platforms-stock-photos.jpg"
+  },
+  {
+    "title": "Hackers can steal 2FA codes and private messages from Android phones - Ars Technica",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/security/2025/10/no-fix-yet-for-attack-that-lets-hackers-pluck-2fa-codes-from-android-phones/",
+    "publishedAt": "2025-10-13T21:36:35Z",
+    "summary": "Malicious app required to make “Pixnapping” attack work requires no permissions.",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/008-family-galaxy-s25ultra-titaniumsilverblue-s25plus-navy-s25-icyblue-1152x648.jpg"
+  },
+  {
+    "title": "American Airlines adding Google Wallet support for boarding passes - 9to5Google",
+    "source": "9to5google.com",
+    "url": "http://9to5google.com/2025/10/13/american-airlines-adding-google-wallet-support-for-boarding-passes/",
+    "publishedAt": "2025-10-13T21:30:00Z",
+    "summary": "American Airlines has just announced that it will support Google Wallet with its boarding passes, an overdue addition for the...",
+    "imageUrl": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/10/american-airlines.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+  },
+  {
+    "title": "Microsoft AI announces first image generator created in-house - The Verge",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/news/798923/microsoft-ai-image-generator-in-house",
+    "publishedAt": "2025-10-13T21:24:05Z",
+    "summary": "Microsoft AI announced a new text-to-image generator developed in-house.",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK095_Microsoft_04.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
+    "title": "Google’s Nano Banana AI image editor is coming to search, Photos, and NotebookLM - Ars Technica",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/google/2025/10/googles-nano-banana-ai-image-editor-is-coming-to-search-photos-and-notebooklm/",
+    "publishedAt": "2025-10-13T19:52:23Z",
+    "summary": "After more than 5 billion AI image edits, Nano Banana is expanding.",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/BananaLens-2096x1182.width-2200.format-webp-copy-1152x648.jpg"
+  },
+  {
+    "title": "The Final Mega Randoms - Bespoked Show Dresden 2025 - Pinkbike",
+    "source": "Pinkbike.com",
+    "url": "https://www.pinkbike.com/news/the-final-mega-randoms-bespoked-show-dresden-2025.html",
+    "publishedAt": "2025-10-13T19:00:00Z",
+    "summary": "A final round of the creative bike creations on display in Dresden this year.",
+    "imageUrl": "https://ep1.pinkbike.org/p4pb28877204/p4pb28877204.jpg"
+  },
+  {
+    "title": "Microsoft denies U.S. retailers like Target and Walmart have removed Xbox products from stores - GamesIndustry.biz",
+    "source": "GamesIndustry.biz",
+    "url": "https://www.gamesindustry.biz/microsoft-denies-us-retailers-like-target-and-walmart-have-removed-xbox-products-from-stores",
+    "publishedAt": "2025-10-13T18:47:08Z",
+    "summary": "Microsoft has refuted claims U.S. retailers have withdrawn sales of its Xbox Series X and S consoles, insisting major c…",
+    "imageUrl": "https://assetsio.gnwcdn.com/Xbox-Series-X%7CS.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+  },
+  {
+    "title": "iOS 26.1 beta 3 reveals new third-party AI integrations may be coming soon - 9to5Mac",
+    "source": "9to5Mac",
+    "url": "https://9to5mac.com/2025/10/13/ios-26-1-beta-3-reveals-new-third-party-ai-integrations-may-be-coming-soon/",
+    "publishedAt": "2025-10-13T18:08:00Z",
+    "summary": "Updated code in iOS 26.1 beta 3 reveals Apple is preparing to add at least one new third-party AI integration soon.",
+    "imageUrl": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/apple-intelligence-ios-26-04.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+  },
+  {
+    "title": "Microsoft previews People grouping in OneDrive photos - theregister.com",
+    "source": "Theregister.com",
+    "url": "https://www.theregister.com/2025/10/13/microsoft_face_grouping_ondrive/",
+    "publishedAt": "2025-10-13T17:48:00Z",
+    "summary": ": Then shalt thee change the setting three times, no more!",
+    "imageUrl": "https://regmedia.co.uk/2015/09/02/metal_faces_iron.jpg"
+  },
+  {
+    "title": "Battlefield 6 is already the biggest game of the franchise by Steam concurrent user count - GamesIndustry.biz",
+    "source": "GamesIndustry.biz",
+    "url": "https://www.gamesindustry.biz/battlefield-6-is-already-the-biggest-game-of-the-franchise-by-steam-concurrent-user-count",
+    "publishedAt": "2025-10-13T17:44:28Z",
+    "summary": "Battlefield 6 is the franchise's biggest ever game on Steam, clocking up over 700,000 concurrent players within 24 hour…",
+    "imageUrl": "https://assetsio.gnwcdn.com/2_HWFI6zJ.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+  },
+  {
+    "title": "Community: 32 Switch Games We Missed, As Recommended By You - Nintendo Life",
+    "source": "Nintendo Life",
+    "url": "https://www.nintendolife.com/guides/community-32-switch-games-we-missed-as-recommended-by-you",
+    "publishedAt": "2025-10-13T17:19:34Z",
+    "summary": "Part 11 - Playing catch-up",
+    "imageUrl": "https://images.nintendolife.com/aed6249d648a4/large.jpg"
+  },
+  {
+    "title": "Your Pokémon Go level is about to go up - Polygon",
+    "source": "Polygon",
+    "url": "https://www.polygon.com/pokmon-go-new-level-cap-changes-rewards-daily-adventure-egg/",
+    "publishedAt": "2025-10-13T17:00:00Z",
+    "summary": "Niantic rebalances Pokémon Go's leveling system, raising the max level cap from 50 to 80. Read what's changing and how much XP you'll need to hit 80.",
+    "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/10/pokemon-go-leveling-2025-update.jpg?w=1600&h=900&fit=crop"
+  },
+  {
+    "title": "[Updated 10/13] Midnight Prologue: \"The Warning\" Content Update and Housing Early Access - Blizzard News",
+    "source": "Blizzard.com",
+    "url": "https://news.blizzard.com/en-us/article/24241096/updated-10-13-midnight-prologue-the-warning-content-update-and-housing-early-access",
+    "publishedAt": "2025-10-13T16:57:00Z",
+    "summary": "With the Ghosts of K’aresh behind us, Azeroth stands on the precipice of a future overshadowed by Xal’atath and the relentless advance of the Void. In The Warning, the stage is set for what comes next before continuing the story in the Midnight expansion. Pla…",
+    "imageUrl": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/hk/HK3BNKK5YV2K1759970928084.png"
+  },
+  {
+    "title": "RoadCraft sibling Docked's Steam Next Fest demo is aimed at folks who're deeply moved by container movement - Rock Paper Shotgun",
+    "source": "Rock Paper Shotgun",
+    "url": "https://www.rockpapershotgun.com/roadcraft-sibling-dockeds-steam-next-fest-demo-is-aimed-at-folks-whore-deeply-moved-by-container-movement",
+    "publishedAt": "2025-10-13T15:48:34Z",
+    "summary": "Docked, a port operation simulator from Saber, has a demo out in the latest Steam Next Fest.",
+    "imageUrl": "https://assetsio.gnwcdn.com/docked-steam-next-fest-demo-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+  },
+  {
+    "title": "Gemini overlay rolls out Summarize page shortcut in Chrome for Android - 9to5Google",
+    "source": "9to5google.com",
+    "url": "http://9to5google.com/2025/10/13/gemini-summarize-page-chrome-android/",
+    "publishedAt": "2025-10-13T15:37:00Z",
+    "summary": "As previewed last month, activating the Gemini overlay in Chrome for Android now lets you quickly Summarize pages.",
+    "imageUrl": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/10/Ask-Gemini-Prompt-Pixel-10-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+  },
+  {
+    "title": "Even 'Incompatible' Windows 10 PCs Can Get Windows 11 for Free. Here's How - CNET",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/computing/incompatible-windows-10-pcs-can-get-windows-11-for-free-heres-how/",
+    "publishedAt": "2025-10-13T15:37:00Z",
+    "summary": "Your Windows 10 laptop or desktop might not meet the requirements for upgrading to Windows 11, but you can still do it, and it likely won't cost anything.",
+    "imageUrl": "https://www.cnet.com/a/img/resize/443b8f3c2e53fb604dcb9fc2e7b4e8125b7c87b8/hub/2025/10/12/a0ad46e3-d9d5-4dea-a190-3c0c90476a47/gettyimages-1238265331.jpg?auto=webp&fit=crop&height=675&width=1200"
+  },
+  {
+    "title": "The Copper Cape Quest is almost over - Minecraft",
+    "source": "Minecraft.net",
+    "url": "https://www.minecraft.net/en-us/article/the-copper-cape-quest-is-almost-over",
+    "publishedAt": "2025-10-13T15:03:15Z",
+    "summary": "The Copper Cape is a majestic piece of clothing, and this whole Copper Cape Quest is almost over, hopefully resulting in you having earned a brand-new cape!",
+    "imageUrl": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/key-art/MCV_CopperCapeQuest_editorial_challenge03_1170x500.jpg"
+  },
+  {
+    "title": "Rumor: PS6 and Next-Gen Xbox Aiming to Launch in 2027 - VGChartz",
+    "source": "Vgchartz.com",
+    "url": "https://www.vgchartz.com/article/465989/rumor-ps6-and-next-gen-xbox-aiming-to-launch-in-2027/",
+    "publishedAt": "2025-10-13T14:52:46Z",
+    "summary": "Sony and Microsoft are currently aiming to launch the PlayStation 6 and next-generation Xbox in 2027, according to [...]",
+    "imageUrl": "https://www.vgchartz.com/articles_media/images/rumor-ps6-and-next-gen-xbox-aiming-to-launch-in-2027-509368_condensed.jpg"
+  },
+  {
+    "title": "No, commuters of Bus Bound's Steam Next Fest demo, I will not stop publicly transporting you to the scene of accidents - Rock Paper Shotgun",
+    "source": "Rock Paper Shotgun",
+    "url": "https://www.rockpapershotgun.com/no-commuters-of-bus-bounds-steam-next-fest-demo-i-will-not-stop-publicly-transporting-you-to-the-scene-of-accidents",
+    "publishedAt": "2025-10-13T14:28:00Z",
+    "summary": "Bus Bound, stillalive studios' latest work of bus simulation has a demo out in the latest Steam Next Fest.",
+    "imageUrl": "https://assetsio.gnwcdn.com/busbound-steam-next-fest-demo-out-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+  },
+  {
+    "title": "The last time Destiny 2's player numbers looked this bad, Bungie was one month away from \"shutting up shop\" - so is this, finally, the end? - Eurogamer",
+    "source": "Eurogamer.net",
+    "url": "https://www.eurogamer.net/is-this-the-beginning-of-the-end-for-destiny-2",
+    "publishedAt": "2025-10-13T14:17:48Z",
+    "summary": "Things aren't looking so good for the 'forever game' whose story kicked off over a decade ago",
+    "imageUrl": "https://assetsio.gnwcdn.com/destiny-down.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+  },
+  {
+    "title": "Forget Amazon Fire TV Stick, Flixy TV Stick Gives You Limitless Streaming at 75% Off - Gizmodo",
+    "source": "Gizmodo.com",
+    "url": "https://gizmodo.com/forget-amazon-fire-tv-stick-flixy-tv-stick-gives-you-limitless-streaming-at-75-off-2000671726",
+    "publishedAt": "2025-10-13T13:54:44Z",
+    "summary": "Plus, you can use the companion app as a second screen for your Flixy TV Stick.",
+    "imageUrl": "https://gizmodo.com/app/uploads/2025/10/Flixy-1200x675.jpg"
+  },
+  {
+    "title": "‘Fortnite’ Leak Reveals Release Dates For Fortnitemares’ Final Skins - Forbes",
+    "source": "Forbes",
+    "url": "https://www.forbes.com/sites/paultassi/2025/10/13/fortnite-leak-reveals-release-dates-for-fortnitemares-final-skins/",
+    "publishedAt": "2025-10-13T13:45:41Z",
+    "summary": "When will REPO, Terrifier's Art the Clown and Wednesday Addams hit Fortnite? We have two confirmations and one estimation that is almost certainly correct.",
+    "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/68ed0215d506631f339b728d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+  },
+  {
+    "title": "Little Nightmares 3's hardest achievement is also super vague - TrueAchievements",
+    "source": "TrueAchievements",
+    "url": "https://www.trueachievements.com/news/little-nightmares-3-hand-eye-coordination-achievement",
+    "publishedAt": "2025-10-13T12:52:55Z",
+    "summary": "Little Nightmares 3's hardest achievement, \"Hand-Eye Coordination,\" has a super vague description, but unlocking it is actually fairly straightforward.",
+    "imageUrl": "https://www.trueachievements.com/imgs/165110/little-nightmares-3.jpg"
+  },
+  {
+    "title": "Xbox 'Free Store Credit' Available To Grab For Limited Time - GAMINGbible",
+    "source": "Gamingbible.com",
+    "url": "https://www.gamingbible.com/news/platform/xbox/xbox-free-store-credit-available-limited-time-327959-20251013",
+    "publishedAt": "2025-10-13T12:30:00Z",
+    "summary": "Claim free Xbox store credit for a limited time",
+    "imageUrl": "https://images.ladbible.com/ogimage/v3/assets/bltbc1876152fcd9f07/blt234bf3a74c4993b4/68ecd131467ac804abe05b99/xbox_free_credit_13102025.png"
+  },
+  {
+    "title": "Wi-Fi 8 demonstrated with first prototype connection - The Verge",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/news/798780/wi-fi-8-prototype-tp-link-test-explained",
+    "publishedAt": "2025-10-13T11:57:45Z",
+    "summary": "TP-Link has successfully tested an early prototype of Wi-Fi 8 hardware, marking a “critical milestone” in its development.",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24957516/236811_WIFI7_CVirginia_1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
+    "title": "Oxford physicists achieve teleportation between two quantum supercomputers - The Brighter Side of News",
+    "source": "Thebrighterside.news",
+    "url": "https://www.thebrighterside.news/post/oxford-physicists-achieve-teleportation-between-two-quantum-supercomputers/#article",
+    "publishedAt": "2025-10-13T11:51:00Z",
+    "summary": "Oxford physicists link two quantum computers with light, paving the way for scalable distributed quantum computing.",
+    "imageUrl": "https://www.thebrighterside.news/uploads/2025/10/quantum-5.jpg?auto=webp"
+  },
+  {
+    "title": "Printing Petscii Faster",
+    "source": "Hacker News",
+    "url": "https://retrogamecoders.com/printing-petscii-faster/",
+    "publishedAt": "2025-10-10T22:20:57.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Beating the L1 cache with value speculation (2021)",
+    "source": "Hacker News",
+    "url": "https://mazzo.li/posts/value-speculation.html",
+    "publishedAt": "2025-10-10T21:54:43.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Interviewing Intel's Chief Architect of x86 Cores",
+    "source": "Hacker News",
+    "url": "https://chipsandcheese.com/p/interviewing-intels-chief-architect",
+    "publishedAt": "2025-10-09T16:00:03.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Python's splitlines does more than just newlines",
+    "source": "Hacker News",
+    "url": "https://yossarian.net/til/post/python-s-splitlines-does-a-lot-more-than-just-newlines/",
+    "publishedAt": "2025-10-08T20:47:20.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Hacking the Humane AI Pin",
+    "source": "Hacker News",
+    "url": "https://writings.agg.im/posts/hacking_ai_pin/",
+    "publishedAt": "2025-10-08T13:24:53.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "CSS for Styling a Markdown Post",
+    "source": "Hacker News",
+    "url": "https://webdev.bryanhogan.com/miscellaneous/styling-markdown/",
+    "publishedAt": "2025-10-07T16:05:01.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Show HN: Greenonion.ai – AI-Powered Design Assistant",
+    "source": "Hacker News",
+    "url": "https://exuberant-premise-723012.framer.app/",
+    "publishedAt": "2025-10-07T08:04:49.000Z",
+    "summary": "Hi HNI’m excited to launch GreenOnion.ai\n — a platform that helps anyone create beautiful, editable design layouts instantly using AI.A lot of “AI des..."
+  },
+  {
+    "title": "A 12,000-year-old obelisk with a human face was found in Karahan Tepe",
+    "source": "Hacker News",
+    "url": "https://www.trthaber.com/foto-galeri/karahantepede-12-bin-yil-oncesine-ait-insan-yuzlu-dikili-tas-bulundu/73912.html",
+    "publishedAt": "2025-10-07T02:43:03.000Z",
+    "summary": "No description available"
+  }
+]

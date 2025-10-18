@@ -1,0 +1,412 @@
+[
+  {
+    "title": "New coding models and integrations",
+    "source": "Hacker News",
+    "url": "https://ollama.com/blog/coding-models",
+    "publishedAt": "2025-10-16T05:46:50.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "TurboTax's 20-year fight to stop Americans from filing their taxes for free (2019)",
+    "source": "Hacker News",
+    "url": "https://www.propublica.org/article/inside-turbotax-20-year-fight-to-stop-americans-from-filing-their-taxes-for-free",
+    "publishedAt": "2025-10-16T05:31:31.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "What Does George Orwell's '1984' Mean in 2024?",
+    "source": "Hacker News",
+    "url": "https://www.smithsonianmag.com/history/what-does-george-orwells-1984-mean-in-2024-180984468/",
+    "publishedAt": "2025-10-16T04:45:02.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "TaxCalcBench: Evaluating Frontier Models on the Tax Calculation Task",
+    "source": "Hacker News",
+    "url": "https://arxiv.org/abs/2507.16126",
+    "publishedAt": "2025-10-16T03:45:39.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Free applicatives, the handle pattern, and remote systems",
+    "source": "Hacker News",
+    "url": "https://exploring-better-ways.bellroy.com/free-applicatives-the-handle-pattern-and-remote-systems.html",
+    "publishedAt": "2025-10-16T03:33:35.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "We're losing the war against drug-resistant infections faster than we thought",
+    "source": "Hacker News",
+    "url": "https://www.npr.org/sections/goats-and-soda/2025/10/15/g-s1-93449/antibiotic-resistance-bacteria",
+    "publishedAt": "2025-10-16T02:06:17.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "New Alzheimer's Treatment Clears Plaques from Brains of Mice Within Hours",
+    "source": "Hacker News",
+    "url": "https://www.sciencealert.com/new-alzheimers-treatment-clears-plaques-from-brains-of-mice-within-hours",
+    "publishedAt": "2025-10-16T01:42:22.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Retiring Windows 10 and Microsoft's move towards a surveillance state",
+    "source": "Hacker News",
+    "url": "https://www.scottrlarson.com/publications/publication-windows-move-towards-surveillance/",
+    "publishedAt": "2025-10-16T01:00:17.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Who's Submitting AI-Tainted Filings in Court?",
+    "source": "Hacker News",
+    "url": "https://cyberlaw.stanford.edu/whos-submitting-ai-tainted-filings-in-court/",
+    "publishedAt": "2025-10-16T00:50:56.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Writing an LLM from scratch, part 22 – training our LLM",
+    "source": "Hacker News",
+    "url": "https://www.gilesthomas.com/2025/10/llm-from-scratch-22-finally-training-our-llm",
+    "publishedAt": "2025-10-15T23:42:12.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "IRS open sources its fact graph",
+    "source": "Hacker News",
+    "url": "https://github.com/IRS-Public/fact-graph",
+    "publishedAt": "2025-10-15T23:24:47.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "ImapGoose",
+    "source": "Hacker News",
+    "url": "https://whynothugo.nl/journal/2025/10/15/introducing-imapgoose/",
+    "publishedAt": "2025-10-15T22:28:55.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Next Steps for the Caddy Project Maintainership",
+    "source": "Hacker News",
+    "url": "https://caddy.community/t/next-steps-for-the-caddy-project-maintainership/33076",
+    "publishedAt": "2025-10-15T21:32:19.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "A Gemma model helped discover a new potential cancer therapy pathway",
+    "source": "Hacker News",
+    "url": "https://blog.google/technology/ai/google-gemma-ai-cancer-therapy-discovery/",
+    "publishedAt": "2025-10-15T19:04:07.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Recursive Language Models (RLMs)",
+    "source": "Hacker News",
+    "url": "https://alexzhang13.github.io/blog/2025/rlm/",
+    "publishedAt": "2025-10-15T17:43:27.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Are hard drives getting better?",
+    "source": "Hacker News",
+    "url": "https://www.backblaze.com/blog/are-hard-drives-getting-better-lets-revisit-the-bathtub-curve/",
+    "publishedAt": "2025-10-15T17:18:13.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Claude Haiku 4.5",
+    "source": "Hacker News",
+    "url": "https://www.anthropic.com/news/claude-haiku-4-5",
+    "publishedAt": "2025-10-15T16:55:06.000Z",
+    "summary": "System card: https:&#x2F;&#x2F;assets.anthropic.com&#x2F;m&#x2F;99128ddd009bdcb&#x2F;original&#x2F;Clau......"
+  },
+  {
+    "title": "Zed is now available on Windows",
+    "source": "Hacker News",
+    "url": "https://zed.dev/blog/zed-for-windows-is-here",
+    "publishedAt": "2025-10-15T16:24:29.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Recreating the Canon Cat document interface",
+    "source": "Hacker News",
+    "url": "https://lab.alexanderobenauer.com/updates/the-jasper-report",
+    "publishedAt": "2025-10-15T14:42:14.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "A kernel stack use-after-free: Exploiting Nvidia's GPU Linux drivers",
+    "source": "Hacker News",
+    "url": "https://blog.quarkslab.com/./nvidia_gpu_kernel_vmalloc_exploit.html",
+    "publishedAt": "2025-10-15T13:52:15.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Pwning the Nix ecosystem",
+    "source": "Hacker News",
+    "url": "https://ptrpa.ws/nixpkgs-actions-abuse",
+    "publishedAt": "2025-10-15T13:41:44.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "F5 says hackers stole undisclosed BIG-IP flaws, source code",
+    "source": "Hacker News",
+    "url": "https://www.bleepingcomputer.com/news/security/f5-says-hackers-stole-undisclosed-big-ip-flaws-source-code/",
+    "publishedAt": "2025-10-15T13:33:27.000Z",
+    "summary": "https:&#x2F;&#x2F;www.sec.gov&#x2F;ix?doc=&#x2F;Archives&#x2F;edgar&#x2F;data&#x2F;1048695&#x2F;0001......"
+  },
+  {
+    "title": "Apple M5 chip",
+    "source": "Hacker News",
+    "url": "https://www.apple.com/newsroom/2025/10/apple-unleashes-m5-the-next-big-leap-in-ai-performance-for-apple-silicon/",
+    "publishedAt": "2025-10-15T13:02:53.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Show HN: Halloy – Modern IRC client",
+    "source": "Hacker News",
+    "url": "https://github.com/squidowl/halloy",
+    "publishedAt": "2025-10-15T11:45:47.000Z",
+    "summary": "I started working on Halloy back in 2022, with the goal of giving something back to the community I’ve been a part of for the past two decades. I want..."
+  },
+  {
+    "title": "Leaving serverless led to performance improvement and a simplified architecture",
+    "source": "Hacker News",
+    "url": "https://www.unkey.com/blog/serverless-exit",
+    "publishedAt": "2025-10-15T11:20:35.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Apple SVP On Why They Dropped The \"Plus\" From Apple TV & Hints At Subscriber Numbers - Deadline",
+    "source": "Deadline",
+    "url": "http://deadline.com/2025/10/apple-svp-drop-plus-apple-tv-rebrand-logo-1236585098/",
+    "publishedAt": "2025-10-15T00:30:00Z",
+    "summary": "Eddy Cue, Senior Vice President of Services at Apple, is giving insight into the rebrand of Apple TV+ into simply Apple TV.",
+    "imageUrl": "https://deadline.com/wp-content/uploads/2025/10/apple-tv-logo.jpg?w=1024"
+  },
+  {
+    "title": "Samsung officially teases Moohan headset launch for next week - The Verge",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/news/799607/samsung-galaxy-event-project-moohan-android-xr-event-date-worlds-wide-open",
+    "publishedAt": "2025-10-14T23:00:51Z",
+    "summary": "Samsung is finally about to reveal more details about its Project Moohan mixed reality headset at a new “Worlds Wide Open” Galaxy event on October 21st.",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/image002.jpg?quality=90&strip=all&crop=0%2C3.4846106844621%2C100%2C93.030778631076&w=1200"
+  },
+  {
+    "title": "Pixel 10 Pro Fold bends and breaks in durability test, just like its predecessors - 9to5Google",
+    "source": "9to5google.com",
+    "url": "http://9to5google.com/2025/10/14/pixel-10-pro-fold-durability-test/",
+    "publishedAt": "2025-10-14T20:59:00Z",
+    "summary": "The Pixel 10 Pro Fold is supposed to have a stronger hinge and be rated for IP68 water and dust...",
+    "imageUrl": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/10/Pixel-10-Pro-Fold-Durability-Test.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+  },
+  {
+    "title": "Exclusive: Inaudible sound might be the next frontier in wildfire defense - TechCrunch",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2025/10/14/inaudible-sound-might-be-the-next-frontier-in-wildfire-defense/",
+    "publishedAt": "2025-10-14T19:54:34Z",
+    "summary": "Sonic Fire Tech has developed a device that can extinguish flames using acoustic energy below the range of human hearing. The startup is building a demo capable of protecting a home.",
+    "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2192375010.jpg?resize=1200,800"
+  },
+  {
+    "title": "New powerful M5 MacBook Pro teased by Greg Joswiak - AppleInsider",
+    "source": "AppleInsider",
+    "url": "https://appleinsider.com/articles/25/10/14/new-powerful-m5-macbook-pro-teased-by-greg-joswiak",
+    "publishedAt": "2025-10-14T19:20:00Z",
+    "summary": "A new MacBook Pro is \"coming soon,\" according to a social media post by Greg \"Joz\" Joswiak on Tuesday.",
+    "imageUrl": "https://photos5.appleinsider.com/gallery/65407-136815-img_2983-xl.jpg"
+  },
+  {
+    "title": "Microsoft October 2025 Patch Tuesday fixes 6 zero-days, 172 flaws - BleepingComputer",
+    "source": "BleepingComputer",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-2025-patch-tuesday-fixes-6-zero-days-172-flaws/",
+    "publishedAt": "2025-10-14T18:02:50Z",
+    "summary": "Today is Microsoft's October 2025 Patch Tuesday, which includes security updates for 172 flaws, including six zero-day vulnerabilities. Get patching!",
+    "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/10/08/patch_tuesday_microsoft.jpg"
+  },
+  {
+    "title": "Battlefield 6 is a smash-hit launch: 6.5m+ sold and counting - Substack",
+    "source": "Substack.com",
+    "url": "https://alineaanalytics.substack.com/p/battlefield-6-is-a-smash-hit-launch",
+    "publishedAt": "2025-10-14T18:01:00Z",
+    "summary": "A BIG data deep dive into the triumphant return of the Battlefield franchise. But can EA keep up the momentum?",
+    "imageUrl": "https://substackcdn.com/image/fetch/$s_!Pejm!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5382de4e-65bf-4277-ba3f-3cad9a08d302_1920x1080.png"
+  },
+  {
+    "title": "Borderlands 4 Discounted A Month After Launch Despite Boss' Warning - Kotaku",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/borderlands-4-sale-discount-everwild-leak-helldivers-performance-2000635349",
+    "publishedAt": "2025-10-14T17:24:21Z",
+    "summary": "Also: Helldivers hiatus, Sucker Punch's future, and more veteran developer departures",
+    "imageUrl": "https://kotaku.com/app/uploads/2025/10/borderlands-4-photo-1-1200x675.jpg"
+  },
+  {
+    "title": "Apple releases iPadOS 26.1 public beta 3 and more, here’s what’s new - 9to5Mac",
+    "source": "9to5Mac",
+    "url": "https://9to5mac.com/2025/10/14/apple-releases-ipados-26-1-public-beta-3-and-more-heres-whats-new/",
+    "publishedAt": "2025-10-14T17:17:00Z",
+    "summary": "Public beta 3 is here for iPadOS 26.1 and more. Here’s what’s new in Apple’s just-released wave of new beta...",
+    "imageUrl": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/iPadOS-26.1-public-beta.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+  },
+  {
+    "title": "Nvidia sells tiny new computer that puts big AI on your desktop - Ars Technica",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/ai/2025/10/nvidia-sells-tiny-new-computer-that-puts-big-ai-on-your-desktop/",
+    "publishedAt": "2025-10-14T16:58:21Z",
+    "summary": "The 1 petaflop DGX Spark system runs AI models with 200 billion parameters locally for $4K.",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/dgx_spark-1152x648.jpg"
+  },
+  {
+    "title": "Your Nest Learning Thermostat is no longer a bland circle - Android Central",
+    "source": "Android Central",
+    "url": "https://www.androidcentral.com/accessories/smart-home/google-nest-thermostats-get-a-visual-overhaul-with-new-animated-faces",
+    "publishedAt": "2025-10-14T16:41:00Z",
+    "summary": "Meet the new Farsight faces.",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/uxuyBUSfwF6bNdVougL4km-2500-80.jpg"
+  },
+  {
+    "title": "You can test Microsoft's new in-house AI image generator model now - here's how - ZDNET",
+    "source": "ZDNet",
+    "url": "https://www.zdnet.com/article/you-can-test-microsofts-new-in-house-ai-image-generator-model-now-heres-how/",
+    "publishedAt": "2025-10-14T15:52:00Z",
+    "summary": "It's already scoring in the top ten at the AI leaderboard LMArena.",
+    "imageUrl": "https://www.zdnet.com/a/img/resize/8270da20b8f878684eb08f59c1f00a0f734bd3fc/2025/10/14/da187e9d-4cb8-4df2-8ad0-6478a492abce/gettyimages-2128592701.jpg?auto=webp&fit=crop&height=675&width=1200"
+  },
+  {
+    "title": "‘Destiny 2’ Reverts Yet Another Hated ‘Edge Of Fate’ Addition - Forbes",
+    "source": "Forbes",
+    "url": "https://www.forbes.com/sites/paultassi/2025/10/14/destiny-2-reverts-yet-another-hated-edge-of-fate-addition/",
+    "publishedAt": "2025-10-14T14:40:46Z",
+    "summary": "Destiny 2 is deleting Unstable Cores, a currency that was a bad idea from the moment The Edge of Fate launched, but it's being changed now.",
+    "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/68ee5fa0c782f38762085f54/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+  },
+  {
+    "title": "Pokémon TCG Pocket updates will soon make completing your collection easier, as mobile game approaches first anniversary - Eurogamer",
+    "source": "Eurogamer.net",
+    "url": "https://www.eurogamer.net/pokemon-tcg-pocket-updates-will-soon-make-completing-your-collection-easier-as-mobile-game-approaches-first-anniversary",
+    "publishedAt": "2025-10-14T14:27:56Z",
+    "summary": "Pokémon TCG Pocket is fast approaching its first anniversary, and to celebrate new updates are on the way that will make it easier to complete your collection.",
+    "imageUrl": "https://assetsio.gnwcdn.com/Pok%C3%A9mon-TCG-Pocket-_-Deluxe-Pack-ex-%E2%9C%A8-0-21-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+  },
+  {
+    "title": "Call of Duty only exists because \"EA were dicks\", claims Battlefield lead Vince Zampella - Eurogamer",
+    "source": "Eurogamer.net",
+    "url": "https://www.eurogamer.net/call-of-duty-only-exists-because-ea-were-dicks-claims-battlefield-lead-vince-zampella",
+    "publishedAt": "2025-10-14T13:50:48Z",
+    "summary": "Call of Duty only exists because \"EA were dicks\", claims Battlefield lead Vince Zampella.",
+    "imageUrl": "https://assetsio.gnwcdn.com/battlefield-6-art.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+  },
+  {
+    "title": "Pokémon Legends Z-A Mega Starters Leaked: Stats and New Mega Evolutions Revealed - VICE",
+    "source": "Vice News",
+    "url": "http://www.vice.com/en/article/pokemon-legends-z-a-mega-starters-leaked-stats-and-new-mega-evolutions-revealed/",
+    "publishedAt": "2025-10-14T12:39:07Z",
+    "summary": "The Pokémon Legends Z-A Mega Starters have leaked ahead of launch. Here is are the PLZA Starters new Mega Evolutions and stats.",
+    "imageUrl": "https://www.vice.com/wp-content/uploads/sites/2/2025/10/Pokemon-Legends-Z-A-Mega-Starters-Leaked-Stats-and-New-Mega-Evolutions-Revealed.jpg?resize=2000,1028"
+  },
+  {
+    "title": "Square Enix Announces Dissidia Duellum Final Fantasy Mobile Game - Anime News Network",
+    "source": "Anime News Network",
+    "url": "https://www.animenewsnetwork.com/news/2025-10-14/square-enix-announces-dissidia-duellum-final-fantasy-mobile-game/.229917",
+    "publishedAt": "2025-10-14T12:28:11Z",
+    "summary": "No description available",
+    "imageUrl": null
+  },
+  {
+    "title": "New Pixnapping Android Flaw Lets Rogue Apps Steal 2FA Codes Without Permissions - The Hacker News",
+    "source": "Internet",
+    "url": "https://thehackernews.com/2025/10/new-pixnapping-android-flaw-lets-rogue.html",
+    "publishedAt": "2025-10-14T11:18:00Z",
+    "summary": "Pixnapping side-channel can steal 2FA codes pixel-by-pixel on Android 13–16; CVE-2025-48561 patched Sept 2025 but workaround exists.",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5bfM1yEcw7WZjx2RKEktuieKPwlv2Gh_rraTzrK0iBYOD-OM6VBRfDT-oHF_gTv5ymkrZP7lkdsvLIJnSK_btwdFQttvQvCcBkVXZpD69epbk6n3sxOPbnCTOfQque59TqfdRrRdN4F_MCrIw5TR_r5kqWHjLm-_oL1Kd05Y6CEz-H61ebIZvXJAB1kzG/s790-rw-e365/android-opt.jpg"
+  },
+  {
+    "title": "Pokémon Go Leak Reveals XP and Level Up Tasks Needed for Game's New Level 80 Cap — And Some Fans Are Saying it's Too Easy - IGN",
+    "source": "IGN",
+    "url": "https://www.ign.com/articles/pokmon-go-leak-reveals-xp-and-level-up-tasks-needed-for-games-new-level-80-cap-and-some-fans-are-saying-its-too-easy",
+    "publishedAt": "2025-10-14T10:51:09Z",
+    "summary": "Pokémon Go's new level cap requirements have leaked, and some fans say the fresh XP total required, as well as the some of the extra tasks involved, are too easy.",
+    "imageUrl": "https://assets-prd.ignimgs.com/2025/10/14/unnamed-1760437020837.jpg?width=1280&format=jpg&auto=webp&quality=80"
+  },
+  {
+    "title": "One UI 8.5 may offer longer battery life by limiting network usage - SamMobile",
+    "source": "SamMobile",
+    "url": "https://www.sammobile.com/news/one-ui-8-5-may-offer-longer-battery-life-by-limiting-network-usage/",
+    "publishedAt": "2025-10-14T09:27:00Z",
+    "summary": "Samsung’s next Android customisation for Galaxy phones and tablets, One UI 8.5, was expected to be a minor update. However, as we are digging deeper into the leaked One UI 8.5 firmware for the Galaxy S25 Ultra, it is turning out to be a major one, with small …",
+    "imageUrl": "https://www.sammobile.com/wp-content/uploads/2025/09/One-UI-8.5-3-1200x675.jpg"
+  },
+  {
+    "title": "Amazon just undercut its own Prime Day deal on Apple's 512GB 13-inch M3 iPad Air, now $220 off - 9to5Toys",
+    "source": "9to5Toys",
+    "url": "http://9to5toys.com/2025/10/14/amazon-just-undercut-its-own-prime-day-deal-on-apples-512gb-13-inch-m3-ipad-air-now-220-off/",
+    "publishedAt": "2025-10-13T22:54:00Z",
+    "summary": "We are still tracking a notable all-time low on the 256GB Wi-Fi + Cell model at $879, or $169 off,...",
+    "imageUrl": "https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2025/03/Apple-iPad-Air-hero-250304_big.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+  },
+  {
+    "title": "PlayStation 6 and Xbox Magnus Specs Rumored to Be Finalized; Leak Suggests Xbox Will Hold Performance Advantage - Wccftech",
+    "source": "Wccftech",
+    "url": "https://wccftech.com/playstation-6-and-xbox-magnus-specs-finalized-xbox-performance-advantage/",
+    "publishedAt": "2025-10-13T22:03:00Z",
+    "summary": "The specs of the PlayStation 6 and Xbox Magnus have reportedly been finalized, and the next-gen Xbox is expected to consistently deliver better performance",
+    "imageUrl": "https://cdn.wccftech.com/wp-content/uploads/2025/10/PlayStation-6.jpg"
+  },
+  {
+    "title": "Microsoft denies U.S. retailers like Target and Walmart have removed Xbox products from stores - GamesIndustry.biz",
+    "source": "GamesIndustry.biz",
+    "url": "https://www.gamesindustry.biz/microsoft-denies-us-retailers-like-target-and-walmart-have-removed-xbox-products-from-stores",
+    "publishedAt": "2025-10-13T18:47:08Z",
+    "summary": "Microsoft has refuted claims U.S. retailers have withdrawn sales of its Xbox Series X and S consoles, insisting major c…",
+    "imageUrl": "https://assetsio.gnwcdn.com/Xbox-Series-X%7CS.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+  },
+  {
+    "title": "[Updated 10/13] Midnight Prologue: \"The Warning\" Content Update and Housing Early Access - Blizzard News",
+    "source": "Blizzard.com",
+    "url": "https://news.blizzard.com/en-us/article/24241096/updated-10-13-midnight-prologue-the-warning-content-update-and-housing-early-access",
+    "publishedAt": "2025-10-13T16:57:00Z",
+    "summary": "With the Ghosts of K’aresh behind us, Azeroth stands on the precipice of a future overshadowed by Xal’atath and the relentless advance of the Void. In The Warning, the stage is set for what comes next before continuing the story in the Midnight expansion. Pla…",
+    "imageUrl": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/hk/HK3BNKK5YV2K1759970928084.png"
+  },
+  {
+    "title": "The Elder Scrolls IV: Oblivion Remastered Physical Edition Now Available - Bethesda.net",
+    "source": "Bethesda.net",
+    "url": "https://bethesda.net/en/article/1mIFZXEeXmNsemXDS03I3t/the-elder-scrolls-iv-oblivion-remastered-physical-edition-now-available",
+    "publishedAt": "2025-10-13T10:13:28Z",
+    "summary": "The Elder Scrolls IV: Oblivion Remastered now has a Physical Deluxe Edition! Explore Cyrodiil like never before in a completely remastered experience from Bethesda Game Studios and their partners at Virtuos Studios.",
+    "imageUrl": "https://images.ctfassets.net/rporu91m20dc/1wGximc864FDh0hPe5mbjI/9039ff982fbf12911290467dcc42d36c/OR_LargeHero_AvailableNow.png?fit=fill&w=1200&h=600"
+  },
+  {
+    "title": "Silver Snoopy Award",
+    "source": "Hacker News",
+    "url": "https://www.nasa.gov/space-flight-awareness/silver-snoopy-award/",
+    "publishedAt": "2025-10-12T12:04:05.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Looking at kmalloc() and the SLUB Memory Allocator (2019)",
+    "source": "Hacker News",
+    "url": "https://ruffell.nz/programming/writeups/2019/02/15/looking-at-kmalloc-and-the-slub-memory-allocator.html",
+    "publishedAt": "2025-10-12T10:59:15.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Functions Are Asymmetric",
+    "source": "Hacker News",
+    "url": "https://www.elbeno.com/blog/?p=1804",
+    "publishedAt": "2025-10-12T07:41:35.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "What is going on with all this radioactive shrimp?",
+    "source": "Hacker News",
+    "url": "https://www.consumerreports.org/health/food-safety/radioactive-shrimp-explained-a5493175857/",
+    "publishedAt": "2025-10-11T04:31:15.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Build a Superscalar 8-Bit CPU (YouTube Playlist) [video]",
+    "source": "Hacker News",
+    "url": "https://www.youtube.com/watch?v=bwjMLyBU4RU&list=PLyR4neQXqQo5nPdEiMbaEJxWiy_UuyNN4&index=1",
+    "publishedAt": "2025-10-10T19:03:20.000Z",
+    "summary": "No description available"
+  }
+]
