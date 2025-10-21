@@ -2,8 +2,8 @@ name: Fetch Latest News
 
 on:
   schedule:
-    # Berjalan setiap 2 jam, tapi akan di-filter berdasarkan logika dinamis
-    - cron: '0 */2 * * *'
+    # Berjalan setiap jam, akan di-filter berdasarkan logika dinamis untuk variasi commit
+    - cron: '0 * * * *'
   workflow_dispatch:
 
 permissions:
