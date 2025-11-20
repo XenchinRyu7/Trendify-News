@@ -1,0 +1,436 @@
+[
+  {
+    "title": "SQLite concurrency and why you should care about it",
+    "source": "Hacker News",
+    "url": "https://jellyfin.org/posts/SQLite-locking/",
+    "publishedAt": "2025-11-01T12:59:03.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Abandonware of the web: do you know that there is an HTML tables API?",
+    "source": "Hacker News",
+    "url": "https://christianheilmann.com/2025/10/08/abandonware-of-the-web-do-you-know-that-there-is-an-html-tables-api/",
+    "publishedAt": "2025-11-01T12:58:21.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": ".arpa, rDNS and a few magical ICMP hacks",
+    "source": "Hacker News",
+    "url": "https://sdomi.pl/weblog/24-arpa-hacks/",
+    "publishedAt": "2025-11-01T10:01:46.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "You Can't Refuse to Be Scanned by ICE's Facial Recognition App, DHS Document Say",
+    "source": "Hacker News",
+    "url": "https://www.404media.co/you-cant-refuse-to-be-scanned-by-ices-facial-recognition-app-dhs-document-says/",
+    "publishedAt": "2025-11-01T08:58:54.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "The profitable startup",
+    "source": "Hacker News",
+    "url": "https://linear.app/now/the-profitable-startup",
+    "publishedAt": "2025-11-01T03:18:04.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Show HN: Strange Attractors",
+    "source": "Hacker News",
+    "url": "https://blog.shashanktomar.com/posts/strange-attractors",
+    "publishedAt": "2025-10-31T23:23:59.000Z",
+    "summary": "I went down the rabbit hole on a side project and ended up building this: Strange Attractors(https:&#x2F;&#x2F;blog.shashanktomar.com&#x2F;posts&#x2F;..."
+  },
+  {
+    "title": "S.A.R.C.A.S.M: Slightly Annoying Rubik's Cube Automatic Solving Machine",
+    "source": "Hacker News",
+    "url": "https://github.com/vindar/SARCASM",
+    "publishedAt": "2025-10-31T23:03:18.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "A theoretical way to circumvent Android developer verification",
+    "source": "Hacker News",
+    "url": "https://enaix.github.io/2025/10/30/developer-verification.html",
+    "publishedAt": "2025-10-31T20:20:42.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Addiction Markets",
+    "source": "Hacker News",
+    "url": "https://www.thebignewsletter.com/p/addiction-markets-abolish-corporate",
+    "publishedAt": "2025-10-31T17:42:55.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Use DuckDB-WASM to query TB of data in browser",
+    "source": "Hacker News",
+    "url": "https://lil.law.harvard.edu/blog/2025/10/24/rethinking-data-discovery-for-libraries-and-digital-humanities/",
+    "publishedAt": "2025-10-31T17:37:15.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Futurelock: A subtle risk in async Rust",
+    "source": "Hacker News",
+    "url": "https://rfd.shared.oxide.computer/rfd/0609",
+    "publishedAt": "2025-10-31T16:49:26.000Z",
+    "summary": "This RFD describes our distillation of a really gnarly issue that we hit in the Oxide control plane.[0]  Not unlike our discovery of the async cancell..."
+  },
+  {
+    "title": "Perfetto: Swiss army knife for Linux client tracing",
+    "source": "Hacker News",
+    "url": "https://lalitm.com/perfetto-swiss-army-knife/",
+    "publishedAt": "2025-10-31T11:54:00.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "“Unexpectedly, a deer briefly entered the family room”: Living with Gemini Home - Ars Technica",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/google/2025/10/unexpectedly-a-deer-briefly-entered-the-family-room-living-with-gemini-home/",
+    "publishedAt": "2025-10-31T11:30:22Z",
+    "summary": "Gemini for Home unleashes gen AI on your Nest camera footage, but it gets a lot wrong.",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/Google-Gemini-Home-2-1152x648.jpg"
+  },
+  {
+    "title": "My Impressions of the MacBook Pro M4",
+    "source": "Hacker News",
+    "url": "https://michael.stapelberg.ch/posts/2025-10-31-macbook-pro-m4-impressions/",
+    "publishedAt": "2025-10-31T10:13:40.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Exclusive | Google’s First AI Ad Avoids the Uncanny Valley by Casting a Turkey - The Wall Street Journal",
+    "source": "The Wall Street Journal",
+    "url": "https://www.wsj.com/articles/googles-first-ai-ad-avoids-the-uncanny-valley-by-casting-a-turkey-dafd3662",
+    "publishedAt": "2025-10-31T10:00:00Z",
+    "summary": "The search giant becomes the biggest name yet to generate an ad entirely with its Veo 3 and other artificial-intelligence tools",
+    "imageUrl": "https://images.wsj.net/im-46521586/social"
+  },
+  {
+    "title": "Google drops a surprise late-October 2025 update for Pixels - Android Police",
+    "source": "Android Police",
+    "url": "https://www.androidpolice.com/google-drops-surprise-late-october-2025-update-pixels/",
+    "publishedAt": "2025-10-31T03:41:00Z",
+    "summary": "And it's all about performance improvements",
+    "imageUrl": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/09/pixel-10-pro-xl-camera-visor-1.JPG?w=1600&h=900&fit=crop"
+  },
+  {
+    "title": "WhatsApp now testing an Apple Watch companion app - 9to5Mac",
+    "source": "9to5Mac",
+    "url": "https://9to5mac.com/2025/10/30/whatsapp-now-testing-an-apple-watch-companion-app/",
+    "publishedAt": "2025-10-31T01:01:00Z",
+    "summary": "Meta has released a WhatsApp TestFlight build with a long-awaited feature for Apple Watch users. Here are the details.",
+    "imageUrl": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/06/WhatsApp-security-concerns-see-app-banned-in-Congress-iMessage-recommended.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+  },
+  {
+    "title": "Myths Programmers Believe about CPU Caches (2018)",
+    "source": "Hacker News",
+    "url": "https://software.rajivprab.com/2018/04/29/myths-programmers-believe-about-cpu-caches/",
+    "publishedAt": "2025-10-31T00:46:56.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Leaker reveals which Pixels are vulnerable to Cellebrite phone hacking",
+    "source": "Hacker News",
+    "url": "https://arstechnica.com/gadgets/2025/10/leaker-reveals-which-pixels-are-vulnerable-to-cellebrite-phone-hacking/",
+    "publishedAt": "2025-10-30T23:12:10.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Tim Cook says more AIs are coming to Apple Intelligence - The Verge",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/news/810735/tim-cook-ai-apple-intelligence-integrations",
+    "publishedAt": "2025-10-30T21:32:44Z",
+    "summary": "Apple CEO Tim Cook hinted at bringing more AI models to the iPhone than just OpenAI with ChatGPT, telling CNBC that “our intention is to integrate with more people over time.”",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/DSC01507.webp?quality=90&strip=all&crop=0%2C11.017233631299%2C100%2C77.965532737402&w=1200"
+  },
+  {
+    "title": "Everything New In The REPO Monster Update - Full Patch Notes - GameSpot",
+    "source": "GameSpot",
+    "url": "https://www.gamespot.com/gallery/everything-new-in-the-repo-monster-update-full-patch-notes/2900-7198/",
+    "publishedAt": "2025-10-30T21:24:31Z",
+    "summary": "The update brings much more than just new enemies.",
+    "imageUrl": "https://www.gamespot.com/a/uploads/screen_kubrick/1814/18142392/4594091-repo1.jpg"
+  },
+  {
+    "title": "New court document reveals payment details between Jon Prosser and Michael Ramacciotti - 9to5Mac",
+    "source": "9to5Mac",
+    "url": "https://9to5mac.com/2025/10/30/court-file-prosser-ramacciotti-payment-details-apple-lawsuit/",
+    "publishedAt": "2025-10-30T20:44:00Z",
+    "summary": "Following a couple of deadline extensions, Michael Ramacciotti’s lawyer sent in his answer to Apple’s complaint in the Jon Prosser case.",
+    "imageUrl": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/06/apple-hacked.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+  },
+  {
+    "title": "Japan Patent Office rejects Nintendo patent for its Pokémon capture mechanic - GamesIndustry.biz",
+    "source": "GamesIndustry.biz",
+    "url": "https://www.gamesindustry.biz/japan-patent-office-rejects-nintendo-patent-for-its-pokemon-capture-mechanic",
+    "publishedAt": "2025-10-30T20:30:11Z",
+    "summary": "Nintendo has been denied a patent application that would've allowed it to own the mechanic of capturing a character or …",
+    "imageUrl": "https://assetsio.gnwcdn.com/Pokemon_SV_Screenshot_9.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+  },
+  {
+    "title": "Leaker reveals which Pixels are vulnerable to Cellebrite phone hacking - Ars Technica",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/gadgets/2025/10/leaker-reveals-which-pixels-are-vulnerable-to-cellebrite-phone-hacking/",
+    "publishedAt": "2025-10-30T20:29:43Z",
+    "summary": "Cellebrite can apparently extract data from most Pixel phones, unless they’re running GrapheneOS.",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/Google-Pixel-10-18-1152x648.jpg"
+  },
+  {
+    "title": "Affinity’s image-editing apps go “freemium” in first major post-Canva update - Ars Technica",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/gadgets/2025/10/canvas-new-affinity-app-is-free-to-use-but-locks-ai-features-behind-a-subscription/",
+    "publishedAt": "2025-10-30T20:05:50Z",
+    "summary": "Updated app is “free forever,” but won’t get a perpetually licensed version.",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/Screenshot-2025-10-30-at-3.30.39-PM-1152x648-1761852764.jpeg"
+  },
+  {
+    "title": "Dragon Quest I & II HD-2D Remake Gets Day One Update, Here Are The Full Patch Notes - Nintendo Life",
+    "source": "Nintendo Life",
+    "url": "https://www.nintendolife.com/news/2025/10/dragon-quest-i-and-ii-hd-2d-remake-gets-day-one-update-here-are-the-full-patch-notes",
+    "publishedAt": "2025-10-30T19:31:44Z",
+    "summary": "Out today on Switch and Switch 2",
+    "imageUrl": "https://images.nintendolife.com/c9b2ee915f944/large.jpg"
+  },
+  {
+    "title": "I Didn’t Expect to Like Nike’s Wildly Futuristic Robotic Shoes. Then I Tried Them - Gear Patrol",
+    "source": "Gear Patrol",
+    "url": "https://www.gearpatrol.com/outdoors/nike-project-amplify-robotic-shoes-testing/",
+    "publishedAt": "2025-10-30T19:29:35Z",
+    "summary": "Unlike a super shoe, Project Amplify isn't about making people quicker. But I'll be damned if it isn't fun to run fast.",
+    "imageUrl": "https://www.gearpatrol.com/wp-content/uploads/sites/2/2025/10/nike-project-amplify-gear-patrol-1_19e848.webp"
+  },
+  {
+    "title": "It's Time For Smash Bros. Ultimate's Switch 2 Upgrade - GameSpot",
+    "source": "GameSpot",
+    "url": "https://www.gamespot.com/gallery/its-time-for-smash-bros-ultimates-switch-2-upgrade/2900-7197/",
+    "publishedAt": "2025-10-30T18:33:29Z",
+    "summary": "There's only one Nintendo franchise in the top sellers that hasn't seen a proper Switch 2 improvement.",
+    "imageUrl": "https://www.gamespot.com/a/uploads/screen_kubrick/3/37852/4594000-header.jpg"
+  },
+  {
+    "title": "How We Found 7 TiB of Memory Just Sitting Around",
+    "source": "Hacker News",
+    "url": "https://render.com/blog/how-we-found-7-tib-of-memory-just-sitting-around",
+    "publishedAt": "2025-10-30T18:25:05.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Windows 11’s Vision Pro-like remote desktop is now widely available on Quest 3 - The Verge",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/news/810576/microsoft-windows-11-mixed-reality-link-meta-quest-3-vr",
+    "publishedAt": "2025-10-30T18:19:40Z",
+    "summary": "Microsoft is widely launching its remote desktop experience across Meta’s Quest 3 and 3S headsets, allowing you to interact with multiple high-resolution monitors in mixed reality.",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/windows-multiple-monitors-vr.png?quality=90&strip=all&crop=0,3.4613147178592,100,93.077370564282"
+  },
+  {
+    "title": "Android 17 could bring full-screen apps to your phone’s always-on display - Android Authority",
+    "source": "Android Authority",
+    "url": "https://www.androidauthority.com/android-17-aod-min-mode-rumor-3611806/",
+    "publishedAt": "2025-10-30T18:07:22Z",
+    "summary": "Android 17 may introduce a new feature called Min Mode that'll let Google Maps show turn-by-turn navigation on your phone's AOD. Here's how.",
+    "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2025/10/Photo-of-Google-Maps-power-saving-mode-on-a-Pixel-phone-scaled.jpg"
+  },
+  {
+    "title": "Disney+ gets HDR10+ via “over 1,000” Hulu titles - Ars Technica",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/gadgets/2025/10/disney-gets-hdr10-through-over-1000-hulu-titles/",
+    "publishedAt": "2025-10-30T17:28:38Z",
+    "summary": "Disney+ joins Netflix, Apple TV in supporting the Dolby Vision rival.",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/fc3d1e70-19cf-4cfa-bb07-bd6439b3df66_1761249301-1152x648-1761844035.jpg"
+  },
+  {
+    "title": "AMD confirms focus shifts to RDNA3 and RDNA4, RX 6000 and RX 5000 lose day 1 game optimizations - VideoCardz.com",
+    "source": "Videocardz.com",
+    "url": "https://videocardz.com/newz/amd-confirms-focus-shifts-to-rdna3-and-rdna4-rx-6000-and-rx-5000-lose-day-1-game-optimizations",
+    "publishedAt": "2025-10-30T17:24:00Z",
+    "summary": "Goodbye Radeon RX 6000/5000? AMD launched the Radeon RX 5000 series in 2019 and continued releasing new models the following year. The RX 6000 series, which arrived during the peak of GPU shortages caused by the pandemic and cryptocurrency boom, received upda…",
+    "imageUrl": "https://cdn.videocardz.com/1/2025/10/AMD-RDNA2-LEGACY-HERO.jpg"
+  },
+  {
+    "title": "Amazon has reportedly canceled its LOTR MMO - The Verge",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/news/810383/amazon-lotr-mmo-embracer-canceled-layoffs",
+    "publishedAt": "2025-10-30T17:19:38Z",
+    "summary": "Amazon appears to have canceled its Lord of the Rings MMO that it was developing with Embracer. It was the company’s second run at an LOTR MMO.",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/90.jpeg?quality=90&strip=all&crop=0,8.2843009449451,100,83.43139811011"
+  },
+  {
+    "title": "Google Maps prepares black & white ‘Power saving mode’ on Android [Gallery] - 9to5Google",
+    "source": "9to5google.com",
+    "url": "http://9to5google.com/2025/10/30/google-maps-power-saving-mode-prep/",
+    "publishedAt": "2025-10-30T16:05:00Z",
+    "summary": "Google Maps is preparing a new “Power saving mode” behind the scenes on its Android app, which does away with...",
+    "imageUrl": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/10/google-maps-power-saving-mode-prep-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+  },
+  {
+    "title": "Free Play Days – Call of Duty Black Ops 6 (MP & Zombies), Dragon Ball Xenoverse 2, Dead by Daylight, CATAN, and More - Xbox Wire",
+    "source": "Xbox.com",
+    "url": "https://news.xbox.com/en-us/2025/10/30/free-play-days-10-30-2025/",
+    "publishedAt": "2025-10-30T16:00:58Z",
+    "summary": "Free Play Days brings Call of Duty Black Ops 6, Riders Republic, AEW: Fight Forever, Grounded 2, and loads more.",
+    "imageUrl": "https://xboxwire.thesourcemediaassets.com/sites/2/2025/10/FreePlayDays_10-30-2025v2_1920x1080_7shot-9a4a1011922b4e37db6d.jpg"
+  },
+  {
+    "title": "AI browsers are a cybersecurity time bomb - The Verge",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/report/810083/ai-browser-cybersecurity-problems",
+    "publishedAt": "2025-10-30T15:53:23Z",
+    "summary": "Huge cyber breaches are on the horizon thanks to AI-powered web browsers like ChatGPT Atlas and Comet, experts warn.",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Vrg_illo_ai_browser_security_Kristen__Radtke.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
+    "title": "T-Mobile’s emergency payments system is going online-only - 9to5Google",
+    "source": "9to5google.com",
+    "url": "http://9to5google.com/2025/10/30/t-mobile-payment-arrangement-online-only/",
+    "publishedAt": "2025-10-30T15:43:00Z",
+    "summary": "Users who need to take advantage of T-Mobile’s payment arrangements in uncertain times will need to do it all in...",
+    "imageUrl": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/07/T-Mobile_New_Logo_Primary_RGB_W-on-M.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+  },
+  {
+    "title": "Google Play now allows Android apps to use other billing systems in the US - 9to5Google",
+    "source": "9to5google.com",
+    "url": "http://9to5google.com/2025/10/30/google-play-now-allows-android-apps-to-use-other-billing-systems-in-the-us/",
+    "publishedAt": "2025-10-30T15:30:00Z",
+    "summary": "Following a court ruling, Google has been forced to open up the Play Store in the US to allow Android...",
+    "imageUrl": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/04/Google-Play-Store-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+  },
+  {
+    "title": "Samsung teases Exynos for ‘key flagship’ phones in 2026, hinting at Galaxy S26 takeover - 9to5Google",
+    "source": "9to5google.com",
+    "url": "http://9to5google.com/2025/10/30/samsung-teases-exynos-for-key-flagship-phones-in-2026-hinting-at-galaxy-s26-takeover/",
+    "publishedAt": "2025-10-30T15:20:00Z",
+    "summary": "Samsung seems to be committed to making Exynos SoCs a bigger deal in its own flagship lineup, and that likely...",
+    "imageUrl": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/09/Samsung-Galaxy-S26-Ultra-CAD-bas-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+  },
+  {
+    "title": "Animal Crossing: New Horizons is getting a big Switch 2 upgrade in January - The Verge",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/news/809975/animal-crossing-new-horizons-is-getting-a-big-switch-2-upgrade-in-january",
+    "publishedAt": "2025-10-30T14:09:10Z",
+    "summary": "Nintendo is launching Animal Crossing: New Horizons for the Switch 2, offering improved 4K visuals on TV, support for mouse controls, and the ability to use an in-game megaphone.",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/animal-crossing-2.png?quality=90&strip=all&crop=0%2C10.772528115658%2C100%2C78.454943768684&w=1200"
+  },
+  {
+    "title": "Arc Raiders At Launch: Server Errors, Big Steam Numbers, And AI Warnings - Kotaku",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/arc-raiders-steam-ai-server-connection-error-launch-2000640110",
+    "publishedAt": "2025-10-30T13:36:45Z",
+    "summary": "The sci-fi extraction shooter proves people will pay for PVP",
+    "imageUrl": "https://kotaku.com/app/uploads/2025/10/arc-raiders-1200x675.jpg"
+  },
+  {
+    "title": "Apple 16-inch 24GB M4 Pro MacBook Pro at $545 off open-box, or $310 off brand new - 9to5Toys",
+    "source": "9to5Toys",
+    "url": "http://9to5toys.com/2025/10/30/apple-16-inch-24gb-m4-pro-macbook-pro-deal/",
+    "publishedAt": "2025-10-30T13:13:00Z",
+    "summary": "Yesterday we featured a notable open-box deal on the 14-inch M4 Pro MacBook Pro with 24GB of RAM at nearly...",
+    "imageUrl": "https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2024/10/M4-MacBook-Pro-pre-order-deals.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+  },
+  {
+    "title": "WhatsApp adds passkey protection to end-to-end encrypted backups - TechCrunch",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2025/10/30/whatsapp-adds-passkey-protection-to-end-to-end-encrypted-backups/",
+    "publishedAt": "2025-10-30T13:00:00Z",
+    "summary": "This means if you lose your device, you can use methods like fingerprint, face, or the screen lock code of your previous device to access WhatsApp's backup.",
+    "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/10/English_WhatsApp_passkey-encrypted-backups-1.jpeg?resize=1200,675"
+  },
+  {
+    "title": "Introducing architecture variants",
+    "source": "Hacker News",
+    "url": "https://discourse.ubuntu.com/t/introducing-architecture-variants-amd64v3-now-available-in-ubuntu-25-10/71312",
+    "publishedAt": "2025-10-30T10:35:00.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Hacking India's largest automaker: Tata Motors",
+    "source": "Hacker News",
+    "url": "https://eaton-works.com/2025/10/28/tata-motors-hack/",
+    "publishedAt": "2025-10-29T01:31:56.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Show HN: Pipelex – Declarative language for repeatable AI workflows",
+    "source": "Hacker News",
+    "url": "https://github.com/Pipelex/pipelex",
+    "publishedAt": "2025-10-28T16:19:26.000Z",
+    "summary": "We’re Robin, Louis, and Thomas. Pipelex is a DSL and a Python runtime for repeatable AI workflows. Think Dockerfile&#x2F;SQL for multi-step LLM pipeli..."
+  },
+  {
+    "title": "The Impossible Optimization, and the Metaprogramming to Achieve It",
+    "source": "Hacker News",
+    "url": "https://verdagon.dev/blog/impossible-optimization",
+    "publishedAt": "2025-10-28T10:53:21.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Show HN: Settling the Score – A point-and-click adventure rhythm game",
+    "source": "Hacker News",
+    "url": "https://easel.games/@raysplaceinspace/settling-the-score/",
+    "publishedAt": "2025-10-27T23:59:44.000Z",
+    "summary": "I thought it&#x27;d be fun to make a point-and-click adventure game based around music. I thought it&#x27;d be a unique take on the gnre. I made this ..."
+  },
+  {
+    "title": "Viagrid – PCB template for rapid PCB prototyping with factory-made vias [video]",
+    "source": "Hacker News",
+    "url": "https://www.youtube.com/watch?v=A_IUIyyqw0M",
+    "publishedAt": "2025-10-27T17:42:17.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Beyond Smoothed Analysis: Analyzing the Simplex Method by the Book",
+    "source": "Hacker News",
+    "url": "https://arxiv.org/abs/2510.21613",
+    "publishedAt": "2025-10-27T16:13:32.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "On Having a Data Object",
+    "source": "Hacker News",
+    "url": "https://www.natemeyvis.com/on-having-a-data-object/",
+    "publishedAt": "2025-10-27T11:52:33.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Active listening: the Swiss Army Knife of communication",
+    "source": "Hacker News",
+    "url": "https://togetherlondon.com/insights/active-listening-swiss-army-knife",
+    "publishedAt": "2025-10-27T11:40:04.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Nisus Writer: Schrödinger's Word Processor",
+    "source": "Hacker News",
+    "url": "https://tidbits.com/2025/10/25/nisus-writer-schrodingers-word-processor/",
+    "publishedAt": "2025-10-25T20:57:20.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "How I stopped worrying and started loving the Assembly",
+    "source": "Hacker News",
+    "url": "https://medium.com/@jonas.eschenburg/how-i-stopped-worrying-and-started-loving-the-assembly-4fd00e786c60",
+    "publishedAt": "2025-10-23T15:23:55.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Solving the NY Times \"Pips\" game with F#",
+    "source": "Hacker News",
+    "url": "https://github.com/brianberns/Pips",
+    "publishedAt": "2025-10-23T14:51:20.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Kerkship St. Jozef, Antwerp – WWII German Concrete Tanker",
+    "source": "Hacker News",
+    "url": "https://thecretefleet.com/blog/f/kerkship-st-jozef-antwerp-%E2%80%93-wwii-german-concrete-tanker",
+    "publishedAt": "2025-10-23T13:23:32.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "'Killing the Dead' Review: Watch the Graveyard",
+    "source": "Hacker News",
+    "url": "https://www.wsj.com/arts-culture/books/killing-the-dead-review-watch-the-graveyard-f54e14f4",
+    "publishedAt": "2025-10-23T07:06:36.000Z",
+    "summary": "No description available"
+  }
+]

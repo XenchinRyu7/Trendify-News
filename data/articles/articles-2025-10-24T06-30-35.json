@@ -1,0 +1,444 @@
+[
+  {
+    "title": "RFC 863 – Discard Protocol",
+    "source": "Hacker News",
+    "url": "https://datatracker.ietf.org/doc/html/rfc863",
+    "publishedAt": "2025-10-24T04:46:50.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "JupyterGIS breaks through to the next level",
+    "source": "Hacker News",
+    "url": "https://eo4society.esa.int/2025/10/16/jupytergis-breaks-through-to-the-next-level/",
+    "publishedAt": "2025-10-24T04:13:01.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Roc Camera",
+    "source": "Hacker News",
+    "url": "https://roc.camera/",
+    "publishedAt": "2025-10-24T02:54:29.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Fast-DLLM: Training-Free Acceleration of Diffusion LLM",
+    "source": "Hacker News",
+    "url": "https://arxiv.org/abs/2505.22618",
+    "publishedAt": "2025-10-24T02:50:50.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Computer science courses that don't exist, but should (2015)",
+    "source": "Hacker News",
+    "url": "https://prog21.dadgum.com/210.html",
+    "publishedAt": "2025-10-24T02:22:07.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Counter-Strike's player economy is in a multi-billion dollar freefall",
+    "source": "Hacker News",
+    "url": "https://www.polygon.com/counter-strike-cs-player-economy-multi-billion-dollar-freefall/",
+    "publishedAt": "2025-10-24T00:24:11.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "React Flow, open source libraries for node-based UIs with React or Svelte",
+    "source": "Hacker News",
+    "url": "https://github.com/xyflow/xyflow",
+    "publishedAt": "2025-10-23T23:33:28.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Introduction to the concept of likelihood and its applications (2018)",
+    "source": "Hacker News",
+    "url": "https://journals.sagepub.com/doi/10.1177/2515245917744314",
+    "publishedAt": "2025-10-23T22:52:15.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Automating Algorithm Discovery: A Case Study in MoE Load Balancing",
+    "source": "Hacker News",
+    "url": "https://adrs-ucb.notion.site/moe-load-balancing",
+    "publishedAt": "2025-10-23T22:35:22.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Apple loses UK App Store monopoly case, penalty might near $2B",
+    "source": "Hacker News",
+    "url": "https://9to5mac.com/2025/10/23/apple-loses-uk-app-store-monopoly-case-penalty-might-near-2-billion/",
+    "publishedAt": "2025-10-23T22:11:23.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "How memory maps (mmap) deliver faster file access in Go",
+    "source": "Hacker News",
+    "url": "https://info.varnish-software.com/blog/how-memory-maps-mmap-deliver-25x-faster-file-access-in-go",
+    "publishedAt": "2025-10-23T21:56:07.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "/dev/null is an ACID compliant database",
+    "source": "Hacker News",
+    "url": "https://jyu.dev/blog/why-dev-null-is-an-acid-compliant-database/",
+    "publishedAt": "2025-10-23T21:28:02.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "When is it better to think without words?",
+    "source": "Hacker News",
+    "url": "https://www.henrikkarlsson.xyz/p/wordless-thought",
+    "publishedAt": "2025-10-23T21:26:57.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "FocusTube: A Chrome extension that hides YouTube Shorts",
+    "source": "Hacker News",
+    "url": "https://github.com/CaptainYouz/FocusTube",
+    "publishedAt": "2025-10-23T21:11:14.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Date bug in Rust-based coreutils affects Ubuntu 25.10 automatic updates",
+    "source": "Hacker News",
+    "url": "https://lwn.net/Articles/1043103/",
+    "publishedAt": "2025-10-23T20:49:08.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Zram Performance Analysis",
+    "source": "Hacker News",
+    "url": "https://notes.xeome.dev/notes/Zram",
+    "publishedAt": "2025-10-23T19:58:12.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Can “second life” EV batteries work as grid-scale energy storage?",
+    "source": "Hacker News",
+    "url": "https://www.volts.wtf/p/can-second-life-ev-batteries-work",
+    "publishedAt": "2025-10-23T18:15:45.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "OpenAI acquires Sky.app",
+    "source": "Hacker News",
+    "url": "https://openai.com/index/openai-acquires-software-applications-incorporated",
+    "publishedAt": "2025-10-23T17:04:17.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Claude Memory",
+    "source": "Hacker News",
+    "url": "https://www.anthropic.com/news/memory",
+    "publishedAt": "2025-10-23T16:56:07.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Antislop: A framework for eliminating repetitive patterns in language models",
+    "source": "Hacker News",
+    "url": "https://arxiv.org/abs/2510.15061",
+    "publishedAt": "2025-10-23T16:36:05.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "I spent a year making an ASN.1 compiler in D",
+    "source": "Hacker News",
+    "url": "https://bradley.chatha.dev/blog/dlang-propaganda/asn1-compiler-in-d/",
+    "publishedAt": "2025-10-23T12:47:41.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "US probes Waymo robotaxis over school bus safety",
+    "source": "Hacker News",
+    "url": "https://www.yahoo.com/news/articles/us-investigates-waymo-robotaxis-over-102015308.html",
+    "publishedAt": "2025-10-23T12:40:57.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "PyTorch Monarch",
+    "source": "Hacker News",
+    "url": "https://pytorch.org/blog/introducing-pytorch-monarch/",
+    "publishedAt": "2025-10-23T10:15:12.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Summary of the Amazon DynamoDB Service Disruption in US-East-1 Region",
+    "source": "Hacker News",
+    "url": "https://aws.amazon.com/message/101925/",
+    "publishedAt": "2025-10-23T01:19:58.000Z",
+    "summary": "Recent and related: AWS multiple services outage in us-east-1 - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=45640838 (2045 comments)..."
+  },
+  {
+    "title": "NFL Locks Up ‘Madden’ Game Franchise Long-Term and Goes Global With Amazon in Wave of Deals - The Hollywood Reporter",
+    "source": "Hollywood Reporter",
+    "url": "http://www.hollywoodreporter.com/business/business-news/nfl-owners-meeting-espn-amazon-ea-deals-approved-1236407367/",
+    "publishedAt": "2025-10-22T21:37:47Z",
+    "summary": "At the league's owners meeting in New York, NFL officials also unveiled changes coming to next year's Pro Bowl on ESPN.",
+    "imageUrl": "https://www.hollywoodreporter.com/wp-content/uploads/2025/10/GettyImages-1465603694.jpg?crop=0px%2C164px%2C6000px%2C3357px&resize=1440%2C810"
+  },
+  {
+    "title": "OpenAI’s Atlas is more about ChatGPT than the web - TechCrunch",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2025/10/22/openais-atlas-is-more-about-chatgpt-than-the-web/",
+    "publishedAt": "2025-10-22T18:51:43Z",
+    "summary": "OpenAI's new browser is a surface for the company to distribute ChatGPT and develop new AI features rather than improving core web experience.",
+    "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/10/Homepage.jpeg?resize=1200,675"
+  },
+  {
+    "title": "Marvel Comics Celebrates the Launch of 'MARVEL Cosmic Invasion' with New Variant Covers - Marvel",
+    "source": "Marvel Entertainment",
+    "url": "https://www.marvel.com/articles/comics/marvel-comics-celebrates-the-launch-of-marvel-cosmic-invasion-with-new-variant-covers",
+    "publishedAt": "2025-10-22T18:14:43Z",
+    "summary": "Starting in January, new comic book variant covers will feature character artwork from 'MARVEL Cosmic Invasion,' the upcoming game from Dotemu and Tribute Games, made in collaboration with Marvel Games.",
+    "imageUrl": "https://cdn.marvel.com/content/1x/storm2026001_cosmic_var4x5.jpg"
+  },
+  {
+    "title": "Samsung Galaxy XR is the first Android XR headset, now on sale for $1,800 - Ars Technica",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/google/2025/10/samsung-galaxy-xr-is-the-first-android-xr-headset-now-on-sale-for-1800/",
+    "publishedAt": "2025-10-22T18:12:50Z",
+    "summary": "It may not be as spendy as the Vision Pro, but $1,800 is still a lot.",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/Samsung-Mobile-Galaxy-XR-Multimodal-AI-Android-XR-Opening-New-Worlds_main1.jpg"
+  },
+  {
+    "title": "Apple Removes Women Dating Safety App from the App Store - 404 Media",
+    "source": "404media.co",
+    "url": "https://www.404media.co/women-dating-safety-app-tea-delisted-from-apple-app-store/",
+    "publishedAt": "2025-10-22T18:06:16Z",
+    "summary": "The app, which went viral before facing multiple data breaches, is currently unavailable on the Apple App Store.",
+    "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/10/tea-website-1.png"
+  },
+  {
+    "title": "Next year’s A20 chip might push iPhone prices even higher - 9to5Mac",
+    "source": "9to5Mac",
+    "url": "https://9to5mac.com/2025/10/22/next-years-a20-chip-might-push-iphone-prices-even-higher/",
+    "publishedAt": "2025-10-22T16:40:00Z",
+    "summary": "Next year’s iPhone lineup is expected to use an A20 chip with a new 2-nm process, but that could come at a big cost per a new report.",
+    "imageUrl": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-17-event-14.11.19.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+  },
+  {
+    "title": "Nintendo announces a string of free updates for Pikmin 4 and Pikmin Bloom - The Verge",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/news/804408/nintendo-pikmin-4-bloom-november-updates",
+    "publishedAt": "2025-10-22T15:37:05Z",
+    "summary": "The updates will arrive in November, and now you can watch Nintendo’s full ’Close to You’ CG short on YouTube.",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/pikmin-4-difficulty-update-16-9.jpg?quality=90&strip=all&crop=0%2C3.4683489810518%2C100%2C93.063302037896&w=1200"
+  },
+  {
+    "title": "New iPad Pro, 14-inch MacBook Pro, and Apple Vision Pro now available - Apple",
+    "source": "Apple Newsroom",
+    "url": "https://www.apple.com/newsroom/2025/10/new-ipad-pro-14-inch-macbook-pro-and-apple-vision-pro-now-available/",
+    "publishedAt": "2025-10-22T15:00:33Z",
+    "summary": "Apple customers can now discover and buy the 11-inch and 13-inch iPad Pro, the new 14-inch MacBook Pro, and Apple Vision Pro.",
+    "imageUrl": "https://www.apple.com/newsroom/images/2025/10/new-ipad-pro-14-inch-macbook-pro-and-apple-vision-pro-now-available/tile/Apple-October-2025-new-products-lp.jpg.og.jpg?202510221755"
+  },
+  {
+    "title": "'The Game We Are Making Now Is a Nintendo Game' — Metroid Prime Producer Kensuke Tanabe Reveals Creative Tensions With Retro in New Book - IGN",
+    "source": "IGN",
+    "url": "https://www.ign.com/articles/the-game-we-are-making-now-is-a-nintendo-game-metroid-prime-producer-kensuke-tanabe-reveals-creative-tensions-with-retro-in-new-book",
+    "publishedAt": "2025-10-22T14:43:22Z",
+    "summary": "Nintendo and Retro Studios brought Metroid into stunning 3D, reforming the series in a first-person shooter style through a sometimes challenging but ultimately fruitful relationship between Japanese and Western teams with their own unique backgrounds and per…",
+    "imageUrl": "https://assets-prd.ignimgs.com/2025/10/21/nswitch-metroidprimeremastered-06-1761060164321.jpg?width=1280&format=jpg&auto=webp&quality=80"
+  },
+  {
+    "title": "Apple is 'drastically' cutting iPhone Air production, report says, after new survey reveals 'virtually no demand' - Fortune",
+    "source": "Fortune",
+    "url": "https://fortune.com/2025/10/22/apple-iphone-air-demand-weak-production-cuts-vs-17-pro/",
+    "publishedAt": "2025-10-22T14:26:00Z",
+    "summary": "Production of the iPhone Air, starting next month, will be \"less than 10% of the volume compared with September.\"",
+    "imageUrl": "https://fortune.com/img-assets/wp-content/uploads/2025/10/GettyImages-2234535273-e1761141582499.jpg?resize=1200,600"
+  },
+  {
+    "title": "Introducing No Man’s Sky: Breach, A Spooky Free Update For Existing Players - Xbox Wire",
+    "source": "Xbox.com",
+    "url": "https://news.xbox.com/en-us/2025/10/22/introducing-no-mans-sky-breach/",
+    "publishedAt": "2025-10-22T14:04:38Z",
+    "summary": ": No Man’s Sky Breach takes players on a journey through the purple-star solar systems introduced in Worlds Part II, to darker, spookier extremes of the universe.",
+    "imageUrl": "https://xboxwire.thesourcemediaassets.com/sites/2/2025/10/No-Mans-Sky-Breach-Key-Art-7a1db6f3cda1622d0105.jpg"
+  },
+  {
+    "title": "Pokémon Legends Z-A Review: An Enjoyable Identity Crisis - Kotaku",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/pokemon-legends-za-review-switch-2-bugs-performance-2000637719",
+    "publishedAt": "2025-10-22T13:36:53Z",
+    "summary": "Game Freak’s return to Kalos is as much about the state of the franchise as it is about Lumiose City",
+    "imageUrl": "https://kotaku.com/app/uploads/2025/10/IMG_0131-1-1200x675.jpg"
+  },
+  {
+    "title": "Plants vs. Zombies Replanted Xbox achievements reveal tricky 1,000G - TrueAchievements",
+    "source": "TrueAchievements",
+    "url": "https://www.trueachievements.com/news/plants-vs-zombies-replanted-xbox-achievements",
+    "publishedAt": "2025-10-22T12:56:59Z",
+    "summary": "We're getting a new tower defense-focused entry with Plants vs. Zombies: Replanted this week, and you can check out its Xbox achievements now.",
+    "imageUrl": "https://www.trueachievements.com/imgs/165532/plants-vs-zombies-replanted-xbox-achievements.jpg"
+  },
+  {
+    "title": "The end of Windows 10 has been a boon for one particular Linux distro - and I'm not surprised - ZDNET",
+    "source": "ZDNet",
+    "url": "https://www.zdnet.com/article/the-end-of-windows-10-has-been-a-boon-for-one-particular-linux-distro-and-im-not-surprised/",
+    "publishedAt": "2025-10-22T12:53:00Z",
+    "summary": "Windows 10 users are trying the open-source operating system, thanks to the end of support, but one distribution is really enjoying a rise in downloads.",
+    "imageUrl": "https://www.zdnet.com/a/img/resize/92227970aa3e783b7bfbf5f5d693d98a847a548b/2025/10/21/820442ba-7808-42e8-9119-afa611c2454a/gettyimages-1338559814-cropped.jpg?auto=webp&fit=crop&height=675&width=1200"
+  },
+  {
+    "title": "Apple readies new framework to let iPhone users migrate app data to and from Android - 9to5Mac",
+    "source": "9to5Mac",
+    "url": "https://9to5mac.com/2025/10/22/appmigrationkit-framework-migration-betwen-android-and-ios/",
+    "publishedAt": "2025-10-22T12:27:00Z",
+    "summary": "Apple has published documentation for a new framework designed to simplify the transfer of third-party app data between iOS and Android.",
+    "imageUrl": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/transfer-to-android-migrationkit.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+  },
+  {
+    "title": "After Releasing a $1,000 Handheld, Microsoft Has Said Its Next-Gen Xbox Console 'Is Going to Be a Very Premium, Very High-End Curated Experience' - IGN",
+    "source": "IGN",
+    "url": "https://www.ign.com/articles/after-releasing-a-1000-handheld-microsoft-has-said-its-next-gen-xbox-console-is-going-to-be-a-very-premium-very-high-end-curated-experience",
+    "publishedAt": "2025-10-22T12:26:08Z",
+    "summary": "Microsoft is keeping its next-gen Xbox console plans under wraps, but it has suggested it will be ultra premium hardware.",
+    "imageUrl": "https://assets-prd.ignimgs.com/2023/05/03/xbox-showcase-1683121552988.jpg?width=1280&format=jpg&auto=webp&quality=80"
+  },
+  {
+    "title": "After 21 years of waiting, Bloodlines 2's Steam reviews are exactly what I expected - PCGamesN",
+    "source": "PCGamesN",
+    "url": "https://www.pcgamesn.com/vampire-the-masquerade-bloodlines-2/steam-reviews-launch",
+    "publishedAt": "2025-10-22T11:41:54Z",
+    "summary": "After two decades of waiting, Vampire the Masquerade Bloodlines 2 is out in the wild, but it's getting a lukewarm response on Steam.",
+    "imageUrl": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2025/10/vampire-the-masquerade-bloodlines-2-steam-reviews-launch.jpg"
+  },
+  {
+    "title": "Microsoft prepares major Windows 11 feature drop with new Start menu, Taskbar updates, and more | New features expected to roll out next month - Windows Central",
+    "source": "Windows Central",
+    "url": "https://www.windowscentral.com/microsoft/windows-11/microsoft-prepares-new-start-menu-release-major-windows-11-feature-update-november-2025",
+    "publishedAt": "2025-10-22T11:19:06Z",
+    "summary": "Windows 11's next major update is set to include a brand-new Start menu, lots of Taskbar and File Explorer updates, and general quality of life improvements, which is now in the final testing stages before general availability.",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/xhVcK68PshXPbNM4ZVwdYe-2560-80.jpg"
+  },
+  {
+    "title": "Starfield is a \"good game\", says former designer, but \"space is inherently boring\" - Eurogamer",
+    "source": "Eurogamer.net",
+    "url": "https://www.eurogamer.net/starfield-is-a-good-game-says-former-designer-but-space-is-inherently-boring",
+    "publishedAt": "2025-10-22T09:33:34Z",
+    "summary": "Starfield is a \"good game\" but it failed to match the Fallout and Elder Scrolls games because of its use of procedural generation.",
+    "imageUrl": "https://assetsio.gnwcdn.com/Xbox-Games-Showcase-%2B-Starfield-Direct-1-52-50-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+  },
+  {
+    "title": "Watch the Battlefield 6 Season 1 trailer here for a look at the first new map coming to the game next week - VG247",
+    "source": "VG247",
+    "url": "https://www.vg247.com/battlefield-6-season-1-reveal-trailer-blackwell-fields-map-first-look",
+    "publishedAt": "2025-10-22T09:25:00Z",
+    "summary": "If you can believe it, we're less than one week away from the launch of Battlefield 6's first season.",
+    "imageUrl": "https://assetsio.gnwcdn.com/battlefield-6-assault-class-gameplay-1.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+  },
+  {
+    "title": "Yes, There’s A Toilet Camera And It Charges $7 A Month To Grade Your Dumps - OutKick",
+    "source": "Outkick.com",
+    "url": "https://www.outkick.com/culture/kohler-toilet-camera-requires-subscription-to-function",
+    "publishedAt": "2025-10-22T00:28:35Z",
+    "summary": "Kohler’s Dekoda toilet camera uses optical sensors to scan your stool for health issues—but it won’t work without a $7 monthly subscription.",
+    "imageUrl": "https://static.outkick.com/www.outkick.com/content/uploads/2025/10/gettyimages-578200281.jpg"
+  },
+  {
+    "title": "AI assistants make widespread errors about the news, new research shows - Yahoo News Canada",
+    "source": "Yahoo Entertainment",
+    "url": "https://www.yahoo.com/news/articles/ai-assistants-widespread-errors-news-220841474.html",
+    "publishedAt": "2025-10-21T22:08:41Z",
+    "summary": "By Olivia Le Poidevin GENEVA (Reuters) -Leading AI assistants misrepresent news content in nearly half their responses, according to new research published...",
+    "imageUrl": "https://media.zenfs.com/en/reuters.com/04d386da9d90fe8d38735368ec5748c6"
+  },
+  {
+    "title": "Anker’s latest noise-canceling sleep earbuds are nearly $40 off - The Verge",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/803737/anker-soundcore-sleep-a30-earbuds-8bitdo-arcade-controller-deal-sale",
+    "publishedAt": "2025-10-21T19:40:53Z",
+    "summary": "You can score nearly $40 off Anker’s Soundcore Sleep A30. You can also save on Amazon’s third-gen Echo Show 8 and the leverless 8BitDo Arcade Controller.",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Anker-Soundcore-Sleep-A30-earbuds.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
+    "title": "Claude Code Creator: We Didn't Mean to Build It, But It's Changed Everything - PCMag",
+    "source": "PCMag.com",
+    "url": "https://www.pcmag.com/news/claude-code-creator-we-didnt-mean-to-build-it-but-its-changed-everything",
+    "publishedAt": "2025-10-21T19:12:56Z",
+    "summary": "We catch up with Anthropic's Boris Cherny about the agentic coding tool's humble beginnings and its new web access feature.",
+    "imageUrl": "https://i.pcmag.com/imagery/articles/05LRlzax3PqbMeN6xgrItgd-3.fit_lim.size_1200x630.v1761073609.jpg"
+  },
+  {
+    "title": "Neil deGrasse Tyson on his new book and the hidden dangers of defunding science: 'That will ultimately bite you in the ass' (exclusive) - Space",
+    "source": "Space.com",
+    "url": "https://www.space.com/entertainment/space-books/neil-degrasse-tyson-on-his-new-book-and-the-hidden-dangers-of-defunding-science-that-will-ultimately-bite-you-in-the-ass-exclusive",
+    "publishedAt": "2025-10-21T19:00:00Z",
+    "summary": "Merlin returns for a second volume of 200 cosmic questions and answers.",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/GBvgeTLzRxB3KnybfaSk6-1280-80.jpg"
+  },
+  {
+    "title": "Announcing the 2027 Magic Limited Championship - MAGIC PLAY",
+    "source": "Magic.gg",
+    "url": "https://magic.gg/news/announcing-the-2027-magic-limited-championship",
+    "publishedAt": "2025-10-21T17:17:44Z",
+    "summary": "There's a new path to Magic glory coming in 2027, and you can qualify starting next year!",
+    "imageUrl": "https://images.ctfassets.net/ryplwhabvmmk/77MQpVPcJcVCIVE13UWLLl/4692d2983be38eeadc1ff265ff627536/1920x1080_MagicCon_Barcelona_75k_Open_Event.png"
+  },
+  {
+    "title": "PlayStation veteran Shuhei Yoshida can’t get enough of his Xbox Ally — Ninja Gaiden 4 included - Windows Central",
+    "source": "Windows Central",
+    "url": "https://www.windowscentral.com/gaming/playstation-veteran-shuhei-yoshida-cant-get-enough-of-xbox-ally",
+    "publishedAt": "2025-10-21T15:04:14Z",
+    "summary": "A former PlayStation boss shows that good games matter more than platforms.",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/soroi2vtgcQas25n2wt2o5-1920-80.jpg"
+  },
+  {
+    "title": "AMD Stock Slips Alongside New Ryzen CPU Leaks - TipRanks",
+    "source": "Tipranks.com",
+    "url": "https://www.tipranks.com/news/amd-stock-slips-alongside-new-ryzen-cpu-leaks",
+    "publishedAt": "2025-10-21T14:51:07Z",
+    "summary": "AMD stock fell on Tuesday after a leaker posted new details about upcoming Ryzen CPUs.",
+    "imageUrl": "https://blog.tipranks.com/wp-content/uploads/2025/10/amdstock-8-750x406.jpg"
+  },
+  {
+    "title": "Why these companies want to send data centers into space - CNN",
+    "source": "CNN",
+    "url": "https://www.cnn.com/science/data-centers-in-space-spc",
+    "publishedAt": "2025-10-21T09:33:56Z",
+    "summary": "AI is driving surging demand for data centers, but they require a lot of land and huge amounts of energy. Now, some think the solution could be in space.",
+    "imageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/20250828-data-centers-orbit-final2.jpg?c=16x9&q=w_800,c_fill"
+  },
+  {
+    "title": "Killing Charles Dickens (2023)",
+    "source": "Hacker News",
+    "url": "https://www.newyorker.com/magazine/2023/07/10/on-killing-charles-dickens",
+    "publishedAt": "2025-10-18T05:45:33.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Betty White's shoulder bag is a time capsule of World War II (2023)",
+    "source": "Hacker News",
+    "url": "https://americanhistory.si.edu/explore/stories/betty-white-world-war-ii",
+    "publishedAt": "2025-10-17T04:28:46.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Cheap DIY solar fence design",
+    "source": "Hacker News",
+    "url": "https://joeyh.name/blog/entry/cheap_DIY_solar_fence_design/",
+    "publishedAt": "2025-10-15T19:23:39.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Binmoji: A 64-bit emoji encoding",
+    "source": "Hacker News",
+    "url": "https://github.com/jb55/binmoji",
+    "publishedAt": "2025-10-14T23:51:02.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Benchmarking Postgres 17 vs. 18",
+    "source": "Hacker News",
+    "url": "https://planetscale.com/blog/benchmarking-postgres-17-vs-18",
+    "publishedAt": "2025-10-14T15:35:44.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Kaitai Struct: declarative binary format parsing language",
+    "source": "Hacker News",
+    "url": "https://kaitai.io/",
+    "publishedAt": "2025-10-14T14:51:29.000Z",
+    "summary": "No description available"
+  }
+]

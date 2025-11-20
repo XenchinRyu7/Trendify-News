@@ -1,0 +1,388 @@
+[
+  {
+    "title": "V8 Garbage Collector",
+    "source": "Hacker News",
+    "url": "https://wingolog.org/archives/2025/11/13/the-last-couple-years-in-v8s-garbage-collector",
+    "publishedAt": "2025-11-14T09:53:13.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Show HN: Pegma, the free and open-source version of the classic Peg solitaire",
+    "source": "Hacker News",
+    "url": "https://pegma.vercel.app",
+    "publishedAt": "2025-11-14T08:06:41.000Z",
+    "summary": "Discover Pegma, the free and open-source version of the classic Peg solitaire game! Pegma offers a clean, minimal design and smooth gameplay across mu..."
+  },
+  {
+    "title": "RegreSQL: Regression Testing for PostgreSQL Queries",
+    "source": "Hacker News",
+    "url": "https://boringsql.com/posts/regresql-testing-queries/",
+    "publishedAt": "2025-11-14T07:10:10.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Hooked on Sonics: Experimenting with Sound in 19th-Century Popular Science",
+    "source": "Hacker News",
+    "url": "https://publicdomainreview.org/essay/science-of-sound/",
+    "publishedAt": "2025-11-14T06:13:09.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "How to Get a North Korea / Antarctica VPS",
+    "source": "Hacker News",
+    "url": "https://blog.lyc8503.net/en/post/asn-5-worldwide-servers/",
+    "publishedAt": "2025-11-14T01:30:50.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "What Happened with the CIA and The Paris Review?",
+    "source": "Hacker News",
+    "url": "https://www.theparisreview.org/blog/2025/11/11/what-really-happened-with-the-cia-and-the-paris-review-a-conversation-with-lance-richardson/",
+    "publishedAt": "2025-11-14T00:18:23.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Kubernetes Ingress Nginx is retiring",
+    "source": "Hacker News",
+    "url": "https://www.kubernetes.dev/blog/2025/11/12/ingress-nginx-retirement/",
+    "publishedAt": "2025-11-13T22:20:57.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "650GB of Data (Delta Lake on S3). Polars vs. DuckDB vs. Daft vs. Spark",
+    "source": "Hacker News",
+    "url": "https://dataengineeringcentral.substack.com/p/650gb-of-data-delta-lake-on-s3-polars",
+    "publishedAt": "2025-11-13T21:33:26.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Blue Origin lands New Glenn rocket booster on second try",
+    "source": "Hacker News",
+    "url": "https://techcrunch.com/2025/11/13/blue-origin-lands-new-glenn-rocket-booster-on-second-try/",
+    "publishedAt": "2025-11-13T21:24:25.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "OpenMANET Wi-Fi HaLow open-source project for Raspberry Pi–based MANET radios",
+    "source": "Hacker News",
+    "url": "https://openmanet.net/",
+    "publishedAt": "2025-11-13T21:18:14.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Show HN: DBOS Java – Postgres-Backed Durable Workflows",
+    "source": "Hacker News",
+    "url": "https://github.com/dbos-inc/dbos-transact-java",
+    "publishedAt": "2025-11-13T20:33:43.000Z",
+    "summary": "Hi HN - I’m Peter, here with Harry (devhawk), and we’re building DBOS Java, an open-source Java library for durable workflows, backed by Postgres.http..."
+  },
+  {
+    "title": "SlopStop: Community-driven AI slop detection in Kagi Search",
+    "source": "Hacker News",
+    "url": "https://blog.kagi.com/slopstop",
+    "publishedAt": "2025-11-13T19:03:26.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Disrupting the first reported AI-orchestrated cyber espionage campaign",
+    "source": "Hacker News",
+    "url": "https://www.anthropic.com/news/disrupting-AI-espionage",
+    "publishedAt": "2025-11-13T18:34:12.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "The Eggstraordinary Fortress",
+    "source": "Hacker News",
+    "url": "https://ahmed1011001.github.io/Notes/stories/eggstrodinary.html",
+    "publishedAt": "2025-11-13T18:10:29.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Nano Banana can be prompt engineered for nuanced AI image generation",
+    "source": "Hacker News",
+    "url": "https://minimaxir.com/2025/11/nano-banana-prompts/",
+    "publishedAt": "2025-11-13T17:39:13.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Launch HN: Tweeks (YC W25) – Browser extension to deshittify the web",
+    "source": "Hacker News",
+    "url": "https://www.tweeks.io/onboarding",
+    "publishedAt": "2025-11-13T16:03:04.000Z",
+    "summary": "Hey HN! We’re Jason &amp; Matt and we’re building Tweeks (https:&#x2F;&#x2F;tweeks.io), a browser extension that lets you modify any website in your b..."
+  },
+  {
+    "title": "Zed is our office",
+    "source": "Hacker News",
+    "url": "https://zed.dev/blog/zed-is-our-office",
+    "publishedAt": "2025-11-13T15:41:26.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "SIMA 2: An agent that plays, reasons, and learns with you in virtual 3D worlds",
+    "source": "Hacker News",
+    "url": "https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/",
+    "publishedAt": "2025-11-13T15:29:38.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Blender Lab",
+    "source": "Hacker News",
+    "url": "https://www.blender.org/news/introducing-blender-lab/",
+    "publishedAt": "2025-11-13T13:38:47.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Android developer verification: Early access starts",
+    "source": "Hacker News",
+    "url": "https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html",
+    "publishedAt": "2025-11-13T00:33:25.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Sony is making a Horizon MMO — here’s the video and details - The Verge",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/news/819657/horizon-steel-frontiers-mmo-sony-ncsoft-playstation",
+    "publishedAt": "2025-11-13T00:32:00Z",
+    "summary": "Horizon Steel Frontiers is a new MMO Sony and NCSoft are developing together, and it’s designed “specifically for mobile.”",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/HorizonSteelFrontiers_KEYART.jpg?quality=90&strip=all&crop=0%2C3.2535527299925%2C100%2C93.492894540015&w=1200"
+  },
+  {
+    "title": "Black Ops 7 Day One Patch Notes: Weapon buffs & nerfs, Zombies changes, more - Dexerto",
+    "source": "Dexerto",
+    "url": "https://www.dexerto.com/call-of-duty/black-ops-7-day-one-patch-notes-3282572/",
+    "publishedAt": "2025-11-12T23:18:21Z",
+    "summary": "Ahead of the game’s launch, devs have revealed the full Black Ops 7 Day One patch notes. Here’s the rundown.",
+    "imageUrl": "https://www.dexerto.com/cdn-image/wp-content/uploads/2025/10/21/Black-Ops-7-early-release-date-leak.jpg"
+  },
+  {
+    "title": "Breaking: Google is partially walking back its new sideloading restrictions! - Android Authority",
+    "source": "Android Authority",
+    "url": "https://www.androidauthority.com/android-power-users-install-unverified-apps-3615310/",
+    "publishedAt": "2025-11-12T22:50:39Z",
+    "summary": "Google has announced it is building a new way for 'experienced users' to install Android apps that haven't been verified.",
+    "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2025/11/Sideloading-an-Android-app-hero-image-scaled.jpg"
+  },
+  {
+    "title": "Here’s how to photograph the northern lights lighting up St. Louis skies this week - STLPR",
+    "source": "Stlpr.org",
+    "url": "https://www.stlpr.org/health-science-environment/2025-11-12/how-photograph-northern-lights-missouri-illinois",
+    "publishedAt": "2025-11-12T22:36:14Z",
+    "summary": "Are you chasing the northern lights in Missouri and Illinois? St. Louis Public Radio Visuals Editor Brian Munoz shares how to spot the rare show — and document it on your phone or camera while it lasts.",
+    "imageUrl": "https://npr.brightspotcdn.com/dims4/default/408e1ee/2147483647/strip/true/crop/3000x1575+0+425/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4a%2F86%2F30591ec24020bca93befbacf3e74%2F111125-bm-lights-2.jpg"
+  },
+  {
+    "title": "Steam's new VR headset, Steam Frame, will support Android games - GamesIndustry.biz",
+    "source": "GamesIndustry.biz",
+    "url": "https://www.gamesindustry.biz/steams-new-vr-headset-steam-frame-will-support-android-games",
+    "publishedAt": "2025-11-12T21:43:14Z",
+    "summary": "Valve has announced its new wireless VR headset, Steam Frame, will support Android games.",
+    "imageUrl": "https://assetsio.gnwcdn.com/Screenshot-2025-11-12-at-18.22.01.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+  },
+  {
+    "title": "Elon Musk’s X botched its security key switchover, locking users out - TechCrunch",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2025/11/12/elon-musks-x-botched-its-security-key-switchover-locking-users-out/",
+    "publishedAt": "2025-11-12T19:40:08Z",
+    "summary": "As part of an effort to retire the old Twitter.com domain, X is requiring passkey and security key users to re-enroll — but are getting stuck in endless loops and unable to finish.",
+    "imageUrl": "https://techcrunch.com/wp-content/uploads/2023/07/x-twitter-1.jpg?resize=1200,800"
+  },
+  {
+    "title": "GPT-5.1: A smarter, more conversational ChatGPT - OpenAI",
+    "source": "Openai.com",
+    "url": "https://openai.com/index/gpt-5-1/",
+    "publishedAt": "2025-11-12T19:05:30Z",
+    "summary": "We’re upgrading GPT-5 while making it easier to customize ChatGPT. Starting to roll out today to everyone, beginning with paid users.",
+    "imageUrl": "https://images.ctfassets.net/kftzwdyauwt9/2Ek1rUZQWAa5LVpHgeOgg6/3f950eae5ac318c97a8e467a7611c0d3/5-1_Blog_OpenGraph.png?w=1600&h=900&fit=fill"
+  },
+  {
+    "title": "Valve has no news about Steam Deck 2 - The Verge",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/news/818313/valve-has-no-news-about-a-steam-deck-2",
+    "publishedAt": "2025-11-12T18:20:00Z",
+    "summary": "It wouldn’t commit to TMR joysticks, either, though they seem likely now.",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25070057/DSCF9163.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
+    "title": "Steam Machine",
+    "source": "Hacker News",
+    "url": "https://store.steampowered.com/sale/steammachine",
+    "publishedAt": "2025-11-12T17:59:43.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "PlayStation Plus Extra/Premium Games For November 2025 Include Chilling Horror And Monster Trucks - GameSpot",
+    "source": "GameSpot",
+    "url": "https://www.gamespot.com/gallery/playstation-plus-extra-premium-games-for-november-2025-include-chilling-horror-and-monster-trucks/2900-7252/",
+    "publishedAt": "2025-11-12T17:58:59Z",
+    "summary": "Somehow, GTA 5 returned to the PS Plus Game Catalog this month.",
+    "imageUrl": "https://www.gamespot.com/a/uploads/screen_kubrick/1601/16018044/4601156-psplusnovember2025.jpg"
+  },
+  {
+    "title": "'$230 for a cut-up sock' - Apple's new iPhone Pocket ridiculed online - BBC",
+    "source": "BBC News",
+    "url": "https://www.bbc.com/news/articles/cn97ndgpnq7o",
+    "publishedAt": "2025-11-12T17:47:37Z",
+    "summary": "Many took aim at the high price online, while others made fun of its striking likeness to a piece of footwear.",
+    "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/309c/live/ca13b720-bfde-11f0-bbea-2df62eb90585.jpg"
+  },
+  {
+    "title": "Apple Announces Launch of U.S. Passport Feature in iPhone's Wallet App - MacRumors",
+    "source": "MacRumors",
+    "url": "https://www.macrumors.com/2025/11/12/apple-launches-digital-id-passport-feature/",
+    "publishedAt": "2025-11-12T17:15:45Z",
+    "summary": "Apple today announced that iPhone users can now create a Digital ID in the Apple Wallet app based on information from their U.S. passport.   To...",
+    "imageUrl": "https://images.macrumors.com/t/H1SDDOSvblWea0VS2zQB3IwDIyc=/2000x/article-new/2025/06/ios-26-digital-id-passport-wallet.jpg"
+  },
+  {
+    "title": "The Best Tech Gifts of 2025 - Gizmodo",
+    "source": "Gizmodo.com",
+    "url": "https://gizmodo.com/best-tech-gifts-of-2025-2000680379",
+    "publishedAt": "2025-11-12T17:02:00Z",
+    "summary": "Discover the Best Tech Gifts of 2025, from smart gadgets to must-have devices. Find cool holiday gift ideas and be the perfect Santa!",
+    "imageUrl": "https://gizmodo.com/app/uploads/2025/11/Best-Tech-Gifts-of-2025_Featured-Image@2x-1200x675.jpg"
+  },
+  {
+    "title": "Hideo Kojima Throws Cartoonist Under The Bus After Controversy - Kotaku",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/hideo-kojima-deletes-photo-and-distances-himself-from-cartoonist-after-political-backlash-2000643454",
+    "publishedAt": "2025-11-12T16:40:51Z",
+    "summary": "The Death Stranding 2 director wanted to correct 'misunderstandings' on social media",
+    "imageUrl": "https://kotaku.com/app/uploads/2024/01/20a5bd29a987e4e0810eeb4e94be0ffa-1200x675.jpg"
+  },
+  {
+    "title": "Hands On: Where Winds Meet PS5 Is Vast, Visionary, and on the Verge of Collapse - Push Square",
+    "source": "Push Square",
+    "url": "https://www.pushsquare.com/previews/hands-on-where-winds-meet-ps5-is-vast-visionary-and-on-the-verge-of-collapse",
+    "publishedAt": "2025-11-12T16:00:00Z",
+    "summary": "A free-to-play epic unlike anything we've encountered before",
+    "imageUrl": "https://images.pushsquare.com/236a7411ec1e5/large.jpg"
+  },
+  {
+    "title": "Even Realities G2 smart glasses bring a ‘spatial’ display and R1 controller ring - 9to5Google",
+    "source": "9to5google.com",
+    "url": "http://9to5google.com/2025/11/12/even-realities-launches-g2-smart-glasses-r1-control-ring/",
+    "publishedAt": "2025-11-12T15:56:00Z",
+    "summary": "As competitors begin to flood the smart glasses market, Even Realities has unveiled the second addition to its lineup –...",
+    "imageUrl": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/11/Even-G2-and-R1-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+  },
+  {
+    "title": "Arc Raiders Lowering Skin Prices & Issuing Refunds After Backlash - Kotaku",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/arc-raiders-skins-cosmetics-decks-battle-pass-duos-2000643456",
+    "publishedAt": "2025-11-12T15:04:22Z",
+    "summary": "Fans were not amused by skins that cost half the price of the game",
+    "imageUrl": "https://kotaku.com/app/uploads/2025/11/feature-1-1200x675.jpg"
+  },
+  {
+    "title": "The Super Hero Team-based PVP Shooter - Marvel Rivals",
+    "source": "Marvelrivals.com",
+    "url": "https://www.marvelrivals.com/balancepost/20251112/41667_1270634.html",
+    "publishedAt": "2025-11-12T14:03:45Z",
+    "summary": "Play for free Now! Get ready to Ignite the Battle with Marvel Rivals!",
+    "imageUrl": "https://www.marvelrivals.com/pc/gw/20240301101352/data/share.jpg"
+  },
+  {
+    "title": "PS6 And Next Xbox May Not Release Until 2028 Due To GTA 6 Delay, Expert Says - GameSpot",
+    "source": "GameSpot",
+    "url": "https://www.gamespot.com/articles/ps6-and-next-xbox-may-not-release-until-2028-due-to-gta-6-delay-expert-says/1100-6536134/",
+    "publishedAt": "2025-11-12T13:36:52Z",
+    "summary": "GTA 6 is looming large.",
+    "imageUrl": "https://www.gamespot.com/a/uploads/screen_kubrick/1179/11799911/4600985-screenshot2025-11-12at8.26.19%E2%80%AFam.png"
+  },
+  {
+    "title": "Microsoft Fixes 63 Security Flaws, Including a Windows Kernel Zero-Day Under Active Attack - The Hacker News",
+    "source": "Internet",
+    "url": "https://thehackernews.com/2025/11/microsoft-fixes-63-security-flaws.html",
+    "publishedAt": "2025-11-12T10:21:00Z",
+    "summary": "Microsoft fixes 63 flaws, including an exploited Windows Kernel zero-day and a critical RCE bug.",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUYsGcLHyK_kqDIY7BFmCJ4AE9H52XJOIWUJqYcOSdx0Zd3mSRUt1Z0obn3VXzWTbrZGysPwxK7Hte4CKCobzIee0kXOVOfhyphenhyphenKZhfI-jiDss_R1mNucatfeU0nklQI3kZDiQfzPpVIsgmZj9s4hXbNhP3XzR2ibeHdBezB6w1j_CTt3FrrOQgmse3pdpPX/s790-rw-e365/windows-update.jpg"
+  },
+  {
+    "title": "Octopath Traveler 0 Demo Now Available For Switch And Switch 2, Save Data Carries Over - Nintendo Life",
+    "source": "Nintendo Life",
+    "url": "https://www.nintendolife.com/news/2025/11/octopath-traveler-0-demo-now-available-for-switch-and-switch-2-save-data-carries-over",
+    "publishedAt": "2025-11-12T02:05:00Z",
+    "summary": "Get a head start!",
+    "imageUrl": "https://images.nintendolife.com/20abd5b61208e/large.jpg"
+  },
+  {
+    "title": "Video: Dragon Quest VII: Reimagined Reveals A Familiar Face In New \"Follow-Up\" Trailer - Nintendo Life",
+    "source": "Nintendo Life",
+    "url": "https://www.nintendolife.com/news/2025/11/video-dragon-quest-vii-reimagined-reveals-a-familiar-face-in-new-follow-up-trailer",
+    "publishedAt": "2025-11-12T00:05:00Z",
+    "summary": "Is that...?",
+    "imageUrl": "https://images.nintendolife.com/3bc7515192e0e/large.jpg"
+  },
+  {
+    "title": "Elden Ring: Nightreign's The Forsaken Hollows DLC will see an iconic Dark Souls boss return - Eurogamer",
+    "source": "Eurogamer.net",
+    "url": "https://www.eurogamer.net/elden-ring-nightreigns-the-forsaken-hollows-dlc-will-see-an-iconic-dark-souls-boss-return",
+    "publishedAt": "2025-11-11T22:55:55Z",
+    "summary": "Elden Ring: Nightreign DLC announced at Sony State of Play.",
+    "imageUrl": "https://assetsio.gnwcdn.com/ELDEN-RING-NIGHTREIGN-The-Forsaken-Hollows-%E3%82%A2%E3%83%8A%E3%82%A6%E3%83%B3%E3%82%B9%E3%83%A1%E3%83%B3%E3%83%88%E3%83%88%E3%83%AC%E3%83%BC%E3%83%A9%E3%83%BC%E3%80%902025.11%E3%80%91-1-22-screenshot-(1).png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+  },
+  {
+    "title": "The Floating Head Phenomenon",
+    "source": "Hacker News",
+    "url": "https://michaelestrin.substack.com/p/the-floating-head-phenomenon",
+    "publishedAt": "2025-11-10T17:08:20.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "'The Dream Factory' Review: A Building and Its Bard",
+    "source": "Hacker News",
+    "url": "https://www.wsj.com/arts-culture/books/the-dream-factory-review-a-building-and-its-bard-6d79ce43",
+    "publishedAt": "2025-11-10T05:54:45.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Operating Margins",
+    "source": "Hacker News",
+    "url": "https://fi-le.net/margin/",
+    "publishedAt": "2025-11-09T15:46:29.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Think in math, write in code (2019)",
+    "source": "Hacker News",
+    "url": "https://www.jmeiners.com/think-in-math/",
+    "publishedAt": "2025-11-09T12:03:15.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Itiner-E – The Digital Atlas of Ancient Roads",
+    "source": "Hacker News",
+    "url": "https://itiner-e.org/",
+    "publishedAt": "2025-11-06T20:13:35.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Why I'm Learning Sumerian",
+    "source": "Hacker News",
+    "url": "https://mindthenerd.com/why-im-learning-sumerian-and-what-it-taught-me-about-hard-work-burnout-and-the-joy-of-doing-useless-things/",
+    "publishedAt": "2025-11-06T14:01:25.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "A Brutal Look at Balanced Parentheses, Computing Machines, and Pushdown Automata",
+    "source": "Hacker News",
+    "url": "https://raganwald.com/2019/02/14/i-love-programming-and-programmers.html",
+    "publishedAt": "2025-11-05T17:49:31.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Sarah Mason, inventor of the continuity script, first script supervisor",
+    "source": "Hacker News",
+    "url": "https://wfpp.columbia.edu/pioneer/ccp-sarah-y-mason/",
+    "publishedAt": "2025-11-04T22:23:36.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Why do we need dithering?",
+    "source": "Hacker News",
+    "url": "https://typefully.com/DanHollick/why-do-we-need-dithering-Ut7oD4k",
+    "publishedAt": "2025-11-04T19:27:55.000Z",
+    "summary": "No description available"
+  }
+]

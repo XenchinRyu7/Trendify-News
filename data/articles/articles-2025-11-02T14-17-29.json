@@ -1,0 +1,444 @@
+[
+  {
+    "title": "MySafeSpace – Whitehouse.gov",
+    "source": "Hacker News",
+    "url": "https://www.whitehouse.gov/mysafespace/",
+    "publishedAt": "2025-11-02T14:04:31.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Stop 'reactions' to email by adding a postfix header (2024)",
+    "source": "Hacker News",
+    "url": "https://neilzone.co.uk/2024/07/attempting-to-stop-microsoft-users-sending-reactions-to-email-from-me-by-adding-a-postfix-header/",
+    "publishedAt": "2025-11-02T12:42:04.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Matched Clean Power Index",
+    "source": "Hacker News",
+    "url": "https://matched.energy/blog/matched-clean-power-index-is-live",
+    "publishedAt": "2025-11-02T11:52:23.000Z",
+    "summary": "UK suppliers claim “100% renewable” even when selling fossil power at night.Newly launched not-for-profit Matched Clean Power Index [1] shows, using o..."
+  },
+  {
+    "title": "Tongyi DeepResearch – open-source 30B MoE Model that rivals OpenAI DeepResearch",
+    "source": "Hacker News",
+    "url": "https://tongyi-agent.github.io/blog/introducing-tongyi-deep-research/",
+    "publishedAt": "2025-11-02T11:43:26.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "HyperRogue – A non-Euclidean roguelike",
+    "source": "Hacker News",
+    "url": "https://roguetemple.com/z/hyper/",
+    "publishedAt": "2025-11-02T11:40:47.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Mock – An API creation and testing utility: Examples",
+    "source": "Hacker News",
+    "url": "https://dhuan.github.io/mock/latest/examples.html",
+    "publishedAt": "2025-11-02T11:30:50.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "URLs are state containers",
+    "source": "Hacker News",
+    "url": "https://alfy.blog/2025/10/31/your-url-is-your-state.html",
+    "publishedAt": "2025-11-02T11:12:58.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Context engineering",
+    "source": "Hacker News",
+    "url": "https://chrisloy.dev/post/2025/08/03/context-engineering",
+    "publishedAt": "2025-11-02T08:52:23.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Notes by djb on using Fil-C (2025)",
+    "source": "Hacker News",
+    "url": "https://cr.yp.to/2025/fil-c.html",
+    "publishedAt": "2025-11-02T05:32:02.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Backpropagation is a leaky abstraction (2016)",
+    "source": "Hacker News",
+    "url": "https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b",
+    "publishedAt": "2025-11-02T05:20:12.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "LM8560, the eternal chip from the 1980 years",
+    "source": "Hacker News",
+    "url": "https://www.tycospages.com/other-themes/lm8560-the-eternal-chip-from-the-1980-years/",
+    "publishedAt": "2025-11-02T04:27:31.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Crossfire: High-performance lockless spsc/mpsc/mpmc channels for Rust",
+    "source": "Hacker News",
+    "url": "https://github.com/frostyplanet/crossfire-rs",
+    "publishedAt": "2025-11-02T03:07:15.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Anonymous credentials: rate-limit bots and agents without compromising privacy",
+    "source": "Hacker News",
+    "url": "https://blog.cloudflare.com/private-rate-limiting/",
+    "publishedAt": "2025-11-02T00:45:13.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "How I use every Claude Code feature",
+    "source": "Hacker News",
+    "url": "https://blog.sshh.io/p/how-i-use-every-claude-code-feature",
+    "publishedAt": "2025-11-02T00:13:27.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Pomelli",
+    "source": "Hacker News",
+    "url": "https://blog.google/technology/google-labs/pomelli/",
+    "publishedAt": "2025-11-01T23:09:25.000Z",
+    "summary": "https:&#x2F;&#x2F;labs.google.com&#x2F;pomelli&#x2F;about&#x2F;..."
+  },
+  {
+    "title": "Visopsys: OS maintained by a single developer since 1997",
+    "source": "Hacker News",
+    "url": "https://visopsys.org/",
+    "publishedAt": "2025-11-01T22:07:49.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "From 400 Mbps to 1.7 Gbps: A WiFi 7 Debugging Journey",
+    "source": "Hacker News",
+    "url": "https://blog.tymscar.com/posts/wifi7speedhunt/",
+    "publishedAt": "2025-11-01T19:50:03.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Beginner-friendly, unofficial documentation for Helix text editor",
+    "source": "Hacker News",
+    "url": "https://helix-editor.vercel.app/start-here/basics/",
+    "publishedAt": "2025-11-01T19:33:48.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Claude Code can debug low-level cryptography",
+    "source": "Hacker News",
+    "url": "https://words.filippo.io/claude-debugging/",
+    "publishedAt": "2025-11-01T18:41:56.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Show HN: Why write code if the LLM can just do the thing? (web app experiment)",
+    "source": "Hacker News",
+    "url": "https://github.com/samrolken/nokode",
+    "publishedAt": "2025-11-01T17:45:18.000Z",
+    "summary": "I spent a few hours last weekend testing whether AI can replace code by executing directly. Built a contact manager where every HTTP request goes to a..."
+  },
+  {
+    "title": "GHC now runs in the browser",
+    "source": "Hacker News",
+    "url": "https://discourse.haskell.org/t/ghc-now-runs-in-your-browser/13169",
+    "publishedAt": "2025-11-01T16:29:23.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Updated practice for review articles and position papers in ArXiv CS category",
+    "source": "Hacker News",
+    "url": "https://blog.arxiv.org/2025/10/31/attention-authors-updated-practice-for-review-articles-and-position-papers-in-arxiv-cs-category/",
+    "publishedAt": "2025-11-01T14:58:05.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "SQLite concurrency and why you should care about it",
+    "source": "Hacker News",
+    "url": "https://jellyfin.org/posts/SQLite-locking/",
+    "publishedAt": "2025-11-01T12:59:03.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Should you stretch before a run? The answer may surprise you. - The Washington Post",
+    "source": "The Washington Post",
+    "url": "https://www.washingtonpost.com/wellness/2025/11/01/do-you-need-to-stretch-before-a-race/",
+    "publishedAt": "2025-11-01T11:31:54Z",
+    "summary": "The goal of a warm-up is to make the race experience easier and more comfortable.",
+    "imageUrl": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SKFON53YJVFEFCIRO7J2VJOCUY.jpg&w=1440"
+  },
+  {
+    "title": "\"Dumb homes\" are the latest flex - Axios",
+    "source": "Axios",
+    "url": "https://www.axios.com/2025/11/01/smart-home-analog-design",
+    "publishedAt": "2025-11-01T09:45:06Z",
+    "summary": "Think: Manual light switches and digital detox corners.",
+    "imageUrl": "https://images.axios.com/ZNU6gLLV_HF4AhGj9WXr_0uiMMw=/0x0:1920x1080/1366x768/2025/10/24/1761336939067.jpeg"
+  },
+  {
+    "title": "Is Affinity's free Photoshop rival too good to be true? - Creative Bloq",
+    "source": "Creative Bloq",
+    "url": "https://www.creativebloq.com/design/design-software/free-affinity-app-sparks-huge-debate-among-artists-and-designers",
+    "publishedAt": "2025-11-01T09:00:00Z",
+    "summary": "Designers are torn over the new app.",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/S34wnpoo7En3pUbrimczJC-1000-80.jpg"
+  },
+  {
+    "title": "Nintendo Music Updated To Version 1.4.0, Here Are The Full Patch Notes - Nintendo Life",
+    "source": "Nintendo Life",
+    "url": "https://www.nintendolife.com/news/2025/11/nintendo-music-updated-to-version-1-4-0-here-are-the-full-patch-notes",
+    "publishedAt": "2025-11-01T06:16:34Z",
+    "summary": "Including an update for Animal Crossing tracks",
+    "imageUrl": "https://images.nintendolife.com/6867a2ffbebd5/large.jpg"
+  },
+  {
+    "title": "Hyrule Warriors: Age Of Imprisonment In-Store Demos Now Available (North America) - Nintendo Life",
+    "source": "Nintendo Life",
+    "url": "https://www.nintendolife.com/news/2025/11/hyrule-warriors-age-of-imprisonment-in-store-demos-now-available-north-america",
+    "publishedAt": "2025-11-01T05:00:00Z",
+    "summary": "Try before you buy",
+    "imageUrl": "https://images.nintendolife.com/d4ebd8ff77b17/large.jpg"
+  },
+  {
+    "title": "Ankrum, Enfinger involved in multicar incident in overtime - NASCAR.com",
+    "source": "NASCAR",
+    "url": "https://www.nascar.com/videos/franchise/truck-series-highlights/ankrum-enfinger-involved-in-multicar-incident-in-overtime/",
+    "publishedAt": "2025-11-01T02:07:18Z",
+    "summary": "Just before Ty Majeski takes the white flag, multiple trucks wreck in the midpack in Turns 3 and 4, including Grant Enfinger and Championship 4 driver Tyler Ankrum.",
+    "imageUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2025/10/01/ncts-overtime-wreck-phoenix.png"
+  },
+  {
+    "title": "Houses without lounges are a reality for renters - BBC",
+    "source": "BBC News",
+    "url": "https://www.bbc.com/news/articles/c93063q2lzeo",
+    "publishedAt": "2025-11-01T01:02:51Z",
+    "summary": "Nearly a third of homes advertised on a property sharing website had no living room.",
+    "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/ce32/live/5b113cc0-b684-11f0-b2a1-6f537f66f9aa.jpg"
+  },
+  {
+    "title": "YouTube denies AI was involved with odd removals of tech tutorials - Ars Technica",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/tech-policy/2025/10/youtube-denies-ai-was-involved-with-odd-removals-of-tech-tutorials/",
+    "publishedAt": "2025-11-01T00:32:01Z",
+    "summary": "YouTubers suspect AI is bizarrely removing popular video explainers.",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2216630168-1152x648.jpg"
+  },
+  {
+    "title": "Anker's 60k mAh Power Bank Returns to Its All-Time Low Price, Charges Your iPhone 10 Times - Kotaku",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/ankers-60k-mah-power-bank-returns-to-its-all-time-low-price-charges-your-iphone-10-times-2000639699",
+    "publishedAt": "2025-10-31T23:47:06Z",
+    "summary": "Save $70 on the 60,000mAh Anker power station for a limited time at Amazon.",
+    "imageUrl": "https://kotaku.com/app/uploads/2025/09/Anker-Power-Bank-Power-Station-60000mAh.jpg"
+  },
+  {
+    "title": "Amazon just dropped the black Apple Watch Ultra 3 w/ Milanese Loop to its all-time low at $99 off - 9to5Toys",
+    "source": "9to5Toys",
+    "url": "http://9to5toys.com/2025/10/31/amazon-black-apple-watch-ultra-3-best-price/",
+    "publishedAt": "2025-10-31T22:40:00Z",
+    "summary": "This morning ushered in some particularly notable discounts on Apple Watch Ultra 3 – but you’ll need to be a...",
+    "imageUrl": "https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2025/10/Black-Titanium-Apple-Watch-Ultra-3-with-the-black-Titanium-Milanese-Loop-01.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+  },
+  {
+    "title": "Xbox Elite Series 2 Controller On Sale For Lowest Price This Year - GameSpot",
+    "source": "GameSpot",
+    "url": "https://www.gamespot.com/articles/best-xbox-elite-series-2-wireless-controller-deal-holiday-2025/1100-6535861/",
+    "publishedAt": "2025-10-31T22:37:33Z",
+    "summary": "The Elite Series 2 is the best customizable wireless controller for Xbox and PC.",
+    "imageUrl": "https://www.gamespot.com/a/uploads/screen_kubrick/1595/15950357/4594493-eliteseries2controller.jpg"
+  },
+  {
+    "title": "My Nintendo October Wrap-Up - News - Nintendo Official Site - Nintendo",
+    "source": "Nintendo.com",
+    "url": "https://www.nintendo.com/us/whatsnew/my-nintendo-october-wrap-up-2025/",
+    "publishedAt": "2025-10-31T22:09:22Z",
+    "summary": "The Pokémon™ Legends: Z-A game is available now and Halloween is here! To celebrate both these fun events, My Nintendo scared up some fun rewards you can collect when redeeming your Platinum Points. My Nintendo – Pokémon Legends: Z-A Adventure Pack …",
+    "imageUrl": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg"
+  },
+  {
+    "title": "Apple iPhone Air review – The thinnest smartphone packs a ton of power - Notebookcheck",
+    "source": "Notebookcheck.net",
+    "url": "https://www.notebookcheck.net/Apple-iPhone-Air-review-The-thinnest-smartphone-packs-a-ton-of-power.1152091.0.html",
+    "publishedAt": "2025-10-31T21:16:00Z",
+    "summary": "iPhone Air review | The slimmest iPhone of 2025 comes with a fast Apple A19 Pro chip, at least 256 GB of storage, and a very bright display. Compromises have had to be made in terms of the camera, GPU performance, and battery life.",
+    "imageUrl": "https://www.notebookcheck.net/fileadmin/Notebooks/Apple/iPhone_Air/aPic_Apple_iPhone_Air-1580-2.jpg"
+  },
+  {
+    "title": "Chun-Li gameplay trailer released for Fatal Fury: City of the Wolves - EventHubs",
+    "source": "EventHubs",
+    "url": "https://www.eventhubs.com/news/2025/oct/31/chunli-fatal-fury-trailer/",
+    "publishedAt": "2025-10-31T21:01:37Z",
+    "summary": "Terry Bogard and Mai Shiranui joined Street Fighter 6 as guests last season, and it's time for Capcom to return the favor with another icon of their own.During the first day of the SNK World Championship 2025, SNK ...",
+    "imageUrl": "https://media.eventhubs.com/images/2025/10/30-ff-chun-trailert.webp"
+  },
+  {
+    "title": "Bluesky hits 40 million users, introduces ‘dislikes’ beta - TechCrunch",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2025/10/31/bluesky-hits-40-million-users-introduces-dislikes-beta/",
+    "publishedAt": "2025-10-31T20:14:06Z",
+    "summary": "As users \"dislike\" posts, the system will learn what sort of content they want to see less of. This will help to inform more than just how content is ranked in feeds, but also reply rankings.",
+    "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/01/bluesky-GettyImages-2185142051.jpg?resize=1200,800"
+  },
+  {
+    "title": "Gemini features in Google Home won’t just appear, here’s how to sign up for early access - 9to5Google",
+    "source": "9to5google.com",
+    "url": "http://9to5google.com/2025/10/31/gemini-google-home-how-to-sign-up/",
+    "publishedAt": "2025-10-31T19:53:57Z",
+    "summary": "Google Assistant is officially being shown the door, and Gemini is sneaking in through the back. As early access opens...",
+    "imageUrl": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/04/Light-controls-Nest-Hub-2nd-gen-v2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+  },
+  {
+    "title": "‘Grand Theft Auto’ Studio Accused of Union Busting After Firings - Bloomberg.com",
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2025-10-31/-grand-theft-auto-studio-accused-of-union-busting-after-firings",
+    "publishedAt": "2025-10-31T19:44:07Z",
+    "summary": "Union says between 30 and 40 people were terminated. Rockstar Games’ parent company cites ‘gross misconduct’",
+    "imageUrl": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iSRT2u.RwTFY/v0/1200x708.jpg"
+  },
+  {
+    "title": "Google Pulls the Plug on Older Nest Thermostats - PCMag",
+    "source": "PCMag.com",
+    "url": "https://www.pcmag.com/news/google-pulls-the-plug-on-older-nest-thermostats",
+    "publishedAt": "2025-10-31T19:13:09Z",
+    "summary": "You can manually set the temperature, but it no longer connects to the Google Nest or Home apps.",
+    "imageUrl": "https://i.pcmag.com/imagery/articles/019hsPI75cL32i29tDwIbN3-1.fit_lim.size_1200x630.v1761937740.jpg"
+  },
+  {
+    "title": "Windows 11 tests Bluetooth audio sharing that connects two headsets at once - The Verge",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/news/811795/microsoft-windows-11-bluetooth-le-shared-audio-headsets",
+    "publishedAt": "2025-10-31T18:32:30Z",
+    "summary": "Microsoft is testing shared audio on Windows 11, allowing users to broadcast audio across two pairs of headphones, earbuds, speakers, or hearing aids.",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK109_WINDOWS_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
+    "title": "OpenAI will let Sora users pay extra to make more AI videos - Mashable",
+    "source": "Mashable",
+    "url": "https://mashable.com/article/openai-sora-pay-make-more-ai-videos",
+    "publishedAt": "2025-10-31T17:56:14Z",
+    "summary": "In case 30 free generations per day weren't enough.",
+    "imageUrl": "https://helios-i.mashable.com/imagery/articles/045zpvGGvBS3S64Y3meWLm2/hero-image.fill.size_1200x675.v1761931635.jpg"
+  },
+  {
+    "title": "Adobe’s experimental AI tool can edit entire videos using one frame - The Verge",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/news/811602/adobe-max-2025-sneaks-projects",
+    "publishedAt": "2025-10-31T17:31:03Z",
+    "summary": "Adobe demonstrated some of the experimental AI tools it’s working on at its Max conference that provide new ways to intuitively edit photos, videos, and audio.",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Adobe-Project-Frame-Forward.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
+    "title": "The Outer Worlds 2's faction writing falls short of Fallout: New Vegas, and how it handles the powerful is key - Rock Paper Shotgun",
+    "source": "Rock Paper Shotgun",
+    "url": "https://www.rockpapershotgun.com/the-outer-worlds-2s-faction-writing-falls-short-of-fallout-new-vegas-and-how-it-handles-the-powerful-is-key",
+    "publishedAt": "2025-10-31T17:27:42Z",
+    "summary": "The Outer Worlds 2's creative director has discussed the RPG's corporate satire and how it meshes with being owned by Microsoft.",
+    "imageUrl": "https://assetsio.gnwcdn.com/outer-worlds-2-people-in-power-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+  },
+  {
+    "title": "The Séance of Blake Manor is shaping up to be one of my favourite games this year, and a brilliant Halloween treat for detective fans - Eurogamer",
+    "source": "Eurogamer.net",
+    "url": "https://www.eurogamer.net/the-seance-of-blake-manor-is-shaping-up-to-be-one-of-my-favourite-games-this-year-and-a-brilliant-halloween-treat-for-detective-fans",
+    "publishedAt": "2025-10-31T17:08:12Z",
+    "summary": "Turnips! Everywhere! As far as the eye can see! Well, not quite, but The Séance of Blake Manor certainly has a lot of t…",
+    "imageUrl": "https://assetsio.gnwcdn.com/blake-manor-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+  },
+  {
+    "title": "Nation-State Hackers Deploy New Airstalk Malware in Suspected Supply Chain Attack - The Hacker News",
+    "source": "Internet",
+    "url": "https://thehackernews.com/2025/10/nation-state-hackers-deploy-new.html",
+    "publishedAt": "2025-10-31T16:08:00Z",
+    "summary": "New Airstalk malware hijacks AirWatch APIs in stealth supply chain attack, targeting enterprise browsers.",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsKxzaqZgRJLRPcNqwG7WhPAKXXPkKpEOo3KCEyJxJAGr4jvJCJYu7f5_MKXFMBZEAYHyDeNoDbQMuA-f4OOSp74F9iEax0USQCQ0oyFWnJTn4IJc-wiXoxpiFociu-ToO04Wyjq6vry_PsdrCzezc2OvE_SD7esW9tFMPrgG2jpa1KfUoJcMPcVynngGI/s790-rw-e365/cyberattack.jpg"
+  },
+  {
+    "title": "Pokémon TCG: Mega Evolution—Phantasmal Flames Product Showcase - Pokemon.com",
+    "source": "Pokemon.com",
+    "url": "https://www.pokemon.com/us/pokemon-news/pokemon-tcg-mega-evolution-phantasmal-flames-product-showcase",
+    "publishedAt": "2025-10-31T16:06:20Z",
+    "summary": "More Mega Evolution Pokémon ex are heating up this new expansion—see the products that will be available when it launches on November 14.",
+    "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/_tiles/me/me02/product-showcase/me02-product-showcase-169-en.png"
+  },
+  {
+    "title": "Here's why Galaxy XR is replacing my monitor/TV/desk/etc - Android Central",
+    "source": "Android Central",
+    "url": "https://www.androidcentral.com/gaming/virtual-reality/heres-why-galaxy-xr-is-replacing-my-monitor-tv-desk-etc",
+    "publishedAt": "2025-10-31T16:05:53Z",
+    "summary": "Ultra-high resolution displays, an extra comfortable design, and killer software make this the go-to productivity and entertainment headset.",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/b25Ee4cvFzaByJVywx5Kbf-1200-80.jpg"
+  },
+  {
+    "title": "Woot is offering solid discounts on some of the best Nintendo Switch 2 games - The Verge",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/811251/best-nintendo-switch-2-game-mario-zelda-deal-sale",
+    "publishedAt": "2025-10-31T16:05:00Z",
+    "summary": "Woot’s video game sale includes discounts on Donkey Kong Bananza, Mario Kart World, and the Switch 2 editions of many original Switch games, including Tears of the Kingdom.",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Donkey-Kong-Bananza-2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
+    "title": "Lenovo's budget-friendly 2025 Idea Tab Plus Android tablet with 90Hz display hits new $200 all-time low, more from $130 - 9to5Toys",
+    "source": "9to5Toys",
+    "url": "http://9to5toys.com/2025/10/31/lenovo-2025-idea-tab-plus-android-tablet-hits-new-200-all-time-low/",
+    "publishedAt": "2025-10-31T16:03:00Z",
+    "summary": "As part of its now live early Black Friday sale, Best Buy is offering a handful of Lenovo Android tablets...",
+    "imageUrl": "https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2025/10/Lenovo-Idea-Tab-Plus-tablet.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+  },
+  {
+    "title": "AI browsers are here, and they're already being hacked - NBC News",
+    "source": "NBC News",
+    "url": "https://www.nbcnews.com/tech/tech-news/ai-browsers-comet-openai-hacked-atlas-chatgpt-rcna235980",
+    "publishedAt": "2025-10-31T16:02:17Z",
+    "summary": "Hackers can target AI browsers with prompts hidden in websites.",
+    "imageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-10/251031-ai-final-illo-gk-aeaaa2.jpg"
+  },
+  {
+    "title": "Telephone: A Game for Artists",
+    "source": "Hacker News",
+    "url": "https://telephonegame.art/game",
+    "publishedAt": "2025-10-31T12:11:39.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "When O3 is 2x slower than O2",
+    "source": "Hacker News",
+    "url": "https://cat-solstice.github.io/test-pqueue/",
+    "publishedAt": "2025-10-28T23:29:47.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "3M Diskette Reference Manual (1983) [pdf]",
+    "source": "Hacker News",
+    "url": "https://retrocmp.de/fdd/diskette/3M_Diskette_Reference_Manual_May83.pdf",
+    "publishedAt": "2025-10-27T23:44:35.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Welcome to hell; please drive carefully",
+    "source": "Hacker News",
+    "url": "https://2earth.github.io/website/20251026.html",
+    "publishedAt": "2025-10-27T21:47:07.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "FlightAware Map Design",
+    "source": "Hacker News",
+    "url": "https://andywoodruff.com/posts/2024/flightaware-maps/",
+    "publishedAt": "2025-10-27T11:42:36.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Go Primitive in Java, or Go in a Box",
+    "source": "Hacker News",
+    "url": "https://donraab.medium.com/go-primitive-in-java-or-go-in-a-box-c26f5c6d7574",
+    "publishedAt": "2025-10-25T20:46:04.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Automatically Translating C to Rust",
+    "source": "Hacker News",
+    "url": "https://cacm.acm.org/research/automatically-translating-c-to-rust/",
+    "publishedAt": "2025-10-24T15:12:33.000Z",
+    "summary": "No description available"
+  }
+]

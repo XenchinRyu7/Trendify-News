@@ -1,0 +1,452 @@
+[
+  {
+    "title": "Israel demanded Google and Amazon use secret 'wink' to sidestep legal orders",
+    "source": "Hacker News",
+    "url": "https://www.theguardian.com/us-news/2025/oct/29/google-amazon-israel-contract-secret-code",
+    "publishedAt": "2025-10-29T13:20:03.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "From VS Code to Helix",
+    "source": "Hacker News",
+    "url": "https://ergaster.org/posts/2025/10/29-vscode-to-helix/",
+    "publishedAt": "2025-10-29T13:19:30.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Show HN: Learn German with Games",
+    "source": "Hacker News",
+    "url": "https://www.learngermanwithgames.com/",
+    "publishedAt": "2025-10-29T11:50:58.000Z",
+    "summary": "I just started learning German, and it has been a frustrating experience, to say the least. There are so many seemingly arbitrary rules that make patt..."
+  },
+  {
+    "title": "AWS to bare metal two years later: Answering your questions about leaving AWS",
+    "source": "Hacker News",
+    "url": "https://oneuptime.com/blog/post/2025-10-29-aws-to-bare-metal-two-years-later/view",
+    "publishedAt": "2025-10-29T11:14:38.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Aggressive bots ruined my weekend",
+    "source": "Hacker News",
+    "url": "https://herman.bearblog.dev/agressive-bots/",
+    "publishedAt": "2025-10-29T10:47:25.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "YouTube is taking down videos on performing nonstandard Windows 11 installs",
+    "source": "Hacker News",
+    "url": "https://old.reddit.com/r/DataHoarder/comments/1oiz0v0/youtube_is_taking_down_videos_on_performing/",
+    "publishedAt": "2025-10-29T09:26:09.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "SpiderMonkey Garbage Collector",
+    "source": "Hacker News",
+    "url": "https://firefox-source-docs.mozilla.org/js/gc.html",
+    "publishedAt": "2025-10-29T09:06:36.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Who needs Graphviz when you can build it yourself?",
+    "source": "Hacker News",
+    "url": "https://spidermonkey.dev/blog/2025/10/28/iongraph-web.html",
+    "publishedAt": "2025-10-29T05:17:49.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Wacl – A Tcl Distribution for WebAssembly",
+    "source": "Hacker News",
+    "url": "https://github.com/ecky-l/wacl",
+    "publishedAt": "2025-10-29T04:25:24.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Keep Android Open",
+    "source": "Hacker News",
+    "url": "http://keepandroidopen.org/",
+    "publishedAt": "2025-10-29T04:03:41.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "uBlock Origin Lite Apple App Store",
+    "source": "Hacker News",
+    "url": "https://apps.apple.com/in/app/ublock-origin-lite/id6745342698",
+    "publishedAt": "2025-10-29T03:57:06.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Tips for stroke-surviving software engineers",
+    "source": "Hacker News",
+    "url": "https://blog.j11y.io/2025-10-29_stroke_tips_for_engineers/",
+    "publishedAt": "2025-10-29T03:51:56.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Keeping the Internet fast and secure: introducing Merkle Tree Certificates",
+    "source": "Hacker News",
+    "url": "https://blog.cloudflare.com/bootstrap-mtc/",
+    "publishedAt": "2025-10-28T22:39:24.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Tinkering is a way to acquire good taste",
+    "source": "Hacker News",
+    "url": "https://seated.ro/blog/tinkering-a-lost-art",
+    "publishedAt": "2025-10-28T21:31:50.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Generative AI Image Editing Showdown",
+    "source": "Hacker News",
+    "url": "https://genai-showdown.specr.net/image-editing",
+    "publishedAt": "2025-10-28T20:58:22.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Boring is what we wanted",
+    "source": "Hacker News",
+    "url": "https://512pixels.net/2025/10/boring-is-what-we-wanted/",
+    "publishedAt": "2025-10-28T19:57:16.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "HTTPS by default",
+    "source": "Hacker News",
+    "url": "https://security.googleblog.com/2025/10/https-by-default.html",
+    "publishedAt": "2025-10-28T18:04:00.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "What we talk about when we talk about sideloading",
+    "source": "Hacker News",
+    "url": "https://f-droid.org/2025/10/28/sideloading.html",
+    "publishedAt": "2025-10-28T18:02:36.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Fil-C: A memory-safe C implementation",
+    "source": "Hacker News",
+    "url": "https://lwn.net/SubscriberLink/1042938/658ade3768dd4758/",
+    "publishedAt": "2025-10-28T17:25:04.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Nvidia takes $1B stake in Nokia",
+    "source": "Hacker News",
+    "url": "https://www.cnbc.com/2025/10/28/nvidia-nokia-ai.html",
+    "publishedAt": "2025-10-28T15:53:52.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "EuroLLM: LLM made in Europe built to support all 24 official EU languages",
+    "source": "Hacker News",
+    "url": "https://eurollm.io/",
+    "publishedAt": "2025-10-28T14:58:04.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "The AirPods Pro 3 flight problem",
+    "source": "Hacker News",
+    "url": "https://basicappleguy.com/basicappleblog/the-airpods-pro-3-flight-problem",
+    "publishedAt": "2025-10-28T14:27:37.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Battlefield 6 Update 1.1.1.0 Now Live on All Platforms Ahead of Season 1 and Battle Pass Progression Later Today - IGN",
+    "source": "IGN",
+    "url": "https://www.ign.com/articles/battlefield-6-update-1110-now-live-on-all-platforms-ahead-of-season-1-and-battle-pass-progression-later-today",
+    "publishedAt": "2025-10-28T10:56:30Z",
+    "summary": "No description available",
+    "imageUrl": null
+  },
+  {
+    "title": "Chrome Zero-Day Exploited to Deliver Italian Memento Labs' LeetAgent Spyware - The Hacker News",
+    "source": "Internet",
+    "url": "https://thehackernews.com/2025/10/chrome-zero-day-exploited-to-deliver.html",
+    "publishedAt": "2025-10-28T08:22:00Z",
+    "summary": "Kaspersky reveals Chrome zero-day CVE-2025-2783 exploited to deploy Memento Labs’ LeetAgent spyware.",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlit13ZALqbP4pKEZd8NpHu_edHw_YPa9HXncHsIbMJNBzjSN1JsbaFNhyphenhyphen6Ev8hKB2a4lmJjj-fBhgClb7MDjW6tAmiADb8Cd5JN4S3-fwI1dLURjypMyhZuNlXRx-ziWHpryutwG431Ifgfs1qpsS5zHgaV0wOkjiWrbUPjGpujCbGTnDU1R6BcmSy8Hn/s790-rw-e365/chrome-exploit.png"
+  },
+  {
+    "title": "Sony's Social Media Tribute to the PS2 Borders on Insulting - Push Square",
+    "source": "Push Square",
+    "url": "https://www.pushsquare.com/news/2025/10/sonys-social-media-tribute-to-the-ps2-borders-on-insulting",
+    "publishedAt": "2025-10-28T05:00:00Z",
+    "summary": "You can do better",
+    "imageUrl": "https://images.pushsquare.com/01b8fb4d7dc90/large.jpg"
+  },
+  {
+    "title": "BREAKING: This is the Galaxy Z TriFold! - SamMobile",
+    "source": "SamMobile",
+    "url": "https://www.sammobile.com/news/galaxy-z-trifold-showcased-officially/",
+    "publishedAt": "2025-10-28T04:18:45Z",
+    "summary": "After years of reports and rumors, the day is finally here. Samsung is finally ready to launch its first tri-folding smartphone. The first official look of the Galaxy Z TriFold has been revealed ahead of the APEC 2025 summit that is happening this week in Sou…",
+    "imageUrl": "https://www.sammobile.com/wp-content/uploads/2025/10/Samsung-Galaxy-Z-TriFold-1200x675.jpeg"
+  },
+  {
+    "title": "Loulan: The Cursed Sand Looks Like Another Must Play PS5 Console Exclusive - Push Square",
+    "source": "Push Square",
+    "url": "https://www.pushsquare.com/news/2025/10/loulan-the-cursed-sand-looks-like-another-must-play-ps5-console-exclusive",
+    "publishedAt": "2025-10-28T04:00:00Z",
+    "summary": "Ashes to ashes",
+    "imageUrl": "https://images.pushsquare.com/f72477409aef4/large.jpg"
+  },
+  {
+    "title": "Poll: So, Will You Be Getting Hyrule Warriors: Age Of Imprisonment? - Nintendo Life",
+    "source": "Nintendo Life",
+    "url": "https://www.nintendolife.com/news/2025/10/poll-so-will-you-be-getting-hyrule-warriors-age-of-imprisonment",
+    "publishedAt": "2025-10-28T03:55:00Z",
+    "summary": "Out on Switch 2 next week",
+    "imageUrl": "https://images.nintendolife.com/d3bc1b6a38cf6/large.jpg"
+  },
+  {
+    "title": "Scientists Built a Working Computer Memory Out of Shiitake Mushrooms - ScienceAlert",
+    "source": "ScienceAlert",
+    "url": "https://www.sciencealert.com/scientists-built-a-working-computer-memory-out-of-shiitake-mushrooms",
+    "publishedAt": "2025-10-28T01:42:46Z",
+    "summary": "A computer that relies on fungal mycelium to store information could one day be a low-cost alternative to the current generation of memory hardware.",
+    "imageUrl": "https://www.sciencealert.com/images/2025/10/mushroom_memristor_header.jpg"
+  },
+  {
+    "title": "Google's next Pixel Drop may land early, as leak spills the beans on features and November ETA - Android Authority",
+    "source": "Android Authority",
+    "url": "https://www.androidauthority.com/november-pixel-drop-leak-3610662/",
+    "publishedAt": "2025-10-28T00:54:25Z",
+    "summary": "Google's next Pixel Drop could be here before expected, with a new leak revealing features and a November ETA.",
+    "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2025/09/google-pixel-10-pro-jade-back-2-scaled.jpg"
+  },
+  {
+    "title": "Samsung, Google unveil $1,799 device that aims to replace everything - TheStreet",
+    "source": "TheStreet",
+    "url": "https://www.thestreet.com/entertainment/samsung-google-unveil-1799-device-that-aims-to-replace-everything",
+    "publishedAt": "2025-10-28T00:07:00Z",
+    "summary": "Samsung and Google’s Galaxy XR headset blends AI, apps, and immersive computing in one sleek device.",
+    "imageUrl": "https://www.thestreet.com/.image/w_1200,h_630,g_auto,c_fill/MjE2Mzg2OTE0MTUwNzg2NDE1/sundar_pichai_google_cp_071725.jpg"
+  },
+  {
+    "title": "Microsoft WSUS attacks hit 'multiple' orgs, Google warns - theregister.com",
+    "source": "Theregister.com",
+    "url": "https://www.theregister.com/2025/10/27/microsoft_wsus_attacks_multiple_orgs/",
+    "publishedAt": "2025-10-27T23:54:00Z",
+    "summary": ": If at first you don’t succeed, patch and patch again",
+    "imageUrl": "https://regmedia.co.uk/2024/04/19/shutterstock_bell.jpg"
+  },
+  {
+    "title": "Black Friday deals we hope to see — the Fire TV Stick 4K for under $25 - Mashable",
+    "source": "Mashable",
+    "url": "https://mashable.com/article/black-friday-amazon-fire-stick-4k",
+    "publishedAt": "2025-10-27T23:01:30Z",
+    "summary": "Will it go as low as Prime Day?",
+    "imageUrl": "https://helios-i.mashable.com/imagery/articles/07MyJL4z4Ft3axfB6ZBCaMr/hero-image.fill.size_1200x675.v1761297942.png"
+  },
+  {
+    "title": "Porsche’s 2026 911 Turbo S is a ballistic, twin-turbo, 701-horsepower monster - Ars Technica",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/cars/2025/10/porsches-2026-911-turbo-s-is-a-ballistic-twin-turbo-701-horsepower-monster/",
+    "publishedAt": "2025-10-27T23:01:06Z",
+    "summary": "Big power, no lag, surprising agility make for a stellar drive—at an astronomical cost.",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/2026-Porsche-911-Turbo-S-first-drive-005-2560x1440.jpg"
+  },
+  {
+    "title": "Still Using Windows 10? These Free Updates Will Help Keep Your PC Secure - CNET",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/services-and-software/still-using-windows-10-these-free-updates-will-help-keep-your-pc-secure/",
+    "publishedAt": "2025-10-27T23:00:00Z",
+    "summary": "Your Windows 10 device is eligible for the Extended Security Updates program until October 2026.",
+    "imageUrl": "https://www.cnet.com/a/img/resize/70173af9f175253ee1e0bdd38a8fd1b9f9003a3d/hub/2025/08/29/8343e52b-e66e-43dc-a4c4-3475ca2236ff/gettyimages-1237969321.jpg?auto=webp&fit=crop&height=675&width=1200"
+  },
+  {
+    "title": "Trump’s DHS is recruiting ICE officers with a Halo meme - The Verge",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/news/807514/trump-white-house-dhs-ice-halo-image-meme-gamestop-console-wars",
+    "publishedAt": "2025-10-27T22:21:24Z",
+    "summary": "The Department of Homeland Security is using an image from Halo as a recruitment tactic on social media. The Trump Administration and GameStop have also posted images in support of Trump.",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/ss_80a9ae89a66e1033d03966a60afb2749cc3d0451.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
+  },
+  {
+    "title": "M5 iPad Pro after five days: Was upgrade from M4 worth it? - 9to5Mac",
+    "source": "9to5Mac",
+    "url": "https://9to5mac.com/2025/10/27/m5-ipad-pro-after-five-days-was-upgrade-from-m4-worth-it/",
+    "publishedAt": "2025-10-27T21:45:00Z",
+    "summary": "Apple’s M5 iPad Pro arrived last week, and I upgraded to the new model after using the M4 model for the past year. Here’s how it’s been.",
+    "imageUrl": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/m5-ipad-pro-13-inch.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+  },
+  {
+    "title": "Pokémon Card Fan Loses Collection In The Worst Way Possible - Kotaku",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/pokemon-card-collection-basement-storage-insurance-2000639383",
+    "publishedAt": "2025-10-27T21:11:46Z",
+    "summary": "A busted sewage pipe took out tons of sealed packs",
+    "imageUrl": "https://kotaku.com/app/uploads/2025/10/Yuck-1.jpg"
+  },
+  {
+    "title": "Should you invest in the Oura Ring Gen 4? After 4 months of testing, we are not so sure - Live Science",
+    "source": "Live Science",
+    "url": "https://www.livescience.com/health/oura-ring-gen-4-review-after-four-months-of-testing",
+    "publishedAt": "2025-10-27T21:00:00Z",
+    "summary": "We liked the Oura Ring Gen 4 so much that we named it the best smart ring and the best sleep tracker on the market. However, it is an undeniably expensive piece of kit, to the point that it is hard to justify the ongoing cost of an Oura membership when there …",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/GHEUXcJA4GcZNfqV6oLEWK-2132-80.jpg"
+  },
+  {
+    "title": "Fitbit’s revamped app, with Gemini-powered health coach, rolls out to Premium users - TechCrunch",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2025/10/27/fitbits-revamped-app-with-gemini-powered-health-coach-rolls-out-to-premium-users/",
+    "publishedAt": "2025-10-27T19:11:50Z",
+    "summary": "Called “Coach,” this feature is designed to be your all-in-one fitness trainer, sleep coach, and health and wellness advisor.",
+    "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/10/FitbitGeminiCoach-preview.png?w=1200"
+  },
+  {
+    "title": "EA’s Attempt to Use AI for Game Development Backfiring Horribly - Futurism",
+    "source": "Futurism",
+    "url": "http://futurism.com/artificial-intelligence/ea-attempts-use-ai-game-development-backfiring",
+    "publishedAt": "2025-10-27T19:06:05Z",
+    "summary": "Staffers at major video game developer Electronic Arts told Business Insider, their employer's attempts to use AI are backfiring.",
+    "imageUrl": "https://futurism.com/wp-content/uploads/2025/10/ea-attempts-use-ai-game-development-backfiring.jpg?w=1200"
+  },
+  {
+    "title": "Google's working on a Trash folder for Messages - Android Authority",
+    "source": "Android Authority",
+    "url": "https://www.androidauthority.com/google-messages-trash-folder-3610484/",
+    "publishedAt": "2025-10-27T18:12:44Z",
+    "summary": "Code in the latest beta version of the Google Messages app makes references to a new folder for trashed conversations.",
+    "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2025/10/google-messages-trash-spongebob.jpg"
+  },
+  {
+    "title": "Yes, the new password alternative is actually safer - MakeUseOf",
+    "source": "MakeUseOf",
+    "url": "https://www.makeuseof.com/passkeys-much-safer-than-old-passwords/",
+    "publishedAt": "2025-10-27T17:00:00Z",
+    "summary": "Passkeys replace passwords, making logins effortless, secure, and nearly unbreakable across all devices.",
+    "imageUrl": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2025/10/passkey-sign-in-on-tablet-with-passkey-icon.jpg?w=1600&h=900&fit=crop"
+  },
+  {
+    "title": "Obsidian: A studio where fun, fantasy and dedication to role-playing games reign supreme - Microsoft Source",
+    "source": "Microsoft.com",
+    "url": "https://news.microsoft.com/source/features/work-life/obsidian-a-studio-where-fun-fantasy-and-dedication-to-role-playing-games-reign-supreme/",
+    "publishedAt": "2025-10-27T16:08:12Z",
+    "summary": "Discover how Obsidian Entertainment approaches role-playing games to expand their legacy of funny, player-driven experiences.",
+    "imageUrl": "https://news.microsoft.com/source/wp-content/uploads/2025/10/The-Outer-Worlds-2_Screenshots_env-1p-auntiehq_3840x2160_RGB-1024x576.png"
+  },
+  {
+    "title": "Celebrate the Pokémon TCG: Mega Lucario ex Figure Collection with Pokémon GO - Pokemon.com",
+    "source": "Pokemon.com",
+    "url": "https://www.pokemon.com/us/pokemon-news/celebrate-the-pokemon-tcg-mega-lucario-ex-figure-collection-with-pokemon-go",
+    "publishedAt": "2025-10-27T16:06:10Z",
+    "summary": "Visit participating retailers to check out the new Mega Lucario ex Figure Collection and take on Mega Lucario Raid Battles.",
+    "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/video-games/_tiles/pokemon-go/2025/10/27/tcg/pokemon-go-169.png"
+  },
+  {
+    "title": "Sora is showing us how broken deepfake detection is - The Verge",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/report/806359/openai-sora-deepfake-detection-c2pa-content-credentials",
+    "publishedAt": "2025-10-27T16:00:00Z",
+    "summary": "OpenAI’s video generator embeds C2PA metadata that can help identify deepfakes when posted to other platforms, but the system clearly isn’t working.",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK419_DEEPFAKE_CVIRGINIA_C.gif?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
+    "title": "Report: Apple to release four new ‘pro’ apps for iPad soon - 9to5Mac",
+    "source": "9to5Mac",
+    "url": "https://9to5mac.com/2025/10/27/report-apple-to-release-four-new-pro-apps-for-ipad-soon/",
+    "publishedAt": "2025-10-27T15:19:00Z",
+    "summary": "Apple might have a big expansion of its iPad apps in store. A new report today says that Apple could...",
+    "imageUrl": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/motion-app.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+  },
+  {
+    "title": "Next-Gen Xbox Will Reportedly Play PlayStation Games Like God of War and Spider-Man Because It’s a Console / PC Hybrid That Runs Steam - IGN",
+    "source": "IGN",
+    "url": "https://www.ign.com/articles/next-gen-xbox-will-reportedly-play-playstation-games-like-god-of-war-and-spider-man-because-its-a-console-pc-hybrid-that-runs-steam",
+    "publishedAt": "2025-10-27T15:16:43Z",
+    "summary": "A new report has revealed details on Microsoft’s next-gen Xbox console, which is allegedly a console / PC hybrid that will play PlayStation games released on PC via Steam.",
+    "imageUrl": "https://assets-prd.ignimgs.com/2025/04/10/xboxcontrollervelocitygreen-1744308796589.jpg?width=1280&format=jpg&auto=webp&quality=80"
+  },
+  {
+    "title": "iOS 26.1 Coming Soon: New Features for Your iPhone and Release Date - MacRumors",
+    "source": "MacRumors",
+    "url": "https://www.macrumors.com/2025/10/27/ios-26-1-release-date/",
+    "publishedAt": "2025-10-27T14:55:50Z",
+    "summary": "The upcoming iOS 26.1 update includes a handful of new features and changes for iPhones, including a toggle for changing the appearance of the Liquid...",
+    "imageUrl": "https://images.macrumors.com/t/hA8-InYSASCV9BmL5Loq8C5XKIw=/2500x/article-new/2025/09/iOS-26.1-Feature.jpg"
+  },
+  {
+    "title": "New ChatGPT Atlas Browser Exploit Lets Attackers Plant Persistent Hidden Commands - The Hacker News",
+    "source": "Internet",
+    "url": "https://thehackernews.com/2025/10/new-chatgpt-atlas-browser-exploit-lets.html",
+    "publishedAt": "2025-10-27T14:31:00Z",
+    "summary": "Researchers uncover a CSRF flaw in ChatGPT Atlas letting attackers inject persistent malicious code.",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjDfq1tN5Ap43g7G5CQgjVrSSmrbFsxBYg0A1f7lzX6fMXkdlZ_1hD2ceYP8N3dVVoftQI7gnM5XmwVi9H4Js0m1WOGaoEC8rZOxbv3pPqoKFoOgrDbMj6P-9vdd-YWEjW56MvKGICyZu8VateghhN3NyGQMqbU0SEQ0NeeXVmxh22Hv9SgMGB7KosNLJP/s790-rw-e365/openai.jpg"
+  },
+  {
+    "title": "Gemini is gaining fast on ChatGPT in one particular way, according to new data - ZDNET",
+    "source": "ZDNet",
+    "url": "https://www.zdnet.com/article/gemini-is-gaining-fast-on-chatgpt-in-one-particular-way-according-to-new-data/",
+    "publishedAt": "2025-10-27T14:27:00Z",
+    "summary": "Google's chatbot has been making impressive gains lately. Here's why.",
+    "imageUrl": "https://www.zdnet.com/a/img/resize/c811ebe938d8a836552c1353cc288359877e3a71/2025/10/27/373add95-3cd2-40e8-b878-0ff8bf1fbd50/gettyimages-2197163077.jpg?auto=webp&fit=crop&height=675&width=1200"
+  },
+  {
+    "title": "iPhone Air production change orders may not be true - AppleInsider",
+    "source": "AppleInsider",
+    "url": "https://appleinsider.com/articles/25/10/27/iphone-air-production-change-orders-may-not-be-true",
+    "publishedAt": "2025-10-27T14:11:00Z",
+    "summary": "Apple may not be changing its production figures for the iPhone Air after all, as one supply chain report claims Apple hasn't reduced production levels for 2025.",
+    "imageUrl": "https://photos5.appleinsider.com/gallery/65541-137143-65192-136263-iPhone-Air-xl-xl.jpg"
+  },
+  {
+    "title": "Show HN: Automate robot data quality improvement",
+    "source": "Hacker News",
+    "url": "https://github.com/RoboticsData/score_lerobot_episodes",
+    "publishedAt": "2025-10-27T10:34:35.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "UIs Are Not Pure Functions of the Model – React.js and Cocoa Side by Side (2018)",
+    "source": "Hacker News",
+    "url": "https://blog.metaobject.com/2018/12/uis-are-not-pure-functions-of-model.html",
+    "publishedAt": "2025-10-25T14:33:19.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "ChatGPT's Atlas: The Browser That's Anti-Web",
+    "source": "Hacker News",
+    "url": "https://www.anildash.com//2025/10/22/atlas-anti-web-browser/",
+    "publishedAt": "2025-10-25T09:08:26.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Wheeled Inverted Pendulum Model",
+    "source": "Hacker News",
+    "url": "https://scaron.info/robotics/wheeled-inverted-pendulum-model.html",
+    "publishedAt": "2025-10-25T04:41:01.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Powerful and precise multi-color lasers now fit on a single chip",
+    "source": "Hacker News",
+    "url": "https://phys.org/news/2025-10-powerful-precise-multi-lasers-chip.html",
+    "publishedAt": "2025-10-24T23:18:14.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Apple will phase out Rosetta 2 in macOS 28",
+    "source": "Hacker News",
+    "url": "https://developer.apple.com/documentation/apple-silicon/about-the-rosetta-translation-environment",
+    "publishedAt": "2025-10-24T08:04:28.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Eye prosthesis is the first to restore sight lost to macular degeneration",
+    "source": "Hacker News",
+    "url": "https://med.stanford.edu/news/all-news/2025/10/eye-prosthesis.html",
+    "publishedAt": "2025-10-22T16:36:25.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Continuous Nvidia CUDA Profiling in Production",
+    "source": "Hacker News",
+    "url": "https://www.polarsignals.com/blog/posts/2025/10/22/gpu-profiling",
+    "publishedAt": "2025-10-22T14:05:54.000Z",
+    "summary": "No description available"
+  }
+]

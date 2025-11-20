@@ -1,0 +1,437 @@
+[
+  {
+    "title": "PSF has withdrawn $1.5M proposal to US Government grant program",
+    "source": "Hacker News",
+    "url": "https://pyfound.blogspot.com/2025/10/NSF-funding-statement.html",
+    "publishedAt": "2025-10-27T15:12:08.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Pyrex catalog from from 1938 with hand-drawn lab glassware [pdf]",
+    "source": "Hacker News",
+    "url": "https://exhibitdb.cmog.org/opacimages/Images/Pyrex/Rakow_1000132877.pdf",
+    "publishedAt": "2025-10-27T15:04:05.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Microsoft in court for allegedly misleading Australians over 365 subscriptions",
+    "source": "Hacker News",
+    "url": "https://www.accc.gov.au/media-release/microsoft-in-court-for-allegedly-misleading-millions-of-australians-over-microsoft-365-subscriptions",
+    "publishedAt": "2025-10-27T14:54:14.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "More big companies bet they can still grow without hiring",
+    "source": "Hacker News",
+    "url": "https://www.wsj.com/business/companies-hiring-jobs-ai-9ef675b6",
+    "publishedAt": "2025-10-27T14:30:18.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Pre-emptive Z80 multitasking explainer",
+    "source": "Hacker News",
+    "url": "https://github.com/bchiha/Ready-Z80/tree/main/29-Multitasking",
+    "publishedAt": "2025-10-27T12:39:52.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Amazon strategised about keeping water use secret",
+    "source": "Hacker News",
+    "url": "https://www.source-material.org/amazon-leak-reveals-true-data-centres-water-usage-secret-plan/",
+    "publishedAt": "2025-10-27T11:53:22.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Isomorphic JS/TS Functions Orchestrator",
+    "source": "Hacker News",
+    "url": "https://github.com/damianofalcioni/js-functions-orchestrator",
+    "publishedAt": "2025-10-27T11:38:00.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "You are how you act",
+    "source": "Hacker News",
+    "url": "https://boz.com/articles/you-are-how-you-act",
+    "publishedAt": "2025-10-27T11:35:58.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Microsoft needs to open up more about its OpenAI dealings",
+    "source": "Hacker News",
+    "url": "https://www.wsj.com/tech/ai/microsoft-needs-to-open-up-more-about-its-openai-dealings-59102de8",
+    "publishedAt": "2025-10-27T11:19:27.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Don't forget these tags to make HTML work like you expect",
+    "source": "Hacker News",
+    "url": "https://blog.jim-nielsen.com/2025/dont-forget-these-html-tags/",
+    "publishedAt": "2025-10-27T10:01:12.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Rust cross-platform GPUI components",
+    "source": "Hacker News",
+    "url": "https://github.com/longbridge/gpui-component",
+    "publishedAt": "2025-10-27T09:44:18.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "What happened to running what you wanted on your own machine?",
+    "source": "Hacker News",
+    "url": "https://hackaday.com/2025/10/22/what-happened-to-running-what-you-wanted-on-your-own-machine/",
+    "publishedAt": "2025-10-27T08:50:10.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Recall for Linux",
+    "source": "Hacker News",
+    "url": "https://github.com/rolflobker/recall-for-linux",
+    "publishedAt": "2025-10-27T07:24:19.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Show HN: Write Go code in JavaScript files",
+    "source": "Hacker News",
+    "url": "https://www.npmjs.com/package/vite-plugin-use-golang",
+    "publishedAt": "2025-10-27T05:36:13.000Z",
+    "summary": "I built a Vite plugin that lets you write Go code directly in .js files using a &quot;use\n  golang&quot; directive. It compiles to WebAssembly automat..."
+  },
+  {
+    "title": "Structure and Interpretation of Classical Mechanics (2014)",
+    "source": "Hacker News",
+    "url": "https://tgvaughan.github.io/sicm/toc.html",
+    "publishedAt": "2025-10-27T04:27:45.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "How I turned Zig into my favorite language to write network programs in",
+    "source": "Hacker News",
+    "url": "https://lalinsky.com/2025/10/26/zio-async-io-for-zig.html",
+    "publishedAt": "2025-10-27T00:01:17.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Show HN: MyraOS – My 32-bit operating system in C and ASM (Hack Club project)",
+    "source": "Hacker News",
+    "url": "https://github.com/dvir-biton/MyraOS",
+    "publishedAt": "2025-10-26T20:43:40.000Z",
+    "summary": "Hi HN, I’m Dvir, a young developer. Last year, I got rejected after a job interview because I lacked some CPU knowledge. After that, I decided to deep..."
+  },
+  {
+    "title": "A definition of AGI",
+    "source": "Hacker News",
+    "url": "https://arxiv.org/abs/2510.18212",
+    "publishedAt": "2025-10-26T18:09:37.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Ken Thompson recalls Unix's rowdy, lock-picking origins",
+    "source": "Hacker News",
+    "url": "https://thenewstack.io/ken-thompson-recalls-unixs-rowdy-lock-picking-origins/",
+    "publishedAt": "2025-10-26T16:57:12.000Z",
+    "summary": "https:&#x2F;&#x2F;computerhistory.org&#x2F;blog&#x2F;a-computing-legend-speaks&#x2F;The full 4-1&#x2F;2 hours: https:&#x2F;&#x2F;www.youtube.com&#x2F;..."
+  },
+  {
+    "title": "Apple Reportedly Moving Ahead With Ads in Maps App - MacRumors",
+    "source": "MacRumors",
+    "url": "https://www.macrumors.com/2025/10/26/apple-moving-ahead-with-ads-in-maps/",
+    "publishedAt": "2025-10-26T13:22:22Z",
+    "summary": "Apple Maps could feature integrated ads as soon as next year, Bloomberg's Mark Gurman reports.   In his latest \"Power On\" newsletter,...",
+    "imageUrl": "https://images.macrumors.com/t/zwSDIM8ktmHSLohXU6ZIiKX493U=/2500x/article-new/2025/07/iOS-26-Maps-Glass.jpg"
+  },
+  {
+    "title": "The pipeline for Ph.D.s out of U.S. universities is shrinking - Axios",
+    "source": "Axios",
+    "url": "https://www.axios.com/2025/10/26/phd-universities-science-technology-progress",
+    "publishedAt": "2025-10-26T13:15:07Z",
+    "summary": "America graduates more Ph.D.s than any other country. They go on to invent things, cure diseases and win Nobel Prizes. But admission slots are disappearing.",
+    "imageUrl": "https://images.axios.com/7J76Qi4ris39U4k1Ru-kats5L3M=/0x0:1920x1080/1366x768/2025/10/23/1761247076845.jpeg"
+  },
+  {
+    "title": "3 Michigan Football true freshmen burn redshirts at Michigan State - Maize n Brew",
+    "source": "Maize n Brew",
+    "url": "https://www.maizenbrew.com/football/95910/michigan-football-redshirt-tracker-michigan-state-jamar-browder-shamari-earls-chase-taylor-bryce-underwood-andrew-marsh",
+    "publishedAt": "2025-10-26T13:00:00Z",
+    "summary": "3 more Michigan Football true freshmen burned their redshirts in the game against Michigan State on Saturday night. We’ve updated our Redshirt Tracker:",
+    "imageUrl": "https://platform.maizenbrew.com/wp-content/uploads/sites/102/2025/10/gettyimages-2243002847.jpg?quality=90&strip=all&crop=0%2C10.735733506644%2C100%2C78.528532986712&w=1200"
+  },
+  {
+    "title": "Chrome for Android rolls out M3 Expressive redesign - 9to5Google",
+    "source": "9to5google.com",
+    "url": "http://9to5google.com/2025/10/26/chrome-141-android-m3-expressive-redesign/",
+    "publishedAt": "2025-10-26T12:35:40Z",
+    "summary": "The rollout of Chrome's M3 Expressive redesign, which began in late August, is now complete. It comes a few weeks after...",
+    "imageUrl": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/google-chrome-logo-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+  },
+  {
+    "title": "Browser Password Managers Are Great, and a Terrible Idea - WIRED",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/browser-password-managers/",
+    "publishedAt": "2025-10-26T12:30:00Z",
+    "summary": "Your browser isn’t leaking your passwords, but it’s still smarter to use a third-party password manager.",
+    "imageUrl": "https://media.wired.com/photos/68fc1253131861cc7f65b818/191:100/w_1280,c_limit/W1102811.JPG"
+  },
+  {
+    "title": "What’s Next for iPad Pro? A Vapor Chamber Like the One on the iPhone 17 Pro - Bloomberg.com",
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/newsletters/2025-10-26/what-s-next-for-the-ipad-pro-iphone-17-pro-like-vapor-chamber-apple-maps-ads-mh7nq39h",
+    "publishedAt": "2025-10-26T12:00:20Z",
+    "summary": "Apple is working on a vapor chamber to improve cooling and performance in an iPad Pro slated for as early as 2027. Also: The company makes headway on a plan to bring ads to Apple Maps, and a foldable iPad with an 18-inch screen hits development snags.",
+    "imageUrl": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i69e2UzyoM1A/v1/1200x800.jpg"
+  },
+  {
+    "title": "My favorite e-reader just got a big update - The Verge",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/806697/boox-palma-2-pro-chatgpt-atlas-galaxy-xr-installer",
+    "publishedAt": "2025-10-26T12:00:00Z",
+    "summary": "The Palma 2 Pro, ChatGPT Atlas, Plants vs Zombies Replanted, A House of Dynamite, and much more in this week’s Installer newsletter.",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Installer-103.png?quality=90&strip=all&crop=0%2C10.71068615821%2C100%2C78.578627683581&w=1200"
+  },
+  {
+    "title": "7 Discrete Gadgets to Boost Your Home Security Behind the Scenes - CNET",
+    "source": "CNET",
+    "url": "https://www.cnet.com/home/security/7-discrete-gadgets-to-boost-your-home-security-behind-the-scenes/",
+    "publishedAt": "2025-10-26T11:44:53Z",
+    "summary": "The tiniest home security devices can have the biggest impact. Here's what these hidden add-ons can do.",
+    "imageUrl": "https://www.cnet.com/a/img/resize/85258d38e6778c63f1af8fe7b79fcdacb474e7d2/hub/2025/09/19/20d3e6d7-405a-47f0-a1f2-0106221a3035/level-lock-pro.jpg?auto=webp&fit=crop&height=675&width=1200"
+  },
+  {
+    "title": "Man Alarmed to Discover His Smart Vacuum Was Broadcasting a Secret Map of His House - Futurism",
+    "source": "Futurism",
+    "url": "http://futurism.com/robots-and-machines/robot-vacuum-broadcasting",
+    "publishedAt": "2025-10-26T10:45:00Z",
+    "summary": "One man's robot vacuum was constantly communicating with its manufacturer, sending a detailed 3D map of his house halfway across the world.",
+    "imageUrl": "https://futurism.com/wp-content/uploads/2025/10/robot-vacuum-broadcasting.jpg?quality=85&w=1200"
+  },
+  {
+    "title": "Act Now — Microsoft Issues Emergency Windows Update As Attacks Begin - Forbes",
+    "source": "Forbes",
+    "url": "https://www.forbes.com/sites/daveywinder/2025/10/26/act-now---microsoft-issues-emergency-windows-update-as-attacks-begin/",
+    "publishedAt": "2025-10-26T09:24:32Z",
+    "summary": "You have been warned. The latest Windows attacks have already started, and Microsoft has issued an emergency update. Here’s what you need to know.",
+    "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/68fc877d881b796e82ab5188/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+  },
+  {
+    "title": "If the Galaxy S26 leaks are true, I'd tell small phone fans to buy this instead - Android Authority",
+    "source": "Android Authority",
+    "url": "https://www.androidauthority.com/samsung-galaxy-s26-leaks-true-buy-this-phone-3608871/",
+    "publishedAt": "2025-10-26T09:04:19Z",
+    "summary": "The Galaxy S26 leaks paint a pretty sad picture if you were hoping for a major upgrade. But I'd happily choose this small flagship instead.",
+    "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2025/10/vivo-X300-in-hand.jpg"
+  },
+  {
+    "title": "Halo: Campaign Evolved is already reigniting Unreal Engine 5 controversies - Creative Bloq",
+    "source": "Creative Bloq",
+    "url": "https://www.creativebloq.com/3d/video-game-design/halo-campaign-evolved-is-already-reigniting-unreal-engine-5-controversies",
+    "publishedAt": "2025-10-26T07:00:00Z",
+    "summary": "Stunning remake or “generic, plastic slop”?",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/whdGJ4bDHqgztYgPhXR6wk-1000-80.jpg"
+  },
+  {
+    "title": "Google Home's latest update fixes annoying bugs you probably noticed after the big revamp - Android Authority",
+    "source": "Android Authority",
+    "url": "https://www.androidauthority.com/google-home-4-1-update-3610178/",
+    "publishedAt": "2025-10-26T05:48:19Z",
+    "summary": "Google is rolling out version 4.1 of the Google Home app with updates for bugs you probably noticed after the recent revamp.",
+    "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2022/10/Google-Home-app-stock-photo-9.jpg"
+  },
+  {
+    "title": "New limited-time Apple Card offer now available: Earn $75 in Daily Cash - 9to5Mac",
+    "source": "9to5Mac",
+    "url": "https://9to5mac.com/2025/10/25/new-limited-time-apple-card-offer-now-available-earn-75-in-daily-cash/",
+    "publishedAt": "2025-10-26T04:34:00Z",
+    "summary": "Once again, Apple has dropped a limited edition Apple Card offer for new users who choose to sign up. Typically,...",
+    "imageUrl": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/01/apple-card-money.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+  },
+  {
+    "title": "AI Models May Be Developing Their Own 'Survival Drive', Researchers Say - Slashdot",
+    "source": "Slashdot.org",
+    "url": "https://slashdot.org/story/25/10/25/2041220/ai-models-may-be-developing-their-own-survival-drive-researchers-say",
+    "publishedAt": "2025-10-26T03:33:12Z",
+    "summary": "\"OpenAI's o3 model sabotaged a shutdown mechanism to prevent itself from being turned off,\" warned Palisade Research, a nonprofit investigating cyber offensive AI capabilities.   \"It did this even when explicitly instructed: allow yourself to be shut down.\"  …",
+    "imageUrl": "https://a.fsdn.com/sd/topics/ai_64.png"
+  },
+  {
+    "title": "The Strange Lawsuit That Put A Chevy Beretta Inside Beretta's Headquarters - Jalopnik",
+    "source": "Jalopnik",
+    "url": "https://www.jalopnik.com/2006339/chevy-beretta-at-beretta-hq/",
+    "publishedAt": "2025-10-26T01:25:00Z",
+    "summary": "The strange lawsuit that put a Chevy Beretta inside the U.S. headquarters of the Italian gun brand involved GM's illegal use of the gunmaker's family name.",
+    "imageUrl": "https://www.jalopnik.com/img/gallery/the-strange-lawsuit-that-put-a-chevy-beretta-inside-berettas-headquarters/l-intro-1761155017.jpg"
+  },
+  {
+    "title": "Samsung Galaxy XR Has Easy Sideloading & An Open Bootloader - UploadVR",
+    "source": "UploadVR",
+    "url": "https://www.uploadvr.com/samsung-galaxy-xr-has-easy-sideloading-and-open-bootloader/",
+    "publishedAt": "2025-10-25T23:54:17Z",
+    "summary": "Samsung Galaxy XR supports sideloading APKs by default, without needing a PC or developer mode, and has an open bootloader too.",
+    "imageUrl": "https://www.uploadvr.com/content/images/size/w1200/2025/10/Galaxy-XR-powered-by-Android-XR.png"
+  },
+  {
+    "title": "I tried ChatGPT's Atlas browser to rival Google - here's what I found - BBC",
+    "source": "BBC News",
+    "url": "https://www.bbc.com/news/articles/c20pdy1exxvo",
+    "publishedAt": "2025-10-25T23:24:03Z",
+    "summary": "OpenAI hopes to upend the browser market currently dominated by Google Chrome, but it depends on paid users.",
+    "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/a33c/live/c9e36ee0-b0b5-11f0-aba1-bffe4144781c.jpg"
+  },
+  {
+    "title": "Printing photos: How to keep your memories safe - BBC",
+    "source": "BBC News",
+    "url": "https://www.bbc.com/news/articles/cdx4g5ndnkyo",
+    "publishedAt": "2025-10-25T23:22:14Z",
+    "summary": "Experts believe offline and online backups are needed if you want to keep your favourite photos safe.",
+    "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/6715/live/92a63100-b115-11f0-aa13-0b0479f6f42a.jpg"
+  },
+  {
+    "title": "Halo Esports 2026 Update | Halo - Official Site (en) - Halo Waypoint",
+    "source": "Halowaypoint.com",
+    "url": "https://www.halowaypoint.com/news/halo-esports-2026-update",
+    "publishedAt": "2025-10-25T23:17:00Z",
+    "summary": "<p>Earlier in the summer we announced that Year 4 would be the final year for Official HCS competition on Halo Infinite, and today at HaloWC we announced some more information about what competitors can expect in 2026. Competitive Halo is important to you, th…",
+    "imageUrl": "https://wpassets.halowaypoint.com/wp-content/2024/01/HCS-Hall-Of-Champions.png"
+  },
+  {
+    "title": "Pokemon Legends: Z-A glitch found to duplicate shiny Pokemon - Nintendo Everything",
+    "source": "Nintendoeverything.com",
+    "url": "https://nintendoeverything.com/pokemon-legends-z-a-glitch-found-to-duplicate-shiny-pokemon/",
+    "publishedAt": "2025-10-25T21:12:37Z",
+    "summary": "Brand new Pokemon Legends: Z-A glitch found to duplicate and clone shiny Pokemon - here's how it works and all of the steps.",
+    "imageUrl": "https://nintendoeverything.com/wp-content/uploads/Pokemon-Legends-Z-A-shiny-duplication-glitch.jpg"
+  },
+  {
+    "title": "Kia EV6 Owners Are Fixing Its Lousy Bass With A Simple Rewiring - Jalopnik",
+    "source": "Jalopnik",
+    "url": "https://www.jalopnik.com/2006304/kia-ev-6-owners-diy-fix-sound-system/",
+    "publishedAt": "2025-10-25T21:05:00Z",
+    "summary": "Somewhere between design and execution, some wires got crossed, resulting in an out-of-phase rear subwoofer.",
+    "imageUrl": "https://www.jalopnik.com/img/gallery/kia-ev6-owners-are-fixing-its-lousy-bass-with-a-simple-rewiring/l-intro-1761327285.jpg"
+  },
+  {
+    "title": "M5 MacBook Pro SSD Read & Write Speeds Run Circles Around The M4 MacBook Pro, New Comparison Shows An Impressive 211% Faster Performance - Wccftech",
+    "source": "Wccftech",
+    "url": "https://wccftech.com/m5-macbook-pro-vs-m4-macbook-pro-ssd-read-and-write-speed-test-comparison/",
+    "publishedAt": "2025-10-25T20:40:00Z",
+    "summary": "Running Blackmagic speed test, the M5 MacBook Pro is shown to be equipped with faster NAND flash, gaining up to 211 percent faster performance than M4 model",
+    "imageUrl": "https://cdn.wccftech.com/wp-content/uploads/2025/10/M5-MacBook-Pro-5-1.jpg"
+  },
+  {
+    "title": "4 Most Common Android Auto Problems (And How To Fix Them) - bgr.com",
+    "source": "BGR",
+    "url": "https://www.bgr.com/2002679/how-to-fix-most-common-android-auto-problems/",
+    "publishedAt": "2025-10-25T20:17:00Z",
+    "summary": "Android Auto problems? Learn to fix connection drops, solve compatibility issues, and see how clearing the cache can get you back on the road.",
+    "imageUrl": "https://www.bgr.com/img/gallery/4-most-common-android-auto-problems-and-how-to-fix-them/l-intro-1760886776.jpg"
+  },
+  {
+    "title": "Pokemon Legends: Z-A sales data from Spain revealed - Nintendo Everything",
+    "source": "Nintendoeverything.com",
+    "url": "https://nintendoeverything.com/pokemon-legends-z-a-sales-data-from-spain-revealed/",
+    "publishedAt": "2025-10-25T20:02:18Z",
+    "summary": "Another sales report is in for Pokemon Legends: Z-A, this time detailing how the game performed in Spain during its first week. Let’s get straight to the numbers. Between October 13 and October 19, Pokemon Legends: Z-A sold 89,000 physical units at retail. Th…",
+    "imageUrl": "https://nintendoeverything.com/wp-content/uploads/Pokemon-Legends-Z-A-sales-Spain.jpg"
+  },
+  {
+    "title": "'Meet The People Who Dare to Say No to AI' - Slashdot",
+    "source": "Slashdot.org",
+    "url": "https://slashdot.org/story/25/10/25/0324244/meet-the-people-who-dare-to-say-no-to-ai",
+    "publishedAt": "2025-10-25T20:00:30Z",
+    "summary": "Thursday the Washington Post profiled \"the people who dare to say no to AI,\" including a 16-year-old high school student in Virginia says \"she doesn't want to off-load her thinking to a machine and worries about the bias and inaccuracies AI tools can produce.…",
+    "imageUrl": "https://a.fsdn.com/sd/topics/ai_64.png"
+  },
+  {
+    "title": "OpenAI reportedly developing new generative music tool - TechCrunch",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2025/10/25/openai-reportedly-developing-new-generative-music-tool/",
+    "publishedAt": "2025-10-25T19:48:54Z",
+    "summary": "Such a tool could be used to add music to existing videos, or to add guitar accompaniment to an existing vocal track, sources said.",
+    "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2021258442.jpg?resize=1200,800"
+  },
+  {
+    "title": "These are the best laptops to buy in Fall 2025 - 41 notebooks in a tough clash - Notebookcheck",
+    "source": "Notebookcheck.net",
+    "url": "https://www.notebookcheck.net/These-are-the-best-laptops-to-buy-in-Fall-2025-41-notebooks-in-a-tough-clash.1142072.0.html",
+    "publishedAt": "2025-10-25T19:36:00Z",
+    "summary": "Night and day, Notebookcheck tests the latest laptops of all stripes and colors. Allow us to present an overview of our test results from the last few months, revealing the best laptops in their respective classes. Spoiler alert: No, this time the best multim…",
+    "imageUrl": "https://www.notebookcheck.net/fileadmin/Notebooks/Awards/bestoflaptops46.jpg"
+  },
+  {
+    "title": "We’ve got our first taste of AI-generated video games, and it’s exactly like you’d expect - Destructoid",
+    "source": "Destructoid",
+    "url": "https://www.destructoid.com/weve-got-our-first-taste-of-ai-generated-video-games-and-its-exactly-like-youd-expect/",
+    "publishedAt": "2025-10-25T18:01:00Z",
+    "summary": "Cursed beyond comprehension.",
+    "imageUrl": "https://www.destructoid.com/wp-content/uploads/2025/10/ai-generated-game.jpg?quality=75"
+  },
+  {
+    "title": "OpenBSD C/C++ Toolchain in the Browser",
+    "source": "Hacker News",
+    "url": "https://openbsd.llvm.moe/",
+    "publishedAt": "2025-10-24T12:17:48.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "A bug that taught me more about PyTorch than years of using it",
+    "source": "Hacker News",
+    "url": "https://elanapearl.github.io/blog/2025/the-bug-that-taught-me-pytorch/",
+    "publishedAt": "2025-10-23T17:06:35.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Unexpected patterns in historical astronomical observations",
+    "source": "Hacker News",
+    "url": "https://www.su.se/english/news/unexpected-patterns-in-historical-astronomical-observations-1.855042",
+    "publishedAt": "2025-10-23T16:16:35.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Sphere Computer – The Innovative 1970s Computer Company Everyone Forgot",
+    "source": "Hacker News",
+    "url": "https://sphere.computer/",
+    "publishedAt": "2025-10-23T16:09:27.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Corrosion",
+    "source": "Hacker News",
+    "url": "https://fly.io/blog/corrosion/",
+    "publishedAt": "2025-10-23T11:21:04.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Sandhill cranes have adopted a Canada gosling",
+    "source": "Hacker News",
+    "url": "https://www.smithsonianmag.com/science-nature/these-sandhill-cranes-have-adopted-a-canadian-gosling-and-birders-have-flocked-to-watch-the-strange-family-180986828/",
+    "publishedAt": "2025-10-22T17:45:21.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Why I'm teaching kids to hack computers",
+    "source": "Hacker News",
+    "url": "https://www.hacktivate.app/why-teach-kids-to-hack",
+    "publishedAt": "2025-10-22T14:07:03.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Enchanting Imposters",
+    "source": "Hacker News",
+    "url": "https://daily.jstor.org/enchanting-imposters/",
+    "publishedAt": "2025-10-22T06:41:09.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Geoutil.com – Measure distances, areas, and convert geo data in the browser",
+    "source": "Hacker News",
+    "url": "https://geoutil.com",
+    "publishedAt": "2025-10-21T06:20:38.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Should LLMs just treat text content as an image?",
+    "source": "Hacker News",
+    "url": "https://www.seangoedecke.com/text-tokens-as-image-tokens/",
+    "publishedAt": "2025-10-21T06:10:57.000Z",
+    "summary": "No description available"
+  }
+]

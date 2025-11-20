@@ -1,0 +1,430 @@
+[
+  {
+    "title": "Paris Had a Moving Sidewalk in 1900, and a Thomas Edison Film Captured It",
+    "source": "Hacker News",
+    "url": "https://www.openculture.com/2020/03/paris-had-a-moving-sidewalk-in-1900.html",
+    "publishedAt": "2025-11-02T21:08:15.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Alleged Jabber Zeus Coder 'MrICQ' in U.S. Custody",
+    "source": "Hacker News",
+    "url": "https://krebsonsecurity.com/2025/11/alleged-jabber-zeus-coder-mricq-in-u-s-custody/",
+    "publishedAt": "2025-11-02T20:40:54.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "\"You Don't Need Kafka, Just Use Postgres\" Considered Harmful",
+    "source": "Hacker News",
+    "url": "https://www.morling.dev/blog/you-dont-need-kafka-just-use-postgres-considered-harmful/",
+    "publishedAt": "2025-11-02T20:37:59.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Amazon Rivian Electric Delivery Vans Arrive in Canada",
+    "source": "Hacker News",
+    "url": "https://cleantechnica.com/2025/10/30/rivian-electric-delivery-vans-arrive-in-canada/",
+    "publishedAt": "2025-11-02T20:22:52.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Lisp: Notes on its Past and Future (1980)",
+    "source": "Hacker News",
+    "url": "https://www-formal.stanford.edu/jmc/lisp20th/lisp20th.html",
+    "publishedAt": "2025-11-02T19:05:32.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Linux gamers on Steam cross over the 3% mark",
+    "source": "Hacker News",
+    "url": "https://www.gamingonlinux.com/2025/11/linux-gamers-on-steam-finally-cross-over-the-3-mark/",
+    "publishedAt": "2025-11-02T18:54:59.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "React-Native-Godot",
+    "source": "Hacker News",
+    "url": "https://github.com/borndotcom/react-native-godot",
+    "publishedAt": "2025-11-02T18:45:35.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Reproducing the AWS Outage Race Condition with a Model Checker",
+    "source": "Hacker News",
+    "url": "https://wyounas.github.io/aws/concurrency/2025/10/30/reproducing-the-aws-outage-race-condition-with-model-checker/",
+    "publishedAt": "2025-11-02T18:37:38.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Anti-cybercrime laws are being weaponized to repress journalism",
+    "source": "Hacker News",
+    "url": "https://www.cjr.org/analysis/nigeria-pakistan-jordan-cybercrime-laws-journalism.php",
+    "publishedAt": "2025-11-02T18:12:49.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Is Your Bluetooth Chip Leaking Secrets via RF Signals?",
+    "source": "Hacker News",
+    "url": "https://www.semanticscholar.org/paper/Is-Your-Bluetooth-Chip-Leaking-Secrets-via-RF-Ji-Dubrova/c1d3ceb47ea6f9cc4f29929e2f97d36862a260a2",
+    "publishedAt": "2025-11-02T18:06:15.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "New South Korean national law will turn large parking lots into solar farms",
+    "source": "Hacker News",
+    "url": "https://electrek.co/2025/11/02/new-national-law-will-turn-large-parking-lots-into-solar-power-farms/",
+    "publishedAt": "2025-11-02T15:12:08.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Why don't you use dependent types?",
+    "source": "Hacker News",
+    "url": "https://lawrencecpaulson.github.io//2025/11/02/Why-not-dependent.html",
+    "publishedAt": "2025-11-02T15:06:36.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Writing FreeDOS Programs in C",
+    "source": "Hacker News",
+    "url": "https://www.freedos.org/books/cprogramming/",
+    "publishedAt": "2025-11-02T13:43:08.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "X.org Security Advisory: multiple security issues X.Org X server and Xwayland",
+    "source": "Hacker News",
+    "url": "https://lists.x.org/archives/xorg-announce/2025-October/003635.html",
+    "publishedAt": "2025-11-02T13:07:31.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Tongyi DeepResearch – open-source 30B MoE Model that rivals OpenAI DeepResearch",
+    "source": "Hacker News",
+    "url": "https://tongyi-agent.github.io/blog/introducing-tongyi-deep-research/",
+    "publishedAt": "2025-11-02T11:43:26.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Mock – An API creation and testing utility: Examples",
+    "source": "Hacker News",
+    "url": "https://dhuan.github.io/mock/latest/examples.html",
+    "publishedAt": "2025-11-02T11:30:50.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "URLs are state containers",
+    "source": "Hacker News",
+    "url": "https://alfy.blog/2025/10/31/your-url-is-your-state.html",
+    "publishedAt": "2025-11-02T11:12:58.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Using FreeBSD to make self-hosting fun again",
+    "source": "Hacker News",
+    "url": "https://jsteuernagel.de/posts/using-freebsd-to-make-self-hosting-fun-again/",
+    "publishedAt": "2025-11-02T11:01:23.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Notes by djb on using Fil-C",
+    "source": "Hacker News",
+    "url": "https://cr.yp.to/2025/fil-c.html",
+    "publishedAt": "2025-11-02T05:32:02.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Backpropagation is a leaky abstraction (2016)",
+    "source": "Hacker News",
+    "url": "https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b",
+    "publishedAt": "2025-11-02T05:20:12.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Visopsys: OS maintained by a single developer since 1997",
+    "source": "Hacker News",
+    "url": "https://visopsys.org/",
+    "publishedAt": "2025-11-01T22:07:49.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Despite their unpopularity, iPhone crossbody straps aren’t as useless as they may seem - 9to5Mac",
+    "source": "9to5Mac",
+    "url": "https://9to5mac.com/2025/11/01/iphone-crossbody-straps-are-cooler-than-you-might-believe/",
+    "publishedAt": "2025-11-01T18:56:00Z",
+    "summary": "With the launch of the iPhone 17 lineup this fall, Apple debuted a new accessory – the crossbody strap. It...",
+    "imageUrl": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/crossbody-strap-iphone-air.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+  },
+  {
+    "title": "Claude Code can debug low-level cryptography",
+    "source": "Hacker News",
+    "url": "https://words.filippo.io/claude-debugging/",
+    "publishedAt": "2025-11-01T18:41:56.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "New Google Pixel October 2025 update with ‘performance improvements’ rolls out [U] - 9to5Google",
+    "source": "9to5google.com",
+    "url": "http://9to5google.com/2025/11/01/new-pixel-october-2025-update/",
+    "publishedAt": "2025-11-01T18:21:52Z",
+    "summary": "Google today released new October builds for the Pixel 7-10 series, with Verizon shedding some light on what this update brings.",
+    "imageUrl": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/10/Pixel-6-family-with-Pixel-10-family-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+  },
+  {
+    "title": "Ayaneo Phone confirmed in a teaser featuring retro Remake branding - The Verge",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/news/812084/ayaneo-phone-confirmed-in-a-teaser-featuring-retro-remake-branding",
+    "publishedAt": "2025-11-01T16:43:17Z",
+    "summary": "A teaser video confirms there’s an Ayaneo Phone coming with physical controls.",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/maxresdefault.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
+  },
+  {
+    "title": "GTA 6 developer Rockstar accused of union-busting after it fires dozens of developers - Eurogamer",
+    "source": "Eurogamer.net",
+    "url": "https://www.eurogamer.net/gta-6-developer-rockstar-accused-of-union-busting-after-it-fires-dozens-of-developers",
+    "publishedAt": "2025-11-01T16:36:29Z",
+    "summary": "Grand Theft Auto 6 developer Rockstar Games has been accused of union-busting after terminating the contracts of 30-40 …",
+    "imageUrl": "https://assetsio.gnwcdn.com/Jason_and_Lucia_01_landscape.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+  },
+  {
+    "title": "New Hades 2 patch notes deliver buffs, faster progression, and an upgraded ending, with a few extra treats - PCGamesN",
+    "source": "PCGamesN",
+    "url": "https://www.pcgamesn.com/hades-2/patch-notes-true-ending-update",
+    "publishedAt": "2025-11-01T15:16:49Z",
+    "summary": "The Hades 2 patch notes are here after a week in testing, and there are some extra additions alongside boon buffs and its new true ending.",
+    "imageUrl": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2025/11/hades-2-patch-notes-update-1-true-ending-changes-boon-buffs-fix-fps.jpg"
+  },
+  {
+    "title": "Exclusive: 20 minutes of high-level Chun-Li match footage in Fatal Fury: City of the Wolves - EventHubs",
+    "source": "EventHubs",
+    "url": "https://www.eventhubs.com/news/2025/nov/01/chun-li-fatal-fury-footage/",
+    "publishedAt": "2025-11-01T15:01:46Z",
+    "summary": "Fatal Fury: City of the Wolves fans finally got to see Street Fighter's Chun-Li in action yesterday with her new gameplay trailer, but now it's time to get an even better picture of what she's capable of ...",
+    "imageUrl": "https://media.eventhubs.com/images/2025/10/31-chunli-footaget.webp"
+  },
+  {
+    "title": "AI researchers ’embodied’ an LLM into a robot – and it started channeling Robin Williams - TechCrunch",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2025/11/01/ai-researchers-embodied-an-llm-into-a-robot-and-it-started-channeling-robin-williams/",
+    "publishedAt": "2025-11-01T15:00:00Z",
+    "summary": "AI researchers at Andon Labs embedded various LLMs in a vacuum robot to test how ready they were to be embodied. And hilarity ensued.",
+    "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2147670244.jpg?resize=1200,800"
+  },
+  {
+    "title": "The Big Question About Destiny 2’s Missing Roadmap - Forbes",
+    "source": "Forbes",
+    "url": "https://www.forbes.com/sites/paultassi/2025/11/01/the-big-question-about-destiny-2s-missing-roadmap/",
+    "publishedAt": "2025-11-01T14:27:22Z",
+    "summary": "Destiny 2 has no stated plan for year two, despite promising a roadmap covering the future of the game two months ago now.",
+    "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/690617722011087499dd3574/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+  },
+  {
+    "title": "The Monthly Update: dozens of Roguelites & Roguelikes are about to take over November - Rogueliker",
+    "source": "Rogueliker.com",
+    "url": "https://rogueliker.com/new-roguelike-games-november-25/",
+    "publishedAt": "2025-11-01T14:20:54Z",
+    "summary": "November is going to be a banger for roguelikes and roguelites, with Forestrike, Morsels, Dog Witch, and Moonlighter 2 all landing this month.",
+    "imageUrl": "https://rogueliker.com/wp-content/uploads/2025/11/moonlighter2222.jpg"
+  },
+  {
+    "title": "LG’s brilliant B5 OLED TV is already down to just $530 for Black Friday - The Verge",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/811935/lg-b5-oled-tv-black-friday-doorbuster-deal-sale",
+    "publishedAt": "2025-11-01T14:00:00Z",
+    "summary": "LG’s B5 is an excellent entry-level OLED TV, and the 48-inch model is currently on sale for just $529.99 at Best Buy ahead of Black Friday.",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/LG-B5-OLED-TV-deal.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
+    "title": "Cyberpunk 2077 Quality of Life Update Is Already a Hit With Players - GAMINGbible",
+    "source": "Gamingbible.com",
+    "url": "https://www.gamingbible.com/news/cyberpunk-2077-quality-of-life-update-090161-20251028",
+    "publishedAt": "2025-11-01T14:00:00Z",
+    "summary": "This might not sound like a big deal to some of you, but I've been wanting this issue fixed since the game first dropped",
+    "imageUrl": "https://images.ladbible.com/ogimage/v3/assets/bltbc1876152fcd9f07/blt844ffbe66707afbe/6900f5085f9fa995c809b5f6/Official_Cyberpunk_2077_promo_image_from_the_PlayStation_Store_page.jpg"
+  },
+  {
+    "title": "Don't Want to Pay to Store All Your Memories in the Cloud? Do This Instead - CNET",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/services-and-software/dont-want-to-pay-to-store-all-your-memories-in-the-cloud-do-this-instead/",
+    "publishedAt": "2025-11-01T14:00:00Z",
+    "summary": "There's an easy way to back up your photos and videos without relying on cloud subscription services.",
+    "imageUrl": "https://www.cnet.com/a/img/resize/134aa5aff7d585b70ab688797710fe67be3f764b/hub/2025/09/29/ed96b29b-fc00-49af-907c-14bdd11d78a5/image-6.png?auto=webp&fit=crop&height=675&width=1200"
+  },
+  {
+    "title": "Nest Audio, Mini, and Home Mini get updated lights with Gemini - 9to5Google",
+    "source": "9to5google.com",
+    "url": "http://9to5google.com/2025/11/01/nest-mini-audio-gemini-lights/",
+    "publishedAt": "2025-11-01T13:40:56Z",
+    "summary": "With the Gemini for Home voice assistant, Google has updated the LED lights on the Home Mini, Nest Mini, and Nest Audio.",
+    "imageUrl": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2020/10/google_nest_audio_sage_4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+  },
+  {
+    "title": "Peru-Based Gaming Store Might've Just Confirmed Leon Kennedy In Resident Evil Requiem... With A Pair Of Undies - TheGamer",
+    "source": "TheGamer",
+    "url": "https://www.thegamer.com/resident-evil-9-requiem-leon-kennedy-leak-peru-gaming-store-underwear-merch/",
+    "publishedAt": "2025-11-01T13:30:00Z",
+    "summary": "Leon Kennedy might be Capcom's worst-kept secret, as more proof has emerged that he will appear in Requiem.",
+    "imageUrl": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2025/11/grace-ashcroft-in-front-of-resident-evil-requiem-special-edition-with-leon-kennedy-underwear.jpg?w=1600&h=900&fit=crop"
+  },
+  {
+    "title": "The Best Early Black Friday Apple Deals - MacRumors",
+    "source": "MacRumors",
+    "url": "https://www.macrumors.com/2025/11/01/best-early-black-friday-apple-deals-2025/",
+    "publishedAt": "2025-11-01T13:04:05Z",
+    "summary": "We're officially in the month of Black Friday, which will take place on Friday, November 28 in 2025. As always, this will be the best time of the...",
+    "imageUrl": "https://images.macrumors.com/t/ciftS4vVNOxHx10Tmrs8i58t6mQ=/2500x/article-new/2025/10/Early-Black-Friday-Deals-2.jpg"
+  },
+  {
+    "title": "The Playdate is a great indie puzzle machine - The Verge",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/games/811497/playdate-puzzle-game-reviews-lexgrid-togglebot-what-time-is-it",
+    "publishedAt": "2025-11-01T13:00:00Z",
+    "summary": "Panic’s yellow handheld, the Playdate, has great puzzle games from indie developers, including Lexgrid, Togglebot, and What Time Is It?",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23396649/vpavic_220415_5149_0090.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
+    "title": "Android Auto's best feature isn't navigation - Android Police",
+    "source": "Android Police",
+    "url": "https://www.androidpolice.com/android-autos-best-feature-isnt-navigation/",
+    "publishedAt": "2025-11-01T12:37:00Z",
+    "summary": "It's about getting there safely",
+    "imageUrl": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/10/top-view-of-a-car-driving-over-the-android-auto-logo.png?w=1600&h=900&fit=crop"
+  },
+  {
+    "title": "SanDisk’s ultra-tiny USB flash drive is built to stay plugged in - PCWorld",
+    "source": "PCWorld",
+    "url": "https://www.pcworld.com/article/2956625/sandisks-ultra-tiny-usb-flash-drive-is-built-to-stay-plugged-in.html",
+    "publishedAt": "2025-11-01T12:00:00Z",
+    "summary": "SanDisk showed off “the world’s smallest USB-C flash drive,” designed to be small enough to stay plugged in at all times.",
+    "imageUrl": "https://www.pcworld.com/wp-content/uploads/2025/11/SanDisk-tiny-USB-flash-drive-1.jpg?quality=50&strip=all&w=1024"
+  },
+  {
+    "title": "Honda Salesman Takes Chevy Trailblazer to Dealership. Then GM Refuses Coverage Because of How His Car Smells - Motor1.com",
+    "source": "Motor1 ",
+    "url": "https://www.motor1.com/news/777493/chevy-no-coverage-over-smell/",
+    "publishedAt": "2025-11-01T11:45:54Z",
+    "summary": "In a viral video, a Honda salesman says he brought his Trailblazer to a Chevrolet dealership and was shocked by how his issue was handled.",
+    "imageUrl": "https://cdn.motor1.com/images/mgl/QebNo0/s1/chevrolet-trailblazer-to-the-dealership.-then-gm-refuses-coverage.jpg"
+  },
+  {
+    "title": "I thought VPN by Google was enough — until I tried a real VPN - Android Police",
+    "source": "Android Police",
+    "url": "https://www.androidpolice.com/i-thought-vpn-by-google-was-enough-until-i-tried-a-real-vpn/",
+    "publishedAt": "2025-11-01T11:34:00Z",
+    "summary": "Google's VPN can't match up to the paid alternatives",
+    "imageUrl": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/10/illustration-of-the-google-vpn-shield-surrounded-by-warning-icons-broken-locks-and-security-symbols.png?w=1600&h=900&fit=crop"
+  },
+  {
+    "title": "Should you stretch before a run? The answer may surprise you. - The Washington Post",
+    "source": "The Washington Post",
+    "url": "https://www.washingtonpost.com/wellness/2025/11/01/do-you-need-to-stretch-before-a-race/",
+    "publishedAt": "2025-11-01T11:31:54Z",
+    "summary": "The goal of a warm-up is to make the race experience easier and more comfortable.",
+    "imageUrl": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SKFON53YJVFEFCIRO7J2VJOCUY.jpg&w=1440"
+  },
+  {
+    "title": "Starlink V3 satellites could enable SpaceX’s orbital computing plans: Musk - Teslarati",
+    "source": "Teslarati",
+    "url": "https://www.teslarati.com/starlink-v3-satellites-enable-spacex-orbital-computing-plans-musk/",
+    "publishedAt": "2025-11-01T10:26:43Z",
+    "summary": "Musk’s remarks come as companies explore how orbital infrastructure could solve the Earth-bound energy and cooling challenges that come with hyperscale AI computing.",
+    "imageUrl": "https://www.teslarati.com/wp-content/uploads/2025/05/SpaceX-expands-Starlink-constellation-amid-surging-global-demand--1000x600.jpg"
+  },
+  {
+    "title": "The Pixel 10 Pro is the Pixel I've always wanted Google to make - Android Authority",
+    "source": "Android Authority",
+    "url": "https://www.androidauthority.com/pixel-10-pro-pixel-i-wanted-3609428/",
+    "publishedAt": "2025-11-01T10:24:43Z",
+    "summary": "The Pixel 10 Pro isn't a perfect phone, but it delivers on the Pixel promise better than any generation before it, and I love it.",
+    "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2025/10/pixel-10-pro-holding-back-of-phone-hero-2-scaled.jpg"
+  },
+  {
+    "title": "\"Dumb homes\" are the latest flex - Axios",
+    "source": "Axios",
+    "url": "https://www.axios.com/2025/11/01/smart-home-analog-design",
+    "publishedAt": "2025-11-01T09:45:06Z",
+    "summary": "Think: Manual light switches and digital detox corners.",
+    "imageUrl": "https://images.axios.com/ZNU6gLLV_HF4AhGj9WXr_0uiMMw=/0x0:1920x1080/1366x768/2025/10/24/1761336939067.jpeg"
+  },
+  {
+    "title": "Is Affinity's free Photoshop rival too good to be true? - Creative Bloq",
+    "source": "Creative Bloq",
+    "url": "https://www.creativebloq.com/design/design-software/free-affinity-app-sparks-huge-debate-among-artists-and-designers",
+    "publishedAt": "2025-11-01T09:00:00Z",
+    "summary": "Designers are torn over the new app.",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/S34wnpoo7En3pUbrimczJC-1000-80.jpg"
+  },
+  {
+    "title": "Lenovo's budget-friendly 2025 Idea Tab Plus Android tablet with 90Hz display hits new $200 all-time low, more from $130 - 9to5Toys",
+    "source": "9to5Toys",
+    "url": "http://9to5toys.com/2025/11/01/lenovo-2025-idea-tab-plus-android-tablet-hits-new-200-all-time-low/",
+    "publishedAt": "2025-11-01T08:03:00Z",
+    "summary": "As part of its now live early Black Friday sale, Best Buy is offering a handful of Lenovo Android tablets...",
+    "imageUrl": "https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2025/10/Lenovo-Idea-Tab-Plus-tablet.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+  },
+  {
+    "title": "Nintendo Music Updated To Version 1.4.0, Here Are The Full Patch Notes - Nintendo Life",
+    "source": "Nintendo Life",
+    "url": "https://www.nintendolife.com/news/2025/11/nintendo-music-updated-to-version-1-4-0-here-are-the-full-patch-notes",
+    "publishedAt": "2025-11-01T06:16:34Z",
+    "summary": "Including an update for Animal Crossing tracks",
+    "imageUrl": "https://images.nintendolife.com/6867a2ffbebd5/large.jpg"
+  },
+  {
+    "title": "Houses without lounges are a reality for renters - BBC",
+    "source": "BBC News",
+    "url": "https://www.bbc.com/news/articles/c93063q2lzeo",
+    "publishedAt": "2025-11-01T01:02:51Z",
+    "summary": "Nearly a third of homes advertised on a property sharing website had no living room.",
+    "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/ce32/live/5b113cc0-b684-11f0-b2a1-6f537f66f9aa.jpg"
+  },
+  {
+    "title": "Anker's 60k mAh Power Bank Returns to Its All-Time Low Price, Charges Your iPhone 10 Times - Kotaku",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/ankers-60k-mah-power-bank-returns-to-its-all-time-low-price-charges-your-iphone-10-times-2000639699",
+    "publishedAt": "2025-10-31T23:47:06Z",
+    "summary": "Save $70 on the 60,000mAh Anker power station for a limited time at Amazon.",
+    "imageUrl": "https://kotaku.com/app/uploads/2025/09/Anker-Power-Bank-Power-Station-60000mAh.jpg"
+  },
+  {
+    "title": "Solar-powered QR reading postboxes being rolled out across UK",
+    "source": "Hacker News",
+    "url": "https://www.bbc.co.uk/news/articles/cgln72rgrero",
+    "publishedAt": "2025-10-29T11:32:27.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Autodesk's John Walker Explained HP and IBM in 1991 (2015)",
+    "source": "Hacker News",
+    "url": "https://www.cringely.com/2015/06/03/autodesks-john-walker-explained-hp-and-ibm-in-1991/",
+    "publishedAt": "2025-10-29T11:28:17.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Why does Swiss cheese have holes?",
+    "source": "Hacker News",
+    "url": "https://www.usdairy.com/news-articles/why-does-swiss-cheese-have-holes",
+    "publishedAt": "2025-10-28T16:45:28.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Rats filmed snatching bats from air",
+    "source": "Hacker News",
+    "url": "https://www.science.org/content/article/rats-filmed-snatching-bats-air-first-time",
+    "publishedAt": "2025-10-28T08:29:13.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Printed circuit board substrates derived from lignocellulose nanofibrils",
+    "source": "Hacker News",
+    "url": "https://www.nature.com/articles/s41598-025-91653-1",
+    "publishedAt": "2025-10-27T16:03:54.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Go Primitive in Java, or Go in a Box",
+    "source": "Hacker News",
+    "url": "https://donraab.medium.com/go-primitive-in-java-or-go-in-a-box-c26f5c6d7574",
+    "publishedAt": "2025-10-25T20:46:04.000Z",
+    "summary": "No description available"
+  }
+]

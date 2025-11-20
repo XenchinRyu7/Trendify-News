@@ -1,0 +1,445 @@
+[
+  {
+    "title": "The FSF considers large language models",
+    "source": "Hacker News",
+    "url": "https://lwn.net/Articles/1040888/",
+    "publishedAt": "2025-10-26T13:38:30.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Let's Help NetBSD Cross the Finish Line Before 2025 Ends",
+    "source": "Hacker News",
+    "url": "https://mail-index.netbsd.org/netbsd-users/2025/10/26/msg033327.html",
+    "publishedAt": "2025-10-26T12:34:36.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "You Should Feed the Bots",
+    "source": "Hacker News",
+    "url": "https://maurycyz.com/misc/the_cost_of_trash/",
+    "publishedAt": "2025-10-26T12:09:02.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Formal Reasoning [pdf]",
+    "source": "Hacker News",
+    "url": "https://cs.ru.nl/~freek/courses/fr-2025/public/fr.pdf",
+    "publishedAt": "2025-10-26T12:03:59.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "You Already Have a Git Server",
+    "source": "Hacker News",
+    "url": "https://maurycyz.com/misc/easy_git/",
+    "publishedAt": "2025-10-26T10:53:37.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Connect to a 1980s Atari BBS through the web",
+    "source": "Hacker News",
+    "url": "https://www.southernamis.com/ataribbsconnect",
+    "publishedAt": "2025-10-26T09:31:47.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Asbestosis",
+    "source": "Hacker News",
+    "url": "https://diamondgeezer.blogspot.com/2025/10/asbestosis.html",
+    "publishedAt": "2025-10-26T08:34:38.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Advent of Code 2025: Number of puzzles reduce from 25 to 12 for the first time",
+    "source": "Hacker News",
+    "url": "https://adventofcode.com/2025/about#faq_num_days",
+    "publishedAt": "2025-10-26T08:19:48.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Clojure Land – Discover open-source Clojure libraries and frameworks",
+    "source": "Hacker News",
+    "url": "https://clojure.land/",
+    "publishedAt": "2025-10-26T08:15:48.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "LaserTweezer – Optical Trap",
+    "source": "Hacker News",
+    "url": "https://www.gaudi.ch/GaudiLabs/?page_id=578",
+    "publishedAt": "2025-10-26T08:03:14.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Writing a RISC-V Emulator in Rust",
+    "source": "Hacker News",
+    "url": "https://book.rvemu.app/",
+    "publishedAt": "2025-10-26T07:34:30.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Bitmovin (YC S15) Is Hiring Engineering ICs and Managers in Europe",
+    "source": "Hacker News",
+    "url": "https://bitmovin.com/careers",
+    "publishedAt": "2025-10-26T07:00:33.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "GenAI Image Editing Showdown",
+    "source": "Hacker News",
+    "url": "https://genai-showdown.specr.net/",
+    "publishedAt": "2025-10-26T02:57:57.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "PCB Edge USB C Connector Library",
+    "source": "Hacker News",
+    "url": "https://github.com/AnasMalas/pcb-edge-usb-c",
+    "publishedAt": "2025-10-26T02:31:54.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Pico-Banana-400k",
+    "source": "Hacker News",
+    "url": "https://github.com/apple/pico-banana-400k",
+    "publishedAt": "2025-10-26T02:01:17.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "A worker fell into a nuclear reactor pool",
+    "source": "Hacker News",
+    "url": "https://www.nrc.gov/reading-rm/doc-collections/event-status/event/2025/20251022en?brid=vscAjql9kZL1FfGE7TYHVw#en57996:~:text=TRANSPORT%20OF%20CONTAMINATED%20PERSON%20OFFSITE",
+    "publishedAt": "2025-10-26T01:15:43.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "The Linux Boot Process: From Power Button to Kernel",
+    "source": "Hacker News",
+    "url": "https://www.0xkato.xyz/linux-boot/",
+    "publishedAt": "2025-10-25T23:04:23.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "D2: Diagram Scripting Language",
+    "source": "Hacker News",
+    "url": "https://d2lang.com/tour/intro/",
+    "publishedAt": "2025-10-25T22:40:00.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "How programs get run: ELF binaries (2015)",
+    "source": "Hacker News",
+    "url": "https://lwn.net/Articles/631631/",
+    "publishedAt": "2025-10-25T21:03:39.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Show HN: Diagram as code tool with draggable customizations",
+    "source": "Hacker News",
+    "url": "https://github.com/RohanAdwankar/oxdraw",
+    "publishedAt": "2025-10-25T20:38:58.000Z",
+    "summary": "In the past I&#x27;ve used declarative diagram generation tools like Mermaid.js a lot for quickly drawing up things but for presentations or deliverab..."
+  },
+  {
+    "title": "Project Amplify: Powered footwear for running and walking",
+    "source": "Hacker News",
+    "url": "https://about.nike.com/en/newsroom/releases/nike-project-amplify-official-images",
+    "publishedAt": "2025-10-25T20:35:48.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "California invests in battery energy storage, leaving rolling blackouts behind",
+    "source": "Hacker News",
+    "url": "https://www.latimes.com/environment/story/2025-10-17/california-made-it-through-another-summer-without-a-flex-alert",
+    "publishedAt": "2025-10-25T19:58:55.000Z",
+    "summary": "https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20251025210426&#x2F;https:&#x2F;&#x2F;www.latim......"
+  },
+  {
+    "title": "The Journey Before main()",
+    "source": "Hacker News",
+    "url": "https://amit.prasad.me/blog/before-main",
+    "publishedAt": "2025-10-25T19:33:22.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "I Am Trying To Play ‘Destiny 2,’ It Is Not Going Well - Forbes",
+    "source": "Forbes",
+    "url": "https://www.forbes.com/sites/paultassi/2025/10/25/i-am-trying-to-play-destiny-2-it-is-not-going-well/",
+    "publishedAt": "2025-10-25T13:30:31Z",
+    "summary": "Destiny 2 is now full of so many bugs across its main activities that it is genuinely hard to play, even if you want to.",
+    "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/68fccf24cd55dc62b1d25c49/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+  },
+  {
+    "title": "The glaring security risks with AI browser agents - TechCrunch",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2025/10/25/the-glaring-security-risks-with-ai-browser-agents/",
+    "publishedAt": "2025-10-25T12:00:00Z",
+    "summary": "New AI browsers from OpenAI and Perplexity promise to increase user productivity, but they also come with increased security risks.",
+    "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-1290478576.jpg?resize=1200,846"
+  },
+  {
+    "title": "Microsoft's Halo series heading to rival PlayStation - BBC",
+    "source": "BBC News",
+    "url": "https://www.bbc.com/news/articles/ckg14442r73o",
+    "publishedAt": "2025-10-25T09:48:56Z",
+    "summary": "Microsoft is taking one of its most popular and recognisable game series to a rival console for the first time.",
+    "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/5c84/live/f564b960-b17e-11f0-a628-fdce540967b8.jpg"
+  },
+  {
+    "title": "Samsung Galaxy XR vs Apple Vision Pro: Comparing specs and price - Mashable",
+    "source": "Mashable",
+    "url": "https://mashable.com/article/samsung-galaxy-xr-vs-apple-vision-pro-specs-price",
+    "publishedAt": "2025-10-25T09:39:35Z",
+    "summary": "Which mixed reality headset is for you?",
+    "imageUrl": "https://helios-i.mashable.com/imagery/articles/04iNP22NOmiPvuhpwOkxE6c/hero-image.fill.size_1200x675.v1761336792.jpg"
+  },
+  {
+    "title": "Act Now — Microsoft Issues Emergency Windows Update As Attacks Begin - Forbes",
+    "source": "Forbes",
+    "url": "https://www.forbes.com/sites/daveywinder/2025/10/25/act-now---microsoft-issues-emergency-windows-update-as-attacks-begin/",
+    "publishedAt": "2025-10-25T08:43:46Z",
+    "summary": "You have been warned. The latest Windows attacks have already started, and Microsoft has issued an emergency update. Here’s what you need to know.",
+    "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/68fc877d881b796e82ab5188/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+  },
+  {
+    "title": "Sakurai Confirms Day One Update For Kirby Air Riders On Switch 2 - Nintendo Life",
+    "source": "Nintendo Life",
+    "url": "https://www.nintendolife.com/news/2025/10/sakurai-confirms-day-one-update-for-kirby-air-riders-on-switch-2",
+    "publishedAt": "2025-10-25T07:00:00Z",
+    "summary": "Launching this November",
+    "imageUrl": "https://images.nintendolife.com/1468b58183fc9/large.jpg"
+  },
+  {
+    "title": "iOS 26.1 Beta Liquid Glass Battery Drain Test: Tinted vs Clear Mode - MacRumors",
+    "source": "MacRumors",
+    "url": "https://www.macrumors.com/2025/10/24/ios-26-1-liquid-glass-battery-test/",
+    "publishedAt": "2025-10-24T21:30:33Z",
+    "summary": "In the fourth iOS 26.1 beta, Apple added a \"Tinted\" option that reduces the translucency of Liquid Glass for those who prefer a more opaque...",
+    "imageUrl": "https://images.macrumors.com/t/qVCjBM-27aNBlCHzdqUNSfBV7js=/2500x/article-new/2025/08/iOS-26-Battery-Glass-Feature.jpg"
+  },
+  {
+    "title": "Man takes herbal pain quackery, nearly dies, spends months in hospital - Ars Technica",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/health/2025/10/man-takes-herbal-pain-quackery-nearly-dies-spends-months-in-hospital/",
+    "publishedAt": "2025-10-24T21:29:30Z",
+    "summary": "The 61-year-old had wounds all over, a bacterial infection, and needed intensive care.",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2019/11/GettyImages-462760366-1152x648.jpg"
+  },
+  {
+    "title": "Wordle has achievements now - The Verge",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/news/806578/nyt-games-badges-achievements-wordle-spelling-bee-connections",
+    "publishedAt": "2025-10-24T21:28:43Z",
+    "summary": "Spelling Bee and Connections have them, too.",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Screenshot-2025-10-24-at-2.26.00%E2%80%AFPM.png?quality=90&strip=all&crop=0%2C6.5252100560815%2C100%2C86.949579887837&w=1200"
+  },
+  {
+    "title": "The Outer Worlds 2 PC Performance Benchmarks: Unreal Engine 5 Strikes Again - Wccftech",
+    "source": "Wccftech",
+    "url": "https://wccftech.com/the-outer-worlds-2-pc-performance-benchmarks/",
+    "publishedAt": "2025-10-24T21:00:00Z",
+    "summary": "Here are our PC performance benchmarks for The Outer Worlds 2, the latest AAA RPG with raytracing & several upscaling features.",
+    "imageUrl": "https://cdn.wccftech.com/wp-content/uploads/2025/10/The-Outer-Worlds-2-PC-Performance-Benchmarks-Wccftech.jpg"
+  },
+  {
+    "title": "Major Photoshop, Lightroom updates could be coming next week (plus free online classes) - Digital Camera World",
+    "source": "Digital Camera World",
+    "url": "https://www.digitalcameraworld.com/tech/software/adobe-may-be-about-to-make-the-biggest-photoshop-and-lightroom-announcements-of-the-year-adobe-max-2025-is-coming-heres-what-that-means",
+    "publishedAt": "2025-10-24T18:51:00Z",
+    "summary": "Get ready, the biggest Photoshop and Lightroom updates of the year could be coming next week as Adobe Max opens in California on October 28",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/KjVhwbaHWX9isN7f9tw8A8-2560-80.jpg"
+  },
+  {
+    "title": "Google Just Achieved a First-Ever Quantum Advantage. Should You Buy GOOGL Stock Here? - Barchart.com",
+    "source": "Barchart.com",
+    "url": "https://www.barchart.com/story/news/35666214/google-just-achieved-a-first-ever-quantum-advantage-should-you-buy-googl-stock-here",
+    "publishedAt": "2025-10-24T18:35:49Z",
+    "summary": "Tech giant Google just scored a major win in the quantum computing space. Should investors pay attention to GOOGL stock now?",
+    "imageUrl": "https://media.barchart.com/contributors-admin/common-images/images/S%26P%20500%20Companies/Communication%20Services/Alphabet%20Inc%20logo%20signage%20by-JHVEPhoto%20via%20Shutterstock.jpg"
+  },
+  {
+    "title": "OpenAI is coming for your MacBook with latest acquisition - Mashable",
+    "source": "Mashable",
+    "url": "https://mashable.com/article/openai-acquires-sky-ai-mac-interface",
+    "publishedAt": "2025-10-24T18:01:45Z",
+    "summary": "The ChatGPT creator has acquired Sky, an AI interface for Mac.",
+    "imageUrl": "https://helios-i.mashable.com/imagery/articles/04nYaUCJFREFVb7B5ru4Odm/hero-image.fill.size_1200x675.v1761324386.png"
+  },
+  {
+    "title": "Training AI on \"Brain Rot\" Content Causes Lasting Cognitive Damage, New Paper Finds - Futurism",
+    "source": "Futurism",
+    "url": "http://futurism.com/artificial-intelligence/ai-brain-rot",
+    "publishedAt": "2025-10-24T17:15:58Z",
+    "summary": "Researchers found AI models trained on shortform, clickbait-y content experienced irreversible cognitive decline.",
+    "imageUrl": "https://futurism.com/wp-content/uploads/2025/10/ai-brain-rot.jpg?w=1200"
+  },
+  {
+    "title": "OpenAI's new Sora 2 video generation app went viral. Is it a real threat to Meta? - CNBC",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2025/10/24/meta-faces-a-new-threat-from-openais-new-viral-sora-2-video-app.html",
+    "publishedAt": "2025-10-24T17:10:22Z",
+    "summary": "Sora 2 is the latest competitive threat to Meta's social media supremacy.",
+    "imageUrl": "https://image.cnbcfm.com/api/v1/image/108214983-17610771932025-10-21t195023z_2008595976_rc2jghajhi33_rtrmadp_0_openai-sora.jpeg?v=1761077292&w=1920&h=1080"
+  },
+  {
+    "title": "Microsoft’s Mico heightens the risks of parasocial LLM relationships - Ars Technica",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/ai/2025/10/microsofts-mico-heightens-the-risks-of-parasocial-llm-relationships/",
+    "publishedAt": "2025-10-24T17:07:57Z",
+    "summary": "“It looks like you’re trying to find a friend. Would you like help?”…",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/micoheart-1152x648-1761323845.png"
+  },
+  {
+    "title": "Tech Bro Uses AI To Create The Worst FPS Ever - Kotaku",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/gen-ai-fps-tom-clancy-shooter-hyperwrite-2000638861",
+    "publishedAt": "2025-10-24T17:03:59Z",
+    "summary": "This is some of the worst Tom Clancy shovelware I've ever seen",
+    "imageUrl": "https://kotaku.com/app/uploads/2025/10/slopo.jpg"
+  },
+  {
+    "title": "Microsoft Teams Will Soon Tell Your Boss When You're Not in the Office - Lifehacker",
+    "source": "Lifehacker.com",
+    "url": "https://lifehacker.com/tech/microsoft-teams-will-let-your-boss-know-when-youre-not-in-the-office",
+    "publishedAt": "2025-10-24T16:30:00Z",
+    "summary": "Teams is no team player.",
+    "imageUrl": "https://lifehacker.com/imagery/articles/01K8BDF03ZQK8WBMVP6C7F66FK/hero-image.fill.size_1200x675.jpg"
+  },
+  {
+    "title": "Secret Lair Update: Manufacturing Delay - Magic: The Gathering",
+    "source": "Wizards.com",
+    "url": "https://magic.wizards.com/en/news/announcements/secret-lair-update-manufacturing-delay",
+    "publishedAt": "2025-10-24T16:18:56Z",
+    "summary": "An update regarding Secret Lair manufacturing delays.",
+    "imageUrl": "https://images.ctfassets.net/s5n2t79q9icq/6MMJhk12pGmZCRxDFiDTBk/655d7b5cbc97c9df65a5a0e37b331435/new_default_wizards_icon_header.jpg"
+  },
+  {
+    "title": "After Microsoft invested $13 billion into OpenAI, its AI chief is slamming erotica chatbots: ‘This is very dangerous’ - Fortune",
+    "source": "Fortune",
+    "url": "https://fortune.com/2025/10/24/microsoft-no-erotica-chatbots-openai-chatgpt-xai-grok/",
+    "publishedAt": "2025-10-24T16:13:00Z",
+    "summary": "OpenAI CEO Sam Altman defended a newly announced erotica feature for ChatGPT, saying his company is “not the elected moral police of the world.”",
+    "imageUrl": "https://fortune.com/img-assets/wp-content/uploads/2025/10/GettyImages-2207866106-e1761321048264.jpg?resize=1200,600"
+  },
+  {
+    "title": "Why I code as a CTO",
+    "source": "Hacker News",
+    "url": "https://www.assembled.com/blog/why-i-code-as-a-cto",
+    "publishedAt": "2025-10-24T16:03:53.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Microsoft Outlook is getting an AI overhaul under new leaders - The Verge",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/806162/microsoft-outlook-ai-overhaul-notepad",
+    "publishedAt": "2025-10-24T16:00:00Z",
+    "summary": "Microsoft is getting ready to overhaul Outlook again. Microsoft’s mail app is being rebuilt with a focus on AI.",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/247141_NOTEPAD_X_BOX_CVIRGINIA-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
+    "title": "Samsung Galaxy A17 4G smartphone test - Unusually well-equipped budget phone - Notebookcheck",
+    "source": "Notebookcheck.net",
+    "url": "https://www.notebookcheck.net/Samsung-Galaxy-A17-4G-smartphone-test-Unusually-well-equipped-budget-phone.1146414.0.html",
+    "publishedAt": "2025-10-24T15:39:00Z",
+    "summary": "The Samsung Galaxy A17 4G has a more modern design, but otherwise the differences to its predecessor are limited. However, with an AMOLED screen and 6 years of updates, it still stands out among affordable phones.",
+    "imageUrl": "https://www.notebookcheck.net/fileadmin/Notebooks/Samsung/Galaxy_A17_4G/Samsung_Galaxy_A17_4G_Test.jpeg"
+  },
+  {
+    "title": "The MacRumors Show: iPhone Air Is in Trouble - MacRumors",
+    "source": "MacRumors",
+    "url": "https://www.macrumors.com/2025/10/24/the-macrumors-show-iphone-air-in-trouble/",
+    "publishedAt": "2025-10-24T15:32:58Z",
+    "summary": "On this week's episode of The MacRumors Show, we discuss the latest rumors about the iPhone Air not selling as well as Apple hoped.  Subscribe to...",
+    "imageUrl": "https://images.macrumors.com/t/3PGBzIvIzwqFh0VcTuLTZ9C4180=/2500x/article-new/2025/10/TMRS-168-Is-iPhone-Air-a-Failure-Thumb-2.jpg"
+  },
+  {
+    "title": "Ferrari 296 Speciale Review 2025 - Top Gear",
+    "source": "Top Gear",
+    "url": "https://www.topgear.com/car-reviews/ferrari/296-speciale",
+    "publishedAt": "2025-10-24T15:00:00Z",
+    "summary": "A truly formidable achievement that's as amiable on road as it is astonishing on track",
+    "imageUrl": "https://www.topgear.com/sites/default/files/cars-car/image/2025/10/TG%20-%20Ferrari%20296%20-%20RT1-012.jpg?w=1280&h=720"
+  },
+  {
+    "title": "If the Xbox Ally is a public beta test for the next-gen Xbox — Microsoft needs to start working with the community *today* to address feedback - Windows Central",
+    "source": "Windows Central",
+    "url": "https://www.windowscentral.com/gaming/xbox/if-the-xbox-ally-is-a-public-beta-test-for-next-gen-xbox-console-we-need-a-far-stronger-feedback-loop",
+    "publishedAt": "2025-10-24T14:47:00Z",
+    "summary": "The Xbox Insider Program isn't robust enough for the absolutely gargantuan effort ahead of Microsoft. Bringing Windows up to par with the Xbox console experience may be the platform team's biggest challenge yet.",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/zgzXZTjppy5Xc9sb4vMnjH-1477-80.jpg"
+  },
+  {
+    "title": "‘Ghost Of Yotei’ Outsold PS5 ‘Assassin’s Creed Shadows’ In Three Weeks, Says Report - Forbes",
+    "source": "Forbes",
+    "url": "https://www.forbes.com/sites/paultassi/2025/10/24/ghost-of-yotei-outsold-ps5-assassins-creed-shadows-in-three-weeks-says-report/",
+    "publishedAt": "2025-10-24T14:19:06Z",
+    "summary": "Going head-to-head, Ghost of Yotei is about to blow past Assassin's Creed Shadows with sales on PS5 in just a few weeks since launch.",
+    "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/68fb89bcd80c966aa757b605/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+  },
+  {
+    "title": "Apple's New M5 iPad Pro Gets First Amazon Discounts at Up to $100 Off - MacRumors",
+    "source": "MacRumors",
+    "url": "https://www.macrumors.com/2025/10/24/m5-ipad-pro-first-discounts/",
+    "publishedAt": "2025-10-24T14:03:10Z",
+    "summary": "Amazon today has a few discounts on Apple's just-released M5 iPad Pro, with up to $100 off these tablets. These deals are focused on the...",
+    "imageUrl": "https://images.macrumors.com/t/q7PCmOh2oHwxKF12S_4qNLQGTv8=/2500x/article-new/2025/10/m5-ipad-pro.jpeg"
+  },
+  {
+    "title": "God of War: Egypt? Kratos actor Christopher Judge says it would be \"full circle\" for him as the next God of War game, but then it gets even more interesting - Popverse",
+    "source": "Thepopverse.com",
+    "url": "https://www.thepopverse.com/gaming-god-of-war-3-ragnarok-sequel-slipped-unannounced-christopher-judge-kratos-voice-actor-mcm-london-2025",
+    "publishedAt": "2025-10-24T13:48:08Z",
+    "summary": "Did Christopher Judge accidentally say what the next God of War game would be about? He is nervous he just did.",
+    "imageUrl": "https://media.thepopverse.com/media/god-of-war-ragnarok-psmdrzy5nuhf1chy4k4lakel32.jpg"
+  },
+  {
+    "title": "OpenAI made ChatGPT better at sifting through your work or school information - The Verge",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/news/806046/openai-chatgpt-company-knowledge-update",
+    "publishedAt": "2025-10-24T12:58:06Z",
+    "summary": "OpenAI has launched a new ChatGPT feature that makes it easier to search for workspace information without switching between apps.",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/HowItWorks_16x9_desktop.jpg?quality=90&strip=all&crop=0%2C3.5043662306087%2C100%2C92.991267538783&w=1200"
+  },
+  {
+    "title": "‘Borderlands 4’ Has The Worst Halloween Event I’ve Ever Seen - Forbes",
+    "source": "Forbes",
+    "url": "https://www.forbes.com/sites/paultassi/2025/10/24/borderlands-4-has-the-worst-halloween-event-ive-ever-seen/",
+    "publishedAt": "2025-10-24T12:47:21Z",
+    "summary": "Borderlands 4 has just released a horrible Horrors of Kairos Halloween event that is ten times worse than what we got in Borderlands 3.",
+    "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/68fb742a337d1ea53e592243/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+  },
+  {
+    "title": "The bug that taught me more about PyTorch than years of using it",
+    "source": "Hacker News",
+    "url": "https://elanapearl.github.io/blog/2025/the-bug-that-taught-me-pytorch/",
+    "publishedAt": "2025-10-23T17:06:35.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "NextSilicon reveals new processor chip in challenge to Intel, AMD",
+    "source": "Hacker News",
+    "url": "https://www.reuters.com/business/nextsilicon-reveals-new-processor-chip-challenge-intel-amd-2025-10-22/",
+    "publishedAt": "2025-10-22T23:18:52.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "World Simulator: Create and Play Interactive AI Worlds",
+    "source": "Hacker News",
+    "url": "https://worldsimulator.ai/",
+    "publishedAt": "2025-10-21T17:44:59.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Eavesdropping on Internal Networks via Unencrypted Satellites",
+    "source": "Hacker News",
+    "url": "https://satcom.sysnet.ucsd.edu/",
+    "publishedAt": "2025-10-20T22:21:59.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "10k Downloadable Movie Posters From The 40s, 50s, 60s, and 70s",
+    "source": "Hacker News",
+    "url": "https://hrc.contentdm.oclc.org/digital/collection/p15878coll84/search",
+    "publishedAt": "2025-10-18T21:48:37.000Z",
+    "summary": "No description available"
+  }
+]

@@ -1,0 +1,436 @@
+[
+  {
+    "title": "Compiling Ruby to Machine Language",
+    "source": "Hacker News",
+    "url": "https://patshaughnessy.net/2025/11/17/compiling-ruby-to-machine-language",
+    "publishedAt": "2025-11-17T20:04:49.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Show HN: PrinceJS – 19,200 req/s Bun framework in 2.8 kB (built by a 13yo)",
+    "source": "Hacker News",
+    "url": "https://princejs.vercel.app",
+    "publishedAt": "2025-11-17T19:45:00.000Z",
+    "summary": "Hey HN,I&#x27;m 13, from Nigeria, and I just released PrinceJS — the fastest web framework for Bun right now.• 19,200 req&#x2F;s (beats Hono&#x2F;Elys..."
+  },
+  {
+    "title": "An official atlas of North Korea",
+    "source": "Hacker News",
+    "url": "https://www.cartographerstale.com/p/an-official-atlas-of-north-korea",
+    "publishedAt": "2025-11-17T18:07:17.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Show HN: Building WebSocket in Apache Iggy with Io_uring and Completion Based IO",
+    "source": "Hacker News",
+    "url": "https://iggy.apache.org/blogs/2025/11/17/websocket-io-uring/",
+    "publishedAt": "2025-11-17T18:00:31.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "EEG-based neurofeedback in athletes and non-athletes",
+    "source": "Hacker News",
+    "url": "https://www.mdpi.com/2306-5354/12/11/1202",
+    "publishedAt": "2025-11-17T17:40:45.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "DESI's Dizzying Results",
+    "source": "Hacker News",
+    "url": "https://www.universetoday.com/articles/desis-dizzying-results",
+    "publishedAt": "2025-11-17T17:39:43.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "How when AWS was down, we were not",
+    "source": "Hacker News",
+    "url": "https://authress.io/knowledge-base/articles/2025/11/01/how-we-prevent-aws-downtime-impacts",
+    "publishedAt": "2025-11-17T17:07:17.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Israeli-founded app preloaded on Samsung phones is attracting controversy",
+    "source": "Hacker News",
+    "url": "https://www.sammobile.com/news/israeli-app-app-cloud-samsung-phones-controversy/",
+    "publishedAt": "2025-11-17T16:54:53.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Project Gemini",
+    "source": "Hacker News",
+    "url": "https://geminiprotocol.net/",
+    "publishedAt": "2025-11-17T15:50:04.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "How to escape the Linux networking stack",
+    "source": "Hacker News",
+    "url": "https://blog.cloudflare.com/so-long-and-thanks-for-all-the-fish-how-to-escape-the-linux-networking-stack/",
+    "publishedAt": "2025-11-17T15:49:38.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Google is killing the open web, part 2",
+    "source": "Hacker News",
+    "url": "https://wok.oblomov.eu/tecnologia/google-killing-open-web-2/",
+    "publishedAt": "2025-11-17T15:41:08.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "WeatherNext 2: Our most advanced weather forecasting model",
+    "source": "Hacker News",
+    "url": "https://blog.google/technology/google-deepmind/weathernext-2/",
+    "publishedAt": "2025-11-17T15:04:26.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Aldous Huxley predicts Adderall and champions alternative therapies",
+    "source": "Hacker News",
+    "url": "https://angadh.com/inkhaven-7",
+    "publishedAt": "2025-11-17T14:57:33.000Z",
+    "summary": "Audio: https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=ld2E9LWIYJk&amp;list=PLhQ_EZYXXS...Transcript: https:&#x2F;&#x2F;www.organism.earth&#x2F;library..."
+  },
+  {
+    "title": "Show HN: ESPectre – Motion detection based on Wi-Fi spectre analysis",
+    "source": "Hacker News",
+    "url": "https://github.com/francescopace/espectre",
+    "publishedAt": "2025-11-17T14:40:54.000Z",
+    "summary": "Hi everyone, I&#x27;m the author of ESPectre.This is an open-source (GPLv3) project that uses Wi-Fi signal analysis to detect motion using CSI data, a..."
+  },
+  {
+    "title": "Replicate is joining Cloudflare",
+    "source": "Hacker News",
+    "url": "https://replicate.com/blog/replicate-cloudflare",
+    "publishedAt": "2025-11-17T14:11:57.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "The time has finally come for geothermal energy",
+    "source": "Hacker News",
+    "url": "https://www.newyorker.com/magazine/2025/11/24/why-the-time-has-finally-come-for-geothermal-energy",
+    "publishedAt": "2025-11-17T13:55:53.000Z",
+    "summary": "https:&#x2F;&#x2F;archive.ph&#x2F;CR2KL..."
+  },
+  {
+    "title": "FreeMDU: Open-source Miele appliance diagnostic tools",
+    "source": "Hacker News",
+    "url": "https://github.com/medusalix/FreeMDU",
+    "publishedAt": "2025-11-17T13:40:40.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Are you stuck in movie logic?",
+    "source": "Hacker News",
+    "url": "https://usefulfictions.substack.com/p/are-you-stuck-in-movie-logic",
+    "publishedAt": "2025-11-17T12:06:37.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Giving C a superpower: custom header file (safe_c.h)",
+    "source": "Hacker News",
+    "url": "https://hwisnu.bearblog.dev/giving-c-a-superpower-custom-header-file-safe_ch/",
+    "publishedAt": "2025-11-17T10:40:55.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "People are using iPad OS features on their iPhones",
+    "source": "Hacker News",
+    "url": "https://idevicecentral.com/ios-customization/how-to-enable-ipad-features-like-multitasking-stage-manager-on-iphone-via-mobilegestalt/",
+    "publishedAt": "2025-11-17T02:39:28.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "An overly aggressive mock can work fine, but break much later",
+    "source": "Hacker News",
+    "url": "https://nedbatchelder.com/blog/202511/why_your_mock_breaks_later.html",
+    "publishedAt": "2025-11-16T22:36:56.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Call of Duty: Black Ops 7 has the lowest Metacritic user score ever for a Call of Duty game - Eurogamer",
+    "source": "Eurogamer.net",
+    "url": "https://www.eurogamer.net/call-of-duty-black-ops-7-has-the-lowest-metacritic-user-score-ever-for-a-call-of-duty-game",
+    "publishedAt": "2025-11-16T19:20:55Z",
+    "summary": "Call of Duty: Black Ops 7 has had a bumpy start, accruing an 'Overwhelming Dislike' verdict on Metacritic on its openin…",
+    "imageUrl": "https://assetsio.gnwcdn.com/Screenshot-2025-11-16-at-19.09.11.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+  },
+  {
+    "title": "Stereogum soldiers on in the era of streaming and AI - The Verge",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/entertainment/821767/stereogum-scott-lapatine-independent-music-media-streaming-ai",
+    "publishedAt": "2025-11-16T19:00:00Z",
+    "summary": "Stereogum Founder Scott Lapatine on the importance of independent media in the age of AI slop and music streaming algorithms.",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/stereogum-smaller.jpg?quality=90&strip=all&crop=0,23.821989528796,100,52.356020942408"
+  },
+  {
+    "title": "Intel Cancels its Mainstream Next-Gen Xeon Server Processors - ServeTheHome",
+    "source": "Servethehome.com",
+    "url": "https://www.servethehome.com/intel-cancels-its-mainstream-next-gen-xeon-server-processors/",
+    "publishedAt": "2025-11-16T17:30:30Z",
+    "summary": "A major next-generation Intel Xeon platform has been removed from the company's roadmap. We have the details on the Diamond Rapids shift",
+    "imageUrl": "https://www.servethehome.com/wp-content/uploads/2025/02/Intel-LGA4710-with-16-DDR5-DIMMs-1.jpg"
+  },
+  {
+    "title": "Google keeps finding the most clever ways to use AI – I can’t wait to see what’s next - 9to5Google",
+    "source": "9to5google.com",
+    "url": "http://9to5google.com/2025/11/16/google-keeps-finding-the-most-clever-ways-to-use-ai-i-cant-wait-to-see-whats-next/",
+    "publishedAt": "2025-11-16T17:00:00Z",
+    "summary": "I’m not really a huge fan of modern AI. For the past couple of years, it’s just been shoved into...",
+    "imageUrl": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/11/fitbit-coach-and-google-home.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+  },
+  {
+    "title": "Half-Life, 3 Screenshots And Official Trailer - DSOGaming",
+    "source": "DSOGaming",
+    "url": "https://www.dsogaming.com/pc-performance-analyses/half-life-3-screenshots-and-official-trailer/",
+    "publishedAt": "2025-11-16T16:56:44Z",
+    "summary": "Rumor has it that Valve is not done with its gaming announcements, and that something else is coming soon.",
+    "imageUrl": "https://www.dsogaming.com/wp-content/uploads/2015/02/Half-Life-Classic-feature.jpg"
+  },
+  {
+    "title": "How LimeWire ended the Napster music revolution - The Verge",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/podcast/820818/limewire-music-piracy-version-history",
+    "publishedAt": "2025-11-16T15:46:28Z",
+    "summary": "From Napster to Kazaa to Gnutella to The Pirate Bay, file sharing was a huge part of music culture. LimeWire was its last gasp — this is its story.",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/VH_Limewire_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
+    "title": "12 EVs That Stand Out For Reliability - bgr.com",
+    "source": "BGR",
+    "url": "https://www.bgr.com/2021567/evs-that-stand-out-for-reliability/",
+    "publishedAt": "2025-11-16T15:02:00Z",
+    "summary": "If you're looking for a reliable EV, you'd better buckle up because we've done the research for you, breaking down the data to see which stand out.",
+    "imageUrl": "https://www.bgr.com/img/gallery/12-evs-that-stand-out-for-reliability/l-intro-1762443956.jpg"
+  },
+  {
+    "title": "BMW’s New M340i 50 Jahre Edition Gets Something No American 3 Series Ever Has - Carscoops",
+    "source": "CarScoops",
+    "url": "https://www.carscoops.com/2025/11/bmws-new-m340i-bmw-3-series-50-jahre-edition-us-launch-202650-jahre-edition-gets-something-no-american-3-series-ever-has/",
+    "publishedAt": "2025-11-16T15:00:40Z",
+    "summary": "BMW celebrates 50 years of the 3 Series with a limited 50 Jahre Edition for US buyers featuring retro colors and new interior details",
+    "imageUrl": "https://www.carscoops.com/wp-content/uploads/2025/11/M340i_50Jahre-04681-copy-scaled.jpg"
+  },
+  {
+    "title": "Early Black Friday Deals on Laptops With Saving Up to 34% on Top Brands Like Apple, Dell, HP, Lenovo - PCMag",
+    "source": "PCMag.com",
+    "url": "https://www.pcmag.com/news/best-laptop-early-black-friday-2025-deals-apple-dell-hp-lenovo-nov-16",
+    "publishedAt": "2025-11-16T15:00:18Z",
+    "summary": "The biggest sale of the year is coming soon, but early risers can secure big discounts of hundreds of dollars off right now on well-reviewed laptops.",
+    "imageUrl": "https://i.pcmag.com/imagery/articles/03tJu26SFXfZfuDsKmJiI6h-1.fit_lim.size_1200x630.v1763239795.jpg"
+  },
+  {
+    "title": "Georgia Is Home To The World's Largest Classic Car Junkyard - Jalopnik",
+    "source": "Jalopnik",
+    "url": "https://www.jalopnik.com/2024139/worlds-largest-classic-car-junkyard/",
+    "publishedAt": "2025-11-16T14:25:00Z",
+    "summary": "Old Car City, located in White, Georgia, was once the world's largest car junkyard. Now, it's an open-air museum where visitors can walk among rusted relics.",
+    "imageUrl": "https://www.jalopnik.com/img/gallery/georgia-is-home-to-the-worlds-largest-classic-car-junkyard/l-intro-1762903820.jpg"
+  },
+  {
+    "title": "Sony slaps down fan-made Concord resurrection effort with copyright takedown and \"worrying legal action\" - Eurogamer",
+    "source": "Eurogamer.net",
+    "url": "https://www.eurogamer.net/sony-slaps-down-fan-made-concord-resurrection-effort-with-copyright-takedown-and-worrying-legal-action",
+    "publishedAt": "2025-11-16T14:17:07Z",
+    "summary": "Sony has issued a number of DMCA notices against a fan project working to bring Concord back to life.",
+    "imageUrl": "https://assetsio.gnwcdn.com/Concord-review-header.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+  },
+  {
+    "title": "Bloomberg: Here’s what’s actually going on with the iPhone Air 2 - 9to5Mac",
+    "source": "9to5Mac",
+    "url": "https://9to5mac.com/2025/11/16/iphone-air-to-features-release-date-latest/",
+    "publishedAt": "2025-11-16T14:15:00Z",
+    "summary": "It’s been a whirlwind of a week for iPhone Air fans. First, The Information reported that Apple had indefinitely delayed...",
+    "imageUrl": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/iPhone-Air0001-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+  },
+  {
+    "title": "7 reasons you might want to jailbreak your Kindle - Android Authority",
+    "source": "Android Authority",
+    "url": "https://www.androidauthority.com/kindle-jailbreak-reasons-3614190/",
+    "publishedAt": "2025-11-16T13:48:05Z",
+    "summary": "Jailbreaking gave my old Kindle new life with faster menus, local games, and the freedom to customize everything.",
+    "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2025/11/KUAL-launched-on-jailbroken-Kindle-scaled.jpg"
+  },
+  {
+    "title": "Where do the children play?",
+    "source": "Hacker News",
+    "url": "https://unpublishablepapers.substack.com/p/where-do-the-children-play",
+    "publishedAt": "2025-11-16T13:45:45.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Early Black Friday Deals on Smartwatches & Fitness Trackers: Big Sales on Apple, Fitbit, Garmin, and More - PCMag",
+    "source": "PCMag.com",
+    "url": "https://www.pcmag.com/news/best-smartwatch-fitness-tracker-deals-early-black-friday-2025-nov-16",
+    "publishedAt": "2025-11-16T13:15:14Z",
+    "summary": "There's no reason to delay your holiday shopping when you can already save up to $100 on popular smartwatches from Apple, Samsung, Garmin, Fitbit, and more.",
+    "imageUrl": "https://i.pcmag.com/imagery/articles/00DtQ8n6mA2rz57tQ2sRSyV-1.fit_lim.size_1200x630.v1763239438.png"
+  },
+  {
+    "title": "Best Buy Week 3 Black Friday Doorbusters now live - 9to5Toys",
+    "source": "9to5Toys",
+    "url": "http://9to5toys.com/2025/11/16/best-buy-week-3-black-friday-doorbusters-now-live/",
+    "publishedAt": "2025-11-16T13:04:00Z",
+    "summary": "Best Buy’s new batch of Black Friday Doorbusters are now live. Every Friday of the month (starting in late October,...",
+    "imageUrl": "https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2025/11/Best-Buy-Black-Friday-Doorbusters-Week-3-hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+  },
+  {
+    "title": "10 Cool New Gadgets to Keep on Your Radar - Gear Patrol",
+    "source": "Gear Patrol",
+    "url": "https://www.gearpatrol.com/audio/best-new-tech-releases-11-16-2025/",
+    "publishedAt": "2025-11-16T13:01:00Z",
+    "summary": "Catching you up on the past week’s most notable product releases.",
+    "imageUrl": "https://www.gearpatrol.com/wp-content/uploads/sites/2/2025/11/Andover-Audio-SpinPlay-lead_1f3307.webp"
+  },
+  {
+    "title": "Apple’s iPhone Overhaul Will Reduce Its Reliance on Annual Fall Spectacle - Bloomberg.com",
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/newsletters/2025-11-16/apple-s-iphone-road-map-iphone-air-2-iphone-18-mac-pro-future-tesla-carplay-mi1q4l2o",
+    "publishedAt": "2025-11-16T13:00:41Z",
+    "summary": "Apple’s iPhone is getting its biggest makeover yet — both to its features and release schedule. Here’s what’s happening to the company’s flagship product. Also: The Mac Pro is on the back burner, and Tesla is finally adding support for CarPlay. Lastly, Apple’…",
+    "imageUrl": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iqUjcUL3IB2c/v1/1200x800.jpg"
+  },
+  {
+    "title": "Apple's Early Black Friday Deals Are Here: Save $250 on the M4-Powered MacBook Air, and More - PCMag",
+    "source": "PCMag.com",
+    "url": "https://www.pcmag.com/news/best-apple-early-black-friday-deals-airpods-ipads-macbooks-more-nov-16",
+    "publishedAt": "2025-11-16T13:00:22Z",
+    "summary": "Plus, take $170 off an Apple iPad Pro and grab a pair of Apple AirPods 4 for $44 less, along with an Apple Pencil Pro for under $100.",
+    "imageUrl": "https://i.pcmag.com/imagery/articles/018TA7FayvXKDBDiAXZZ6tJ-1.fit_lim.size_1200x630.v1763239313.png"
+  },
+  {
+    "title": "Tesla Bull sends ‘Google message’ to Apple CEO Tim Cook, says: It’s time for … - Times of India",
+    "source": "The Times of India",
+    "url": "https://timesofindia.indiatimes.com/technology/tech-news/tesla-bull-sends-google-message-to-apple-ceo-tim-cook-says-its-time-for-/articleshow/125364531.cms",
+    "publishedAt": "2025-11-16T12:59:00Z",
+    "summary": "Tech News News: Prominent investor Ross Gerber is urging Apple to replace CEO Tim Cook and integrate Google's Gemini AI, suggesting a strategic partnership to enhance",
+    "imageUrl": "https://static.toiimg.com/thumb/msid-125364525,width-1070,height-580,imgsize-387127,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+  },
+  {
+    "title": "How I finally organized my ROM collection on my NAS - Android Authority",
+    "source": "Android Authority",
+    "url": "https://www.androidauthority.com/retroassembly-nas-3612845/",
+    "publishedAt": "2025-11-16T12:56:31Z",
+    "summary": "Thanks to RetroAssembly I can spend less time tinkering and more time playing old classic games on my phone and laptop, no matter where I am.",
+    "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2025/11/RetroAssembly-library-classic-game-emulator.jpg"
+  },
+  {
+    "title": "Ubisoft admits AI-generated loading screen \"slipped through\" into final build of Anno 117: Pax Romana - Eurogamer",
+    "source": "Eurogamer.net",
+    "url": "https://www.eurogamer.net/ubisoft-admits-ai-generated-loading-screen-slipped-through-into-final-build-of-anno-117-pax-romana",
+    "publishedAt": "2025-11-16T12:49:51Z",
+    "summary": "Ubisoft has told Anno 117: Pax Romana fans that it will be replacing an AI-generated loading screen image, insisting it…",
+    "imageUrl": "https://assetsio.gnwcdn.com/Screenshot-2025-11-16-at-12.32.06.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+  },
+  {
+    "title": "I built my smart home with Google; here's how it fell apart - Android Authority",
+    "source": "Android Authority",
+    "url": "https://www.androidauthority.com/i-built-smart-home-with-google-it-fell-apart-3615955/",
+    "publishedAt": "2025-11-16T12:39:23Z",
+    "summary": "In 2019, I thought I had my ideal smart home and it all relied on Google Home. Then it all started failing piece by piece.",
+    "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2023/12/google-home-app-1-scaled.jpg"
+  },
+  {
+    "title": "OnePlus 15 is now global, we test the eSIM iPhone 17 Pro's battery, Week 46 in review - GSMArena.com news - GSMArena.com",
+    "source": "GSMArena.com",
+    "url": "https://www.gsmarena.com/oneplus_15_is_now_global_we_test_the_esim_iphone_17_pros_battery_week_46_in_review-news-70303.php",
+    "publishedAt": "2025-11-16T12:31:02Z",
+    "summary": "The two phones are launching in India next week. The OnePlus 15 is now a globally available phone, and we have the review and a camera comparison versus...",
+    "imageUrl": "https://fdn.gsmarena.com/imgroot/news/25/11/week-46-in-review/-952x498w6/gsmarena_000.jpg"
+  },
+  {
+    "title": "New Breakthrough Could Help Prevent The Devastating Impact of Glaucoma - ScienceAlert",
+    "source": "ScienceAlert",
+    "url": "https://www.sciencealert.com/new-breakthrough-could-help-prevent-the-devastating-impact-of-glaucoma",
+    "publishedAt": "2025-11-16T11:53:22Z",
+    "summary": "There's fresh hope for early detection and new treatments of glaucoma, a group of eye diseases that have devastating effects on vision – and for which there is currently no cure.",
+    "imageUrl": "https://www.sciencealert.com/images/2025/11/CloseEye.jpg"
+  },
+  {
+    "title": "Use Google Gemini and ChatGPT to Organize Your Life With Scheduled Actions - WIRED",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/google-gemini-and-chatgpt-scheduled-actions/",
+    "publishedAt": "2025-11-16T11:30:00Z",
+    "summary": "The AI's latest trick is following the schedule you set for it.",
+    "imageUrl": "https://media.wired.com/photos/691767db0aab2f501ca92d9c/191:100/w_1280,c_limit/gear-ai-organize-2149928167.jpg"
+  },
+  {
+    "title": "New photonic chips passively convert laser light into multiple colors on demand - Phys.org",
+    "source": "Phys.Org",
+    "url": "https://phys.org/news/2025-11-photonic-chips-passively-laser-multiple.html",
+    "publishedAt": "2025-11-16T11:27:57Z",
+    "summary": "Over the past several decades, researchers have been making rapid progress in harnessing light to enable all sorts of scientific and industrial applications. From creating stupendously accurate clocks to processing the petabytes of information zipping through…",
+    "imageUrl": "https://scx2.b-cdn.net/gfx/news/hires/2025/with-passive-approach.jpg"
+  },
+  {
+    "title": "iPhone Pocket: Exactly Why The Issey Miyake Collaboration Sold Out Super-Fast - Forbes",
+    "source": "Forbes",
+    "url": "https://www.forbes.com/sites/davidphelan/2025/11/16/apple-iphone-pocket-why-the-issey-miyake-collaboration-sold-out-in-hours/",
+    "publishedAt": "2025-11-16T11:19:00Z",
+    "summary": "The newest Apple release is the iPhone Pocket. Did you buy it? If not, you may be too late.",
+    "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/6919b3417f81c3c826b4eef3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+  },
+  {
+    "title": "Astrophotographer snaps skydiver falling in front of the sun",
+    "source": "Hacker News",
+    "url": "https://www.iflscience.com/the-fall-of-icarus-you-have-never-seen-an-astrophotography-picture-like-this-81570",
+    "publishedAt": "2025-11-16T11:02:25.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "RFK Jr. Wants to Link Antidepressants Like SSRIs to Mass Shootings. Experts Aren’t Buying It - Gizmodo",
+    "source": "Gizmodo.com",
+    "url": "https://gizmodo.com/rfk-jr-wants-to-link-antidepressants-like-ssris-to-mass-shootings-experts-arent-buying-it-2000684870",
+    "publishedAt": "2025-11-16T11:00:23Z",
+    "summary": "Studies show that people who commit mass shootings aren't more likely to be taking antidepressants. But is RFK Jr. paying any attention?",
+    "imageUrl": "https://gizmodo.com/app/uploads/2025/11/Kennedyovaloffice-1200x675.jpg"
+  },
+  {
+    "title": "Show HN: Continuous Claude – run Claude Code in a loop",
+    "source": "Hacker News",
+    "url": "https://github.com/AnandChowdhary/continuous-claude",
+    "publishedAt": "2025-11-15T16:27:49.000Z",
+    "summary": "Continuous Claude is a CLI wrapper I made that runs Claude Code in an iterative loop with persistent context, automatically driving a PR-based workflo..."
+  },
+  {
+    "title": "My stages of learning to be a socially normal person",
+    "source": "Hacker News",
+    "url": "https://sashachapin.substack.com/p/my-six-stages-of-learning-to-be-a",
+    "publishedAt": "2025-11-15T13:24:54.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "A graph explorer of the Epstein emails",
+    "source": "Hacker News",
+    "url": "https://epstein-doc-explorer-1.onrender.com/",
+    "publishedAt": "2025-11-15T07:27:21.000Z",
+    "summary": "https:&#x2F;&#x2F;github.com&#x2F;maxandrews&#x2F;Epstein-doc-explorer..."
+  },
+  {
+    "title": "Our dogs' diversity can be traced back to the Stone Age",
+    "source": "Hacker News",
+    "url": "https://www.bbc.com/news/articles/ce9d7j89ykro",
+    "publishedAt": "2025-11-14T01:57:57.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Insects on the Space Menu",
+    "source": "Hacker News",
+    "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Insects_on_the_space_menu",
+    "publishedAt": "2025-11-12T15:44:03.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "\"One Student One Chip\" Course Homepage",
+    "source": "Hacker News",
+    "url": "https://ysyx.oscc.cc/docs/en/",
+    "publishedAt": "2025-11-12T15:28:54.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Show HN: I built a synth for my daughter",
+    "source": "Hacker News",
+    "url": "https://bitsnpieces.dev/posts/a-synth-for-my-daughter/",
+    "publishedAt": "2025-11-12T14:12:13.000Z",
+    "summary": "No description available"
+  }
+]

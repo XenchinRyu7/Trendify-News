@@ -1,0 +1,420 @@
+[
+  {
+    "title": "Show HN: I built an 8-bit CPU simulator in Python from scratch",
+    "source": "Hacker News",
+    "url": "https://github.com/sql-hkr/tiny8",
+    "publishedAt": "2025-10-24T13:13:38.000Z",
+    "summary": "I built a tiny 8-bit CPU simulator in Python to better understand how computers work at a low level.\nIt visualizes registers, memory, and instructions..."
+  },
+  {
+    "title": "A sharded DuckDB on 63 nodes runs 1T row aggregation challenge in 5 sec",
+    "source": "Hacker News",
+    "url": "https://gizmodata.com/blog/gizmoedge-one-trillion-row-challenge",
+    "publishedAt": "2025-10-24T12:54:47.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Typst 0.14: Now Accessible",
+    "source": "Hacker News",
+    "url": "https://typst.app/blog/2025/typst-0.14/",
+    "publishedAt": "2025-10-24T12:33:10.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Padlet (YC W13) Is Hiring in San Francisco and Singapore",
+    "source": "Hacker News",
+    "url": "https://padlet.jobs",
+    "publishedAt": "2025-10-24T12:01:08.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Poker fraud used X-ray tables, high-tech glasses and NBA players",
+    "source": "Hacker News",
+    "url": "https://www.bbc.com/news/articles/cz6nd9wnzn6o",
+    "publishedAt": "2025-10-24T11:42:29.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "ChunkLLM: A Lightweight Pluggable Framework for Accelerating LLMs Inference",
+    "source": "Hacker News",
+    "url": "https://arxiv.org/abs/2510.02361",
+    "publishedAt": "2025-10-24T11:41:26.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Mesh2Motion – Open-source web application to animate 3D models",
+    "source": "Hacker News",
+    "url": "https://mesh2motion.org/",
+    "publishedAt": "2025-10-24T11:01:23.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Twake Drive – An open-source alternative to Google Drive",
+    "source": "Hacker News",
+    "url": "https://github.com/linagora/twake-drive",
+    "publishedAt": "2025-10-24T10:16:25.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Interstellar Mission to a Black Hole",
+    "source": "Hacker News",
+    "url": "https://www.centauri-dreams.org/2025/10/23/interstellar-mission-to-a-black-hole/",
+    "publishedAt": "2025-10-24T09:17:24.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "JupyterGIS breaks through to the next level",
+    "source": "Hacker News",
+    "url": "https://eo4society.esa.int/2025/10/16/jupytergis-breaks-through-to-the-next-level/",
+    "publishedAt": "2025-10-24T04:13:01.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Roc Camera",
+    "source": "Hacker News",
+    "url": "https://roc.camera/",
+    "publishedAt": "2025-10-24T02:54:29.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Fast-DLLM: Training-Free Acceleration of Diffusion LLM",
+    "source": "Hacker News",
+    "url": "https://arxiv.org/abs/2505.22618",
+    "publishedAt": "2025-10-24T02:50:50.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Computer science courses that don't exist, but should (2015)",
+    "source": "Hacker News",
+    "url": "https://prog21.dadgum.com/210.html",
+    "publishedAt": "2025-10-24T02:22:07.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Counter-Strike's player economy is in a multi-billion dollar freefall",
+    "source": "Hacker News",
+    "url": "https://www.polygon.com/counter-strike-cs-player-economy-multi-billion-dollar-freefall/",
+    "publishedAt": "2025-10-24T00:24:11.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Automating Algorithm Discovery: A Case Study in MoE Load Balancing",
+    "source": "Hacker News",
+    "url": "https://adrs-ucb.notion.site/moe-load-balancing",
+    "publishedAt": "2025-10-23T22:35:22.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "How memory maps (mmap) deliver faster file access in Go",
+    "source": "Hacker News",
+    "url": "https://info.varnish-software.com/blog/how-memory-maps-mmap-deliver-25x-faster-file-access-in-go",
+    "publishedAt": "2025-10-23T21:56:07.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "/dev/null is an ACID compliant database",
+    "source": "Hacker News",
+    "url": "https://jyu.dev/blog/why-dev-null-is-an-acid-compliant-database/",
+    "publishedAt": "2025-10-23T21:28:02.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Date bug in Rust-based coreutils affects Ubuntu 25.10 automatic updates",
+    "source": "Hacker News",
+    "url": "https://lwn.net/Articles/1043103/",
+    "publishedAt": "2025-10-23T20:49:08.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Can “second life” EV batteries work as grid-scale energy storage?",
+    "source": "Hacker News",
+    "url": "https://www.volts.wtf/p/can-second-life-ev-batteries-work",
+    "publishedAt": "2025-10-23T18:15:45.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "OpenAI acquires Sky.app",
+    "source": "Hacker News",
+    "url": "https://openai.com/index/openai-acquires-software-applications-incorporated",
+    "publishedAt": "2025-10-23T17:04:17.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Claude Memory",
+    "source": "Hacker News",
+    "url": "https://www.anthropic.com/news/memory",
+    "publishedAt": "2025-10-23T16:56:07.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "I spent a year making an ASN.1 compiler in D",
+    "source": "Hacker News",
+    "url": "https://bradley.chatha.dev/blog/dlang-propaganda/asn1-compiler-in-d/",
+    "publishedAt": "2025-10-23T12:47:41.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Microsoft Pushes Xbox Division to Hit Higher Profit Margins - Bloomberg.com",
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2025-10-23/microsoft-pushes-xbox-studios-to-hit-higher-profit-margins",
+    "publishedAt": "2025-10-23T11:00:10Z",
+    "summary": "Management’s goal of 30% profit margins for gaming has led to job losses, canceled projects",
+    "imageUrl": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iUEiZQitHlYI/v1/1200x800.jpg"
+  },
+  {
+    "title": "OpenAI teases new features and fixes for ChatGPT Atlas - The Verge",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/news/805160/openai-chatgpt-atlas-updates",
+    "publishedAt": "2025-10-23T10:39:15Z",
+    "summary": "Product lead Adam Fry published a list of upcoming fixes and features for OpenAI’s AI-powered browser following its launch earlier this week.",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STKB372_CHAT_GPT_ATLAS_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
+    "title": "PyTorch Monarch",
+    "source": "Hacker News",
+    "url": "https://pytorch.org/blog/introducing-pytorch-monarch/",
+    "publishedAt": "2025-10-23T10:15:12.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Musk doubles down in fight with Trump administration, risking his empire - The Washington Post",
+    "source": "The Washington Post",
+    "url": "https://www.washingtonpost.com/technology/2025/10/23/elon-musk-sean-duffy-washington/",
+    "publishedAt": "2025-10-23T10:06:36Z",
+    "summary": "The tech executive has shown little sign of backing down from a battle over the future of NASA. It has spilled into the Transportation Department, which oversees regulation for Tesla.",
+    "imageUrl": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GJRVAEJDV2AH3NKDSH2KK2VC5E.jpg&w=1440"
+  },
+  {
+    "title": "The Espresso Pro portable monitor is a revolution for remote work - The Verge",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/reviews/805112/the-espresso-pro-portable-monitor-is-a-revolution-for-remote-work",
+    "publishedAt": "2025-10-23T09:56:10Z",
+    "summary": "The super slim and lightweight 15.6-inch Espresso Pro monitor features a 4k touchscreen display with 550 nits brightness that’s transformative for remote work.",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/IMG_1948.jpeg?quality=90&strip=all&crop=0%2C15.426086425781%2C100%2C69.808027923211&w=1200"
+  },
+  {
+    "title": "CS2 Trade Update Upends Skin Market With New Knife Crafting - Dataconomy",
+    "source": "Dataconomy.com",
+    "url": "https://dataconomy.com/2025/10/23/cs2-trade-update-upends-skin-market-with-new-knife-crafting/",
+    "publishedAt": "2025-10-23T09:05:00Z",
+    "summary": "Valve released a major update for Counter-Strike 2 (CS2), fundamentally reshaping the game's long-standing skin economy. The introduction of a",
+    "imageUrl": "https://dataconomy.com/wp-content/uploads/2025/10/CS2-trade-update-upends-skin-market-with-new-knife-crafting.jpg"
+  },
+  {
+    "title": "OnePlus confirms a key downgrade for the OnePlus 15 - Android Authority",
+    "source": "Android Authority",
+    "url": "https://www.androidauthority.com/oneplus-15-key-downgrade-confirmed-3609479/",
+    "publishedAt": "2025-10-23T07:31:43Z",
+    "summary": "The OnePlus 15 launches in China in a few days, and the company has now confirmed a significant downgrade is on the cards.",
+    "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2025/02/oxygenos-15-home-screen-oneplus-13-scaled.jpeg"
+  },
+  {
+    "title": "Google promises GPU updates for Pixel 10, but what does it really mean? - Android Authority",
+    "source": "Android Authority",
+    "url": "https://www.androidauthority.com/google-pixel-10-gpu-update-3609497/",
+    "publishedAt": "2025-10-23T07:23:17Z",
+    "summary": "A Google spokesperson confirmed to Android Authority that the company is planning further GPU driver updates for the Pixel 10 lineup.",
+    "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2025/08/Google-Pixel-10-gaming-PUBG.jpg"
+  },
+  {
+    "title": "This is fine: Google Photos could soon let you turn yourself into a meme - Android Authority",
+    "source": "Android Authority",
+    "url": "https://www.androidauthority.com/google-photos-meme-generator-apk-teardown-3609502/",
+    "publishedAt": "2025-10-23T07:13:03Z",
+    "summary": "Google Photos is testing an AI meme generator feature that puts your face into meme templates for personalized memes. Check it out!",
+    "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2023/04/Gogole-photos-logo-on-smartphone-next-to-other-devices-and-picture-frame-Stock-photo-1.jpg"
+  },
+  {
+    "title": "Apple’s reportedly pulling back on iPhone Air production - The Verge",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/news/804758/iphone-air-sales-production-targets-drop",
+    "publishedAt": "2025-10-22T19:46:45Z",
+    "summary": "iPhone supply chain rumors point to strong iPhone 17 sales overall, but cutbacks for Apple’s planned iPhone Air production.",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/gettyimages-2235718444.jpg?quality=90&strip=all&crop=0%2C10.728785061485%2C100%2C78.54242987703&w=1200"
+  },
+  {
+    "title": "Samsung Galaxy XR is the first Android XR headset, now on sale for $1,800 - Ars Technica",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/google/2025/10/samsung-galaxy-xr-is-the-first-android-xr-headset-now-on-sale-for-1800/",
+    "publishedAt": "2025-10-22T18:12:50Z",
+    "summary": "It may not be as spendy as the Vision Pro, but $1,800 is still a lot.",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/Samsung-Mobile-Galaxy-XR-Multimodal-AI-Android-XR-Opening-New-Worlds_main1.jpg"
+  },
+  {
+    "title": "Apple confirms it pulled controversial dating apps Tea and TeaOnHer from the App Store - TechCrunch",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2025/10/22/apple-confirms-it-pulled-controversial-dating-apps-tea-and-teaonher-from-the-app-store/",
+    "publishedAt": "2025-10-22T17:32:14Z",
+    "summary": "Apple has pulled the controversial dating safety apps Tea and TeaOnHer from the App Store over violations of its content moderation and privacy rules, following a flood of user complaints and reports of minors’ data being exposed.",
+    "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/07/tea-app.jpg?resize=1200,559"
+  },
+  {
+    "title": "Next year’s A20 chip might push iPhone prices even higher - 9to5Mac",
+    "source": "9to5Mac",
+    "url": "https://9to5mac.com/2025/10/22/next-years-a20-chip-might-push-iphone-prices-even-higher/",
+    "publishedAt": "2025-10-22T16:40:00Z",
+    "summary": "Next year’s iPhone lineup is expected to use an A20 chip with a new 2-nm process, but that could come at a big cost per a new report.",
+    "imageUrl": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-17-event-14.11.19.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+  },
+  {
+    "title": "Foldable iPhone, bezel-less iPhone, and iPhone Flip details leak: Apple fans are in for a treat - PhoneArena",
+    "source": "PhoneArena",
+    "url": "https://www.phonearena.com/news/foldable-iphone-bezel-less-iphone-iphone-flip-details-leak-apple-fans-in-for-a-treat_id175096",
+    "publishedAt": "2025-10-22T15:44:19Z",
+    "summary": "Apple fans are in for a treat, as the next three years will continue what the company has started with the iPhone 17 Pro: newer and more exciting designs and models to choose from.",
+    "imageUrl": "https://m-cdn.phonearena.com/images/article/175096-wide-two_1200/Foldable-iPhone-bezel-less-iPhone-and-iPhone-Flip-details-leak-Apple-fans-are-in-for-a-treat.jpg"
+  },
+  {
+    "title": "MTG Hybrid Mana Rules in Commander May Be Changing Soon - MTG Rocks",
+    "source": "Mtgrocks.com",
+    "url": "https://mtgrocks.com/mtg-hybrid-mana-rules-in-commander-may-be-changing-soon/",
+    "publishedAt": "2025-10-22T15:39:47Z",
+    "summary": "Wizards of the Coast has announced the might change the Hybrid Mana rules in Commander to increase deckbuilding options!",
+    "imageUrl": "https://mtgrocks.com/wp-content/uploads/2025/10/Pond-Prophet-Bloomburrow.webp"
+  },
+  {
+    "title": "Nintendo announces a string of free updates for Pikmin 4 and Pikmin Bloom - The Verge",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/news/804408/nintendo-pikmin-4-bloom-november-updates",
+    "publishedAt": "2025-10-22T15:37:05Z",
+    "summary": "The updates will arrive in November, and now you can watch Nintendo’s full ’Close to You’ CG short on YouTube.",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/pikmin-4-difficulty-update-16-9.jpg?quality=90&strip=all&crop=0%2C3.4683489810518%2C100%2C93.063302037896&w=1200"
+  },
+  {
+    "title": "New iPad Pro, 14-inch MacBook Pro, and Apple Vision Pro now available - Apple",
+    "source": "Apple Newsroom",
+    "url": "https://www.apple.com/newsroom/2025/10/new-ipad-pro-14-inch-macbook-pro-and-apple-vision-pro-now-available/",
+    "publishedAt": "2025-10-22T15:00:33Z",
+    "summary": "Apple customers can now discover and buy the 11-inch and 13-inch iPad Pro, the new 14-inch MacBook Pro, and Apple Vision Pro.",
+    "imageUrl": "https://www.apple.com/newsroom/images/2025/10/new-ipad-pro-14-inch-macbook-pro-and-apple-vision-pro-now-available/tile/Apple-October-2025-new-products-lp.jpg.og.jpg?202510221755"
+  },
+  {
+    "title": "'The Game We Are Making Now Is a Nintendo Game' — Metroid Prime Producer Kensuke Tanabe Reveals Creative Tensions With Retro in New Book - IGN",
+    "source": "IGN",
+    "url": "https://www.ign.com/articles/the-game-we-are-making-now-is-a-nintendo-game-metroid-prime-producer-kensuke-tanabe-reveals-creative-tensions-with-retro-in-new-book",
+    "publishedAt": "2025-10-22T14:43:22Z",
+    "summary": "Nintendo and Retro Studios brought Metroid into stunning 3D, reforming the series in a first-person shooter style through a sometimes challenging but ultimately fruitful relationship between Japanese and Western teams with their own unique backgrounds and per…",
+    "imageUrl": "https://assets-prd.ignimgs.com/2025/10/21/nswitch-metroidprimeremastered-06-1761060164321.jpg?width=1280&format=jpg&auto=webp&quality=80"
+  },
+  {
+    "title": "Spotify confirms Android app is freezing and crashing for many, but only on Wi-Fi - 9to5Google",
+    "source": "9to5google.com",
+    "url": "http://9to5google.com/2025/10/22/spotify-android-app-crashing-freezing-issue-wi-fi/",
+    "publishedAt": "2025-10-22T14:10:00Z",
+    "summary": "A problem with the Spotify app for Android is causing the app to freeze or crash for many, but only when on Wi-Fi networks.",
+    "imageUrl": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/spotify-logo-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+  },
+  {
+    "title": "Introducing No Man’s Sky: Breach, A Spooky Free Update For Existing Players - Xbox Wire",
+    "source": "Xbox.com",
+    "url": "https://news.xbox.com/en-us/2025/10/22/introducing-no-mans-sky-breach/",
+    "publishedAt": "2025-10-22T14:04:38Z",
+    "summary": ": No Man’s Sky Breach takes players on a journey through the purple-star solar systems introduced in Worlds Part II, to darker, spookier extremes of the universe.",
+    "imageUrl": "https://xboxwire.thesourcemediaassets.com/sites/2/2025/10/No-Mans-Sky-Breach-Key-Art-7a1db6f3cda1622d0105.jpg"
+  },
+  {
+    "title": "Google is testing another home for Nano Banana, and we're unsure what took it so long - Android Authority",
+    "source": "Android Authority",
+    "url": "https://www.androidauthority.com/google-nano-banana-button-gemini-overlay-3609234/",
+    "publishedAt": "2025-10-22T13:24:01Z",
+    "summary": "Google is testing another location for its viral image generator, Nano Banana, in the pursuit to make it accessible across various locations.",
+    "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2025/06/google-gemini-android-prompt-ask-about-screen-hero-1-scaled.jpg"
+  },
+  {
+    "title": "The end of Windows 10 has been a boon for one particular Linux distro - and I'm not surprised - ZDNET",
+    "source": "ZDNet",
+    "url": "https://www.zdnet.com/article/the-end-of-windows-10-has-been-a-boon-for-one-particular-linux-distro-and-im-not-surprised/",
+    "publishedAt": "2025-10-22T12:53:00Z",
+    "summary": "Windows 10 users are trying the open-source operating system, thanks to the end of support, but one distribution is really enjoying a rise in downloads.",
+    "imageUrl": "https://www.zdnet.com/a/img/resize/92227970aa3e783b7bfbf5f5d693d98a847a548b/2025/10/21/820442ba-7808-42e8-9119-afa611c2454a/gettyimages-1338559814-cropped.jpg?auto=webp&fit=crop&height=675&width=1200"
+  },
+  {
+    "title": "After Releasing a $1,000 Handheld, Microsoft Has Said Its Next-Gen Xbox Console 'Is Going to Be a Very Premium, Very High-End Curated Experience' - IGN",
+    "source": "IGN",
+    "url": "https://www.ign.com/articles/after-releasing-a-1000-handheld-microsoft-has-said-its-next-gen-xbox-console-is-going-to-be-a-very-premium-very-high-end-curated-experience",
+    "publishedAt": "2025-10-22T12:26:08Z",
+    "summary": "Microsoft is keeping its next-gen Xbox console plans under wraps, but it has suggested it will be ultra premium hardware.",
+    "imageUrl": "https://assets-prd.ignimgs.com/2023/05/03/xbox-showcase-1683121552988.jpg?width=1280&format=jpg&auto=webp&quality=80"
+  },
+  {
+    "title": "After 21 years of waiting, Bloodlines 2's Steam reviews are exactly what I expected - PCGamesN",
+    "source": "PCGamesN",
+    "url": "https://www.pcgamesn.com/vampire-the-masquerade-bloodlines-2/steam-reviews-launch",
+    "publishedAt": "2025-10-22T11:41:54Z",
+    "summary": "After two decades of waiting, Vampire the Masquerade Bloodlines 2 is out in the wild, but it's getting a lukewarm response on Steam.",
+    "imageUrl": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2025/10/vampire-the-masquerade-bloodlines-2-steam-reviews-launch.jpg"
+  },
+  {
+    "title": "Microsoft prepares major Windows 11 feature drop with new Start menu, Taskbar updates, and more | New features expected to roll out next month - Windows Central",
+    "source": "Windows Central",
+    "url": "https://www.windowscentral.com/microsoft/windows-11/microsoft-prepares-new-start-menu-release-major-windows-11-feature-update-november-2025",
+    "publishedAt": "2025-10-22T11:19:06Z",
+    "summary": "Windows 11's next major update is set to include a brand-new Start menu, lots of Taskbar and File Explorer updates, and general quality of life improvements, which is now in the final testing stages before general availability.",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/xhVcK68PshXPbNM4ZVwdYe-2560-80.jpg"
+  },
+  {
+    "title": "Watch the Battlefield 6 Season 1 trailer here for a look at the first new map coming to the game next week - VG247",
+    "source": "VG247",
+    "url": "https://www.vg247.com/battlefield-6-season-1-reveal-trailer-blackwell-fields-map-first-look",
+    "publishedAt": "2025-10-22T09:25:00Z",
+    "summary": "If you can believe it, we're less than one week away from the launch of Battlefield 6's first season.",
+    "imageUrl": "https://assetsio.gnwcdn.com/battlefield-6-assault-class-gameplay-1.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+  },
+  {
+    "title": "ROG Xbox Ally X Sees Significant Performance Improvements Running Games in Bazzite OS - Wccftech",
+    "source": "Wccftech",
+    "url": "https://wccftech.com/rog-xbox-ally-x-performance-improvements-bazzite-os/",
+    "publishedAt": "2025-10-21T15:30:00Z",
+    "summary": "The ROG Xbox Ally X can run games like Kingdom Come: Deliverance II and Hogwarts Legacy with better performance using Bazzite OS",
+    "imageUrl": "https://cdn.wccftech.com/wp-content/uploads/2025/10/ROG-Xbox-Ally-X-Bazzite-OS.jpeg"
+  },
+  {
+    "title": "Show HN: MacOS Live Screensaver – A screensaver that plays live video streams",
+    "source": "Hacker News",
+    "url": "https://github.com/hauxir/macos-live-screensaver",
+    "publishedAt": "2025-10-21T11:48:52.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Why formalize mathematics – more than catching errors",
+    "source": "Hacker News",
+    "url": "https://rkirov.github.io/posts/why_lean/",
+    "publishedAt": "2025-10-19T08:59:27.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "VisiCalc on the Apple II",
+    "source": "Hacker News",
+    "url": "https://stonetools.ghost.io/visicalc-apple2/",
+    "publishedAt": "2025-10-19T07:24:18.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Betty White's shoulder bag is a time capsule of World War II (2023)",
+    "source": "Hacker News",
+    "url": "https://americanhistory.si.edu/explore/stories/betty-white-world-war-ii",
+    "publishedAt": "2025-10-17T04:28:46.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Clang Bytecode Interpreter Update",
+    "source": "Hacker News",
+    "url": "https://developers.redhat.com/articles/2025/10/15/clang-bytecode-interpreter-update",
+    "publishedAt": "2025-10-15T08:59:46.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Benchmarking Postgres 17 vs. 18",
+    "source": "Hacker News",
+    "url": "https://planetscale.com/blog/benchmarking-postgres-17-vs-18",
+    "publishedAt": "2025-10-14T15:35:44.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Wasp Blower",
+    "source": "Hacker News",
+    "url": "https://softsolder.com/2025/08/12/wasp-blower/",
+    "publishedAt": "2025-10-13T10:29:29.000Z",
+    "summary": "No description available"
+  }
+]

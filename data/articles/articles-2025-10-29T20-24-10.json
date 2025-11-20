@@ -1,0 +1,437 @@
+[
+  {
+    "title": "How to Obsessively Tune WezTerm",
+    "source": "Hacker News",
+    "url": "https://rashil2000.me/blogs/tune-wezterm",
+    "publishedAt": "2025-10-29T19:39:57.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
+    "source": "Hacker News",
+    "url": "https://emily.space/posts/251023-uv",
+    "publishedAt": "2025-10-29T18:57:29.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Show HN: SQLite Graph Ext – Graph database with Cypher queries (alpha)",
+    "source": "Hacker News",
+    "url": "https://github.com/agentflare-ai/sqlite-graph",
+    "publishedAt": "2025-10-29T18:52:46.000Z",
+    "summary": "I&#x27;ve been working on adding graph database capabilities to SQLite with support for the Cypher query language. As of this week, both CREATE and MA..."
+  },
+  {
+    "title": "Extropic is building thermodynamic computing hardware",
+    "source": "Hacker News",
+    "url": "https://extropic.ai/",
+    "publishedAt": "2025-10-29T18:25:01.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Dithering – Part 1",
+    "source": "Hacker News",
+    "url": "https://visualrambling.space/dithering-part-1/",
+    "publishedAt": "2025-10-29T18:21:35.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "The Internet Runs on Free and Open Source Software–and So Does the DNS",
+    "source": "Hacker News",
+    "url": "https://www.icann.org/en/blogs/details/the-internet-runs-on-free-and-open-source-softwareand-so-does-the-dns-23-10-2025-en",
+    "publishedAt": "2025-10-29T18:16:07.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Encoding x86 Instructions",
+    "source": "Hacker News",
+    "url": "https://www-user.tu-chemnitz.de/~heha/hs/chm/x86.chm/x86.htm",
+    "publishedAt": "2025-10-29T17:50:21.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "OpenAI’s promise to stay in California helped clear the path for its IPO",
+    "source": "Hacker News",
+    "url": "https://www.wsj.com/tech/ai/openais-promise-to-stay-in-california-helped-clear-the-path-for-its-ipo-3af1c31c",
+    "publishedAt": "2025-10-29T17:44:34.000Z",
+    "summary": "https:&#x2F;&#x2F;archive.ph&#x2F;NCZhi..."
+  },
+  {
+    "title": "Building a Robot Dog (with an airsoft gun)",
+    "source": "Hacker News",
+    "url": "https://erikschluntz.com/hardware/2025/10/26/robot-dog.html",
+    "publishedAt": "2025-10-29T17:15:33.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "A Year of Fast Apply – Our Path to 10k Tokens per Second",
+    "source": "Hacker News",
+    "url": "https://www.relace.ai/blog/relace-apply-3",
+    "publishedAt": "2025-10-29T17:04:48.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "The Green Tea Garbage Collector",
+    "source": "Hacker News",
+    "url": "https://go.dev/blog/greenteagc",
+    "publishedAt": "2025-10-29T17:03:51.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Upwave (YC S12) is hiring software engineers",
+    "source": "Hacker News",
+    "url": "https://www.upwave.com/job/8228849002/",
+    "publishedAt": "2025-10-29T17:00:15.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "AOL to be sold to Bending Spoons for $1.5B",
+    "source": "Hacker News",
+    "url": "https://www.axios.com/2025/10/29/aol-bending-spoons-deal",
+    "publishedAt": "2025-10-29T16:28:56.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Tailscale Peer Relays",
+    "source": "Hacker News",
+    "url": "https://tailscale.com/blog/peer-relays-beta",
+    "publishedAt": "2025-10-29T16:21:36.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Minecraft removing obfuscation in Java Edition",
+    "source": "Hacker News",
+    "url": "https://www.minecraft.net/en-us/article/removing-obfuscation-in-java-edition",
+    "publishedAt": "2025-10-29T16:12:56.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Composer: Building a fast frontier model with RL",
+    "source": "Hacker News",
+    "url": "https://cursor.com/blog/composer",
+    "publishedAt": "2025-10-29T16:04:33.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "The end of the rip-off economy: consumers use LLMs against information asymmetry",
+    "source": "Hacker News",
+    "url": "https://www.economist.com/finance-and-economics/2025/10/27/the-end-of-the-rip-off-economy",
+    "publishedAt": "2025-10-29T15:32:46.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Hosting SQLite Databases on GitHub Pages (2021)",
+    "source": "Hacker News",
+    "url": "https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/",
+    "publishedAt": "2025-10-29T15:32:11.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Collins Aerospace: Sending text messages to the cockpit with test:test",
+    "source": "Hacker News",
+    "url": "https://www.ccc.de/en/disclosure/collins-aerospace-mit-test-test-textnachrichten-bis-ins-cockpit-senden",
+    "publishedAt": "2025-10-29T15:07:20.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "I made a 10¢ MCU Talk",
+    "source": "Hacker News",
+    "url": "https://www.atomic14.com/2025/10/29/CH32V003-talking",
+    "publishedAt": "2025-10-29T14:12:50.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "From VS Code to Helix",
+    "source": "Hacker News",
+    "url": "https://ergaster.org/posts/2025/10/29-vscode-to-helix/",
+    "publishedAt": "2025-10-29T13:19:30.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Who needs Graphviz when you can build it yourself?",
+    "source": "Hacker News",
+    "url": "https://spidermonkey.dev/blog/2025/10/28/iongraph-web.html",
+    "publishedAt": "2025-10-29T05:17:49.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Keep Android Open",
+    "source": "Hacker News",
+    "url": "http://keepandroidopen.org/",
+    "publishedAt": "2025-10-29T04:03:41.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "NASCAR and Night launch NASCAR 25 Creator Series in celebration of NASCAR 25 - NASCAR.com",
+    "source": "NASCAR",
+    "url": "https://www.nascar.com/news-media/2025/10/28/nascar-and-night-launch-nascar-25-creator-series-in-celebration-of-nascar-25/",
+    "publishedAt": "2025-10-28T17:05:44Z",
+    "summary": "NASCAR and Night, a next-gen media and entertainment company, launch NASCAR 25 Creator Series in celebration of NASCAR 25.",
+    "imageUrl": "https://www.nascar.com/wp-content/uploads/sites/7/2025/10/28/EMP-25-CreatorSeries-DriverHype-16x9-1-672x372.jpg"
+  },
+  {
+    "title": "The Pathologic devs are making Darkwood 2 with Acid Wizard's blessing in a frankly outrageous piece of horror synergy - Rock Paper Shotgun",
+    "source": "Rock Paper Shotgun",
+    "url": "https://www.rockpapershotgun.com/the-pathologic-devs-are-making-darkwood-2-with-acid-wizards-blessing-in-a-frankly-outrageous-piece-of-horror-synergy",
+    "publishedAt": "2025-10-28T17:05:00Z",
+    "summary": "The publishers of Manor Lords have put two of history's best horror developers together in the shape of a survival experience set in the Aral Sea.",
+    "imageUrl": "https://assetsio.gnwcdn.com/Darkwood-2---Key-Art.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+  },
+  {
+    "title": "Gemini starts landing on your Google Home smart devices as of right... now! - Android Authority",
+    "source": "Android Authority",
+    "url": "https://www.androidauthority.com/gemini-smart-speaker-3610915/",
+    "publishedAt": "2025-10-28T16:32:14Z",
+    "summary": "Google's rollout of Gemini on speakers for Early Access users is getting underway in just moments.",
+    "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2020/10/Google-Nest-Audio-AA-3-of-10.jpg"
+  },
+  {
+    "title": "Zoom Uncomfortably Close With Oppo’s Crazy New Telephoto Lens - WIRED",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/oppo-find-x9-pro-detachable-camera/",
+    "publishedAt": "2025-10-28T16:00:00Z",
+    "summary": "The new Find X9 Pro has a built-in 200-megapixel telephoto lens, but you can get even closer with a hefty Hasselblad zoom lens.",
+    "imageUrl": "https://media.wired.com/photos/68ffeb3a8fdb4736bd882bac/191:100/w_1280,c_limit/Oppo%20Find%20X9%20Pro%201%20SOURCE%20Simon%20Hill.jpg"
+  },
+  {
+    "title": "Show HN: Research Hacker News, ArXiv & Google with Hierarchical Bayesian Models",
+    "source": "Hacker News",
+    "url": "https://sturdystatistics.com/deepdive-search",
+    "publishedAt": "2025-10-28T15:49:51.000Z",
+    "summary": "Hi Hacker News! I’m a Bayesian statistician that has been working on applying hierarchical mixture models (originally developed for genomics) to struc..."
+  },
+  {
+    "title": "M4 vs. M5 iPad Pro Buyer's Guide: 20 Differences Compared - MacRumors",
+    "source": "MacRumors",
+    "url": "https://www.macrumors.com/guide/m4-vs-m5-ipad-pro/",
+    "publishedAt": "2025-10-28T15:45:04Z",
+    "summary": "Apple's new iPad Pro comes almost 18 months after the previous version with the M4 chip, so how different is the new model and should you...",
+    "imageUrl": "https://images.macrumors.com/t/cE3ZPpZRsi8VGQdcoAIbbwr6lbo=/2500x/article-new/2024/05/iPad-Pro-M4-Silver-and-Space-Black-Feature-1.jpg"
+  },
+  {
+    "title": "iOS 26.1 will add four new ways to customize your iPhone - 9to5Mac",
+    "source": "9to5Mac",
+    "url": "https://9to5mac.com/2025/10/28/ios-26-1-will-add-four-new-ways-to-customize-your-iphone/",
+    "publishedAt": "2025-10-28T15:33:07Z",
+    "summary": "iOS 26.1 gives users four new settings to customize the way their iPhone looks and works. Here’s what’s new.",
+    "imageUrl": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/iOS-26.1-settings.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+  },
+  {
+    "title": "Battlefield’s free battle royale mode is available now - The Verge",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/news/807720/ea-battlefield-6-battle-royale-redsec",
+    "publishedAt": "2025-10-28T15:22:58Z",
+    "summary": "EA has revealed details about the battle royale mode for Battlefield 6, called Redsec, which is free to play now.",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/ss_81783b7679d1f36651cf3987721c16a3b975337d.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
+  },
+  {
+    "title": "More mobs from Mounts of Mayhem - Minecraft",
+    "source": "Minecraft.net",
+    "url": "https://www.minecraft.net/en-us/article/more-mobs-from-mounts-of-mayhem",
+    "publishedAt": "2025-10-28T15:08:31Z",
+    "summary": "A new mount (and more mayhem!) arrive in testing! With the camel husk (an undead passive mob) and the parched (a desert-dwelling skeleton) daytime in Minecraft just got more challenging. Find out everything you need to know about these mobs (and how to test t…",
+    "imageUrl": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/screenshots/MCV_HOL25_Testing_3_BPS_Editorial_Exlusive_1170x500.jpg"
+  },
+  {
+    "title": "Minecraft Snapshot 25w44a - Minecraft",
+    "source": "Minecraft.net",
+    "url": "https://www.minecraft.net/en-us/article/minecraft-snapshot-25w44a",
+    "publishedAt": "2025-10-28T15:08:31Z",
+    "summary": "Minecraft Snapshot 25w44a",
+    "imageUrl": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/screenshots/25w44a_1170x500.jpg"
+  },
+  {
+    "title": "As its original devs post conflicting takes on the controversial remake, I have to ask: who is Halo: Campaign Evolved for? - Eurogamer",
+    "source": "Eurogamer.net",
+    "url": "https://www.eurogamer.net/as-its-original-devs-post-conflicting-takes-on-the-controversial-remake-i-have-to-ask-who-is-halo-campaign-evolved-for",
+    "publishedAt": "2025-10-28T15:00:00Z",
+    "summary": "A remake of a remake.",
+    "imageUrl": "https://assetsio.gnwcdn.com/halo-consoles.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+  },
+  {
+    "title": "Leaker says ‘iPhone 20’ will drop every physical button, go all-in on haptics - 9to5Mac",
+    "source": "9to5Mac",
+    "url": "https://9to5mac.com/2025/10/28/leaker-says-iphone-20-will-drop-every-physical-button-go-all-in-on-haptics/",
+    "publishedAt": "2025-10-28T14:38:00Z",
+    "summary": "A new leak indicates the special 20th anniversary ‘iPhone 20’ model might drop all physical buttons and switch to haptic feedback instead.",
+    "imageUrl": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/06/iPhone-20th-anniversary-mockup-ios26-02.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+  },
+  {
+    "title": "Google Pixel 10a keeps its camera bar-free design in first render leak - 9to5Google",
+    "source": "9to5google.com",
+    "url": "http://9to5google.com/2025/10/28/google-pixel-10a-keeps-its-camera-bar-free-design-in-first-render-leak/",
+    "publishedAt": "2025-10-28T14:32:00Z",
+    "summary": "We’ve known for a while now that Google is working on a successor to this year’s excellent Pixel 9a. Now,...",
+    "imageUrl": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/10/pixel10a-leak-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+  },
+  {
+    "title": "Both real-life and lab tests suggest iPhone Air battery lasts a typical day - 9to5Mac",
+    "source": "9to5Mac",
+    "url": "https://9to5mac.com/2025/10/28/both-real-life-and-lab-tests-suggest-iphone-air-battery-lasts-a-typical-day/",
+    "publishedAt": "2025-10-28T14:05:00Z",
+    "summary": "One of the key compromises with the iPhone Air is a smaller battery, but a combination of real-life usage and...",
+    "imageUrl": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-air-side.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+  },
+  {
+    "title": "Privacy laws can’t keep up with ‘luxury surveillance’ - The Verge",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/807834/meta-smart-glasses-privacy-laws-wearables",
+    "publishedAt": "2025-10-28T14:00:00Z",
+    "summary": "Legal experts explain the laws and ethics of recording other people with Meta’s new smart glasses and other wearables.",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257966_ethics_of_recording_people_with_smart_glasses__CVirginia3-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
+    "title": "PSA: You Might Need To Free Up Some Space For Hyrule Warriors: Age Of Imprisonment - Nintendo Life",
+    "source": "Nintendo Life",
+    "url": "https://www.nintendolife.com/news/2025/10/psa-you-might-need-to-free-up-some-space-for-hyrule-warriors-age-of-imprisonment",
+    "publishedAt": "2025-10-28T13:30:00Z",
+    "summary": "It's a beast",
+    "imageUrl": "https://images.nintendolife.com/0af425b01de6b/large.jpg"
+  },
+  {
+    "title": "Samsung shows off its trifold phone in person - The Verge",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/news/807868/samsung-trifold-phone-apec-summit",
+    "publishedAt": "2025-10-28T13:14:04Z",
+    "summary": "The still-unnamed foldable is set to launch this year.",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/gettyimages-2243326301.jpg?quality=90&strip=all&crop=0%2C10.737892056687%2C100%2C78.524215886627&w=1200"
+  },
+  {
+    "title": "Fan made Bully Online mod enters early access this December - Eurogamer",
+    "source": "Eurogamer.net",
+    "url": "https://www.eurogamer.net/fan-made-bully-online-mod-enters-early-access-this-december",
+    "publishedAt": "2025-10-28T13:07:11Z",
+    "summary": "Fan made Bully Online mod enters early access this December.",
+    "imageUrl": "https://assetsio.gnwcdn.com/bully.jpg_SeNBVed.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+  },
+  {
+    "title": "How to use Microsoft Copilot on Windows 11 - Windows Central",
+    "source": "Windows Central",
+    "url": "https://www.windowscentral.com/microsoft/windows-11/how-to-get-started-with-microsoft-copilot-on-windows-11",
+    "publishedAt": "2025-10-28T12:02:11Z",
+    "summary": "Copilot is more than just an app on Windows 11, and in this guide, you'll find everything a beginner needs to get started.",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/7Uiv5pM6dWRkj4jvXt4z5j-1683-80.jpg"
+  },
+  {
+    "title": "Kensington’s new trackball comes packed with scroll wheels - The Verge",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/news/806297/kensington-expert-mouse-tb800-eq-trackball",
+    "publishedAt": "2025-10-28T12:00:00Z",
+    "summary": "Kensington’s new Expert Mouse TB800 EQ wireless trackball has a sleeker design with an integrated wrist rest and multiple ways to scroll.",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/kensington_trackball1.jpg?quality=90&strip=all&crop=0,10.711277816849,100,78.577444366301"
+  },
+  {
+    "title": "See a colossal 'X' and 'V' appear on the moon after sunset tonight - Space",
+    "source": "Space.com",
+    "url": "https://www.space.com/stargazing/see-a-colossal-x-and-v-appear-on-the-moon-after-sunset-tonight",
+    "publishedAt": "2025-10-28T12:00:00Z",
+    "summary": "Turn your telescope on the moon at sunset on Oct. 28 to see a colossal \"X\" and \"V\" form on the lunar surface as sunlight picks out broken terrain along the terminator.",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/zntxBWU5hHSBzwQ4NbkNdQ-1600-80.jpg"
+  },
+  {
+    "title": "World's Tiniest Pixel Shatters Records… But There's a Catch - ScienceAlert",
+    "source": "ScienceAlert",
+    "url": "https://www.sciencealert.com/worlds-tiniest-pixel-shatters-records-but-theres-a-catch",
+    "publishedAt": "2025-10-28T11:01:49Z",
+    "summary": "Get ready for a new era of miniature displays.",
+    "imageUrl": "https://www.sciencealert.com/images/2025/10/vr_headset_small_pixel_header-1.jpg"
+  },
+  {
+    "title": "Civilization 7 will bring back the ability to play as one civ for the whole game, bypassing the divisive Age system - Rock Paper Shotgun",
+    "source": "Rock Paper Shotgun",
+    "url": "https://www.rockpapershotgun.com/civilization-7-will-bring-back-the-ability-to-play-as-one-civ-for-the-whole-game-bypassing-the-divisive-age-system",
+    "publishedAt": "2025-10-28T09:56:13Z",
+    "summary": "Firaxis are bringing one of the \"most requested\" features to Civilization 7 - the chance to bypass the Age system and play as one Civ all the way through.",
+    "imageUrl": "https://assetsio.gnwcdn.com/civilization-6-epic-games-store-free-games-july-2025.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+  },
+  {
+    "title": "First look: DJI’s Romo robot vacuum - The Verge",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/807461/dji-romo-robot-vacuum-europe-launch-specs-price-first-look",
+    "publishedAt": "2025-10-28T08:00:00Z",
+    "summary": "DJI’s first robot vacuum launches in Europe for €1,900.",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/IMG_6755_3e38af.jpeg?quality=90&strip=all&crop=0%2C1.2319774174429%2C100%2C69.820493642483&w=1200"
+  },
+  {
+    "title": "John Carmack says NVIDIA DGX Spark runs at half of the rated power and delivers half the quoted performance - VideoCardz.com",
+    "source": "Videocardz.com",
+    "url": "https://videocardz.com/newz/john-carmack-says-nvidia-dgx-spark-runs-at-half-of-the-rated-power-and-delivers-half-the-quoted-performance",
+    "publishedAt": "2025-10-28T07:48:00Z",
+    "summary": "John Carmack says NVIDIA DGX Spark draws under half its rated power, delivers half expected performance Image courtesy of OnThisDay & Ryans In a post on X, John Carmack, NVIDIA’s new DGX Spark system is not reaching its claimed performance targets. He and oth…",
+    "imageUrl": "https://cdn.videocardz.com/1/2025/10/JOHN-CARMACK-DGX-SPARK.jpg"
+  },
+  {
+    "title": "Sony's Social Media Tribute to the PS2 Borders on Insulting - Push Square",
+    "source": "Push Square",
+    "url": "https://www.pushsquare.com/news/2025/10/sonys-social-media-tribute-to-the-ps2-borders-on-insulting",
+    "publishedAt": "2025-10-28T05:00:00Z",
+    "summary": "You can do better",
+    "imageUrl": "https://images.pushsquare.com/01b8fb4d7dc90/large.jpg"
+  },
+  {
+    "title": "Loulan: The Cursed Sand Looks Like Another Must Play PS5 Console Exclusive - Push Square",
+    "source": "Push Square",
+    "url": "https://www.pushsquare.com/news/2025/10/loulan-the-cursed-sand-looks-like-another-must-play-ps5-console-exclusive",
+    "publishedAt": "2025-10-28T04:00:00Z",
+    "summary": "Ashes to ashes",
+    "imageUrl": "https://images.pushsquare.com/f72477409aef4/large.jpg"
+  },
+  {
+    "title": "Next-gen Xbox to feature full Windows, backward compatibility, and free online multiplayer - TechSpot",
+    "source": "TechSpot",
+    "url": "https://www.techspot.com/news/110031-next-gen-xbox-feature-full-windows-backward-compatibility.html",
+    "publishedAt": "2025-10-28T03:15:19Z",
+    "summary": "According to the rumor mill, the next Xbox console will have access to all Windows software and support all games currently available on Xbox Series consoles. The...",
+    "imageUrl": "https://www.techspot.com/images2/news/bigimage/2023/09/2023-09-19-image-3.jpg"
+  },
+  {
+    "title": "Google's next Pixel Drop may land early, as leak spills the beans on features and November ETA - Android Authority",
+    "source": "Android Authority",
+    "url": "https://www.androidauthority.com/november-pixel-drop-leak-3610662/",
+    "publishedAt": "2025-10-28T00:54:25Z",
+    "summary": "Google's next Pixel Drop could be here before expected, with a new leak revealing features and a November ETA.",
+    "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2025/09/google-pixel-10-pro-jade-back-2-scaled.jpg"
+  },
+  {
+    "title": "OnePlus Tells Us Everything About the OnePlus 15 Early - Droid Life",
+    "source": "Droid Life",
+    "url": "https://www.droid-life.com/2025/10/27/oneplus-15-goes-official-in-china-and-here-are-all-the-specs/",
+    "publishedAt": "2025-10-28T00:35:03Z",
+    "summary": "OnePlus announced its new OnePlus 15 flagship phone for China today, giving us all an early look at a device that is likely to launch here in the coming weeks or months. OnePlus has not yet said when this device could hit our shores, but arriving in China is …",
+    "imageUrl": "https://www.droid-life.com/wp-content/uploads/2025/10/OnePlus-15-Official-Specs-in-China-1200x628-cropped.jpg"
+  },
+  {
+    "title": "Hacking the World Poker Tour: Inside ClubWPT Gold's Back Office",
+    "source": "Hacker News",
+    "url": "https://samcurry.net/hacking-clubwpt-gold",
+    "publishedAt": "2025-10-26T11:48:12.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "ChatGPT's Atlas: The Browser That's Anti-Web",
+    "source": "Hacker News",
+    "url": "https://www.anildash.com//2025/10/22/atlas-anti-web-browser/",
+    "publishedAt": "2025-10-25T09:08:26.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Vibration Analysis and Control in Particle Accelerator (2018) [pdf]",
+    "source": "Hacker News",
+    "url": "https://indico.cern.ch/event/694811/contributions/2863859/attachments/1595533/2526938/2018_02_06_FCCee_MDI_workshop_Serluca.pdf",
+    "publishedAt": "2025-10-25T06:44:02.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "State of Embedded: Q4 2025 Overview",
+    "source": "Hacker News",
+    "url": "https://sbcwiki.com/news/articles/state-of-embedded-q4-25/",
+    "publishedAt": "2025-10-24T17:52:20.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Eye prosthesis is the first to restore sight lost to macular degeneration",
+    "source": "Hacker News",
+    "url": "https://med.stanford.edu/news/all-news/2025/10/eye-prosthesis.html",
+    "publishedAt": "2025-10-22T16:36:25.000Z",
+    "summary": "No description available"
+  }
+]

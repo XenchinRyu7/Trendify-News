@@ -1,0 +1,444 @@
+[
+  {
+    "title": "The Hackers Manifesto (The Conscience of a Hacker) (1986)",
+    "source": "Hacker News",
+    "url": "https://phrack.org/issues/7/3",
+    "publishedAt": "2025-11-05T08:28:04.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Hypothesis: Property-Based Testing for Python",
+    "source": "Hacker News",
+    "url": "https://hypothesis.readthedocs.io/en/latest/",
+    "publishedAt": "2025-11-05T03:15:37.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Preventing Kubernetes from Pulling the Pause Image from the Internet",
+    "source": "Hacker News",
+    "url": "https://kyle.cascade.family/posts/preventing-kubernetes-from-pulling-the-pause-image-from-the-internet/",
+    "publishedAt": "2025-11-05T03:04:58.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "The Microsoft SoftCard for the Apple II: Getting two processors to share memory",
+    "source": "Hacker News",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20251104-00/?p=111758",
+    "publishedAt": "2025-11-05T02:58:25.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Direct File won't happen in 2026, IRS tells states",
+    "source": "Hacker News",
+    "url": "https://www.nextgov.com/digital-government/2025/11/direct-file-wont-happen-2026-irs-tells-states/409309/",
+    "publishedAt": "2025-11-05T02:30:38.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Uncle Sam wants to scan your iris and collect your DNA, citizen or not",
+    "source": "Hacker News",
+    "url": "https://www.theregister.com/2025/11/04/dhs_wants_to_collect_biometric_data/",
+    "publishedAt": "2025-11-04T23:35:27.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Bluetui – A TUI for managing Bluetooth on Linux",
+    "source": "Hacker News",
+    "url": "https://github.com/pythops/bluetui",
+    "publishedAt": "2025-11-04T23:29:31.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Google Removed 749M Anna's Archive URLs from Its Search Results",
+    "source": "Hacker News",
+    "url": "https://torrentfreak.com/google-removed-749-million-annas-archive-urls-from-its-search-results/",
+    "publishedAt": "2025-11-04T23:11:20.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "UPS plane crashes near Louisville airport",
+    "source": "Hacker News",
+    "url": "https://www.cbsnews.com/news/ups-plane-crash-louisville-kentucky/",
+    "publishedAt": "2025-11-04T23:10:53.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Patching 68K Software – SimpleText",
+    "source": "Hacker News",
+    "url": "https://tinkerdifferent.com/threads/patching-68k-software-simpletext.4793/",
+    "publishedAt": "2025-11-04T22:59:22.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Mr TIFF",
+    "source": "Hacker News",
+    "url": "https://inventingthefuture.ghost.io/mr-tiff/",
+    "publishedAt": "2025-11-04T22:57:12.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Grayskull: A tiny computer vision library in C for embedded systems, etc.",
+    "source": "Hacker News",
+    "url": "https://github.com/zserge/grayskull",
+    "publishedAt": "2025-11-04T22:35:58.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "I took all my projects off the cloud, saving thousands of dollars",
+    "source": "Hacker News",
+    "url": "https://rameerez.com/send-this-article-to-your-friend-who-still-thinks-the-cloud-is-a-good-idea/",
+    "publishedAt": "2025-11-04T21:22:15.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Codemaps: Understand Code, Before You Vibe It",
+    "source": "Hacker News",
+    "url": "https://cognition.ai/blog/codemaps",
+    "publishedAt": "2025-11-04T17:47:09.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Launch HN: Plexe (YC X25) – Build production-grade ML models from prompts",
+    "source": "Hacker News",
+    "url": "https://www.plexe.ai/",
+    "publishedAt": "2025-11-04T17:07:47.000Z",
+    "summary": "Hey HN! We&#x27;re Vaibhav and Marcello, founders of Plexe (https:&#x2F;&#x2F;www.plexe.ai). We create production-ready ML models from natural languag..."
+  },
+  {
+    "title": "Pg_lake: Postgres with Iceberg and data lake access",
+    "source": "Hacker News",
+    "url": "https://github.com/Snowflake-Labs/pg_lake",
+    "publishedAt": "2025-11-04T16:12:27.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "This week in 1988, Robert Morris unleashed his eponymous worm",
+    "source": "Hacker News",
+    "url": "https://www.tomshardware.com/tech-industry/cyber-security/on-this-day-in-1988-the-morris-worm-slithered-out-and-sparked-a-new-era-in-cybersecurity-10-percent-of-the-internet-was-infected-within-24-hours",
+    "publishedAt": "2025-11-04T15:23:14.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Want more Switch 2 games? Nintendo just reconfirmed release dates for five big releases, with four more down the pipe - Eurogamer",
+    "source": "Eurogamer.net",
+    "url": "https://www.eurogamer.net/want-more-switch-2-games-nintendo-just-reconfirmed-release-dates-for-five-big-releases-with-four-more-down-the-pipe",
+    "publishedAt": "2025-11-04T10:11:29Z",
+    "summary": "You can see why Nintendo is keen to remind us that there is a good selection of titles in the pipeline.",
+    "imageUrl": "https://assetsio.gnwcdn.com/age-of-imprisonment.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+  },
+  {
+    "title": "Sony's Allowing Mortal Kombat Legacy Kollection Refunds Because the PS5, PS4 Compilation Is a 'Downright Nightmare' for Some - Push Square",
+    "source": "Push Square",
+    "url": "https://www.pushsquare.com/news/2025/11/sonys-allowing-mortal-kombat-legacy-kollection-refunds-because-the-ps5-ps4-compilation-is-a-downright-nightmare-for-some",
+    "publishedAt": "2025-11-04T07:30:00Z",
+    "summary": "\"This is completely unacceptable\"",
+    "imageUrl": "https://images.pushsquare.com/d371bca5e0993/large.jpg"
+  },
+  {
+    "title": "Apple releases iOS 26.1, macOS 26.1, other updates with Liquid Glass controls and more - Ars Technica",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/gadgets/2025/11/apple-releases-ios-26-1-macos-26-1-other-updates-with-liquid-glass-controls-and-more/",
+    "publishedAt": "2025-11-04T02:08:26Z",
+    "summary": "New updates include a small but noteworthy batch of fixes and features.",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/apple-os-beta-26-2025-1152x648-1750706565.jpeg"
+  },
+  {
+    "title": "Google pulled the plug on Nest Thermostats, but you can now bring them back to life - Android Police",
+    "source": "Android Police",
+    "url": "https://www.androidpolice.com/google-pulled-the-plug-on-nest-thermostats-but-this-project-revives-them/",
+    "publishedAt": "2025-11-03T22:07:00Z",
+    "summary": "A second chance",
+    "imageUrl": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2024/08/google-nest-thermostat-4th-gen-review-on-the-wall.JPG?w=1600&h=900&fit=crop"
+  },
+  {
+    "title": "Here Are Jokes The MLB Cut From A Fan Favorite PS2 Game - Kotaku",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/mlb-slugfest-2003-jokes-rejected-mlb-cut-ps2-xbox-tim-jimmy-2000640898",
+    "publishedAt": "2025-11-03T21:56:49Z",
+    "summary": "The Video Game History Foundation has archived some unused audio lines from the arcade baseball game",
+    "imageUrl": "https://kotaku.com/app/uploads/2025/11/slugfest-1200x675.jpg"
+  },
+  {
+    "title": "Resident Evil Pro Controller Is Available To Pre-Order, But Its Price Is Terrifying - Nintendo Life",
+    "source": "Nintendo Life",
+    "url": "https://www.nintendolife.com/news/2025/11/resident-evil-pro-controller-is-available-to-pre-order-but-its-price-is-terrifying",
+    "publishedAt": "2025-11-03T21:54:01Z",
+    "summary": "A few Bingo wins might be needed",
+    "imageUrl": "https://images.nintendolife.com/47cdbbd114c96/large.jpg"
+  },
+  {
+    "title": "How Am I Supposed To Review Europa Universalis V - aftermath.site",
+    "source": "Aftermath.site",
+    "url": "https://aftermath.site/europa-universalis-v-review-impressions-paradox-pc-eu5",
+    "publishedAt": "2025-11-03T21:30:00Z",
+    "summary": "There is simply too much video game here, and it's always in motion",
+    "imageUrl": "https://lede-admin.aftermath.site/wp-content/uploads/sites/55/2025/10/Screenshot-2025-11-01-102345.png"
+  },
+  {
+    "title": "Google Pixel 10 Phones Drop to Record Low Prices Ahead of Black Friday - IGN",
+    "source": "IGN",
+    "url": "https://www.ign.com/articles/google-pixel-10-pro-xl-early-black-friday-deal-2025",
+    "publishedAt": "2025-11-03T21:10:26Z",
+    "summary": "Amazon is slashing prices early.",
+    "imageUrl": "https://assets-prd.ignimgs.com/2025/09/04/blogroll-1757029764164.JPG?width=1280&format=jpg&auto=webp&quality=80"
+  },
+  {
+    "title": "One of Xbox's most legendary RPGs is getting a major update with a brand new way to play — and players can test the new mode out soon - Windows Central",
+    "source": "Windows Central",
+    "url": "https://www.windowscentral.com/gaming/xbox/pillars-of-eternity-turn-based-mode-november-2025",
+    "publishedAt": "2025-11-03T21:02:59Z",
+    "summary": "Obsidian is celebrating Pillars of Eternity’s 10th anniversary with a surprise turn‑based mode, launching in beta on Steam and Xbox PC this November.",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/CNGUPwysEhz6eX3BmrXoKb-2000-80.jpg"
+  },
+  {
+    "title": "AMD says that it’s not pulling driver support for older Radeon GPUs afterall - Ars Technica",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/gadgets/2025/11/amd-says-that-its-not-pulling-driver-support-for-older-radeon-gpus-afterall/",
+    "publishedAt": "2025-11-03T20:21:36Z",
+    "summary": "Re-using old silicon means that dropping “old” GPUs can affect “new” products.",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/lisa-su-6900xt-1152x648.jpg"
+  },
+  {
+    "title": "New World: Aeternum Gets New Server Merges & a Minor Season 10 Update - MMORPG.com",
+    "source": "MMORPG.com",
+    "url": "https://www.mmorpg.com/news/new-world-aeternum-gets-new-server-merges-and-a-minor-season-10-update-2000136496",
+    "publishedAt": "2025-11-03T20:00:00Z",
+    "summary": "After last week's announcement that New World: Aeternum would cease development with Season 10: Nighthaven, Amazon has a minor update and a new round of server merges.",
+    "imageUrl": "https://media.mmorpg.com/images/heroes/posts/136496.jpg"
+  },
+  {
+    "title": "The apology tour begins: ESPN analyst says Seahawks are his ‘biggest miss of the offseason’ - Field Gulls",
+    "source": "Field Gulls",
+    "url": "https://www.fieldgulls.com/seattle-seahawks-news/153920/the-apology-tour-begins-espn-analyst-says-seahawks-biggest-miss-offseason",
+    "publishedAt": "2025-11-03T19:37:55Z",
+    "summary": "Bookmark it. Savor it. The tour will elongate with each Seahawks win.",
+    "imageUrl": "https://platform.fieldgulls.com/wp-content/uploads/sites/81/2025/11/imagn-27490862.jpg?quality=90&strip=all&crop=0%2C10.749203630536%2C100%2C78.501592738927&w=1200"
+  },
+  {
+    "title": "Pixel 10 is a hit in the US with Google’s new ‘single-month sales record’ amid iPhone 17 - 9to5Google",
+    "source": "9to5google.com",
+    "url": "http://9to5google.com/2025/11/03/pixel-10-is-a-hit-in-the-us-with-googles-new-single-month-sales-record-amid-iphone-17/",
+    "publishedAt": "2025-11-03T19:30:00Z",
+    "summary": "Hot off the launch of the Pixel 10 series, Google is seeing some seriously impressive boosts, even in the face of a new iPhone launch.",
+    "imageUrl": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/10/Pixel-10-Indigo-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+  },
+  {
+    "title": "Some AI browsers can bypass publisher paywalls, report says - Mashable",
+    "source": "Mashable",
+    "url": "https://mashable.com/article/some-ai-browsers-can-bypass-paywalls",
+    "publishedAt": "2025-11-03T19:28:06Z",
+    "summary": "AI browsers reportedly have workarounds for some paywalled online content.",
+    "imageUrl": "https://helios-i.mashable.com/imagery/articles/0014koRIKb7bRFobP6KvuP5/hero-image.fill.size_1200x675.v1762191041.jpg"
+  },
+  {
+    "title": "Excessive stress alerts on your Galaxy Watch stressing you out? You're not alone - SamMobile",
+    "source": "SamMobile",
+    "url": "https://www.sammobile.com/news/samsung-galaxy-watch-one-ui-8-unusual-stress-alerts/",
+    "publishedAt": "2025-11-03T18:37:00Z",
+    "summary": "One UI 8 Watch is one of the biggest updates Samsung has released for its smartwatches, but it looks like a notable issue may have slipped through during development. As spotted by Android Authority, some Galaxy Watch owners using models such as the Galaxy Wa…",
+    "imageUrl": "https://www.sammobile.com/wp-content/uploads/2024/08/Galaxy-Watch-Ultra-BioActive-health-sensor-1.jpg"
+  },
+  {
+    "title": "Battlefield 6 Map Debate Reaches New Level as Players Meticulously Measure 70+ Maps from BF3, BF2042, and More - IGN",
+    "source": "IGN",
+    "url": "https://www.ign.com/articles/battlefield-6-map-debate-reaches-new-level-as-players-meticulously-measure-70-maps-from-bf3-bf2042-and-more",
+    "publishedAt": "2025-11-03T18:10:23Z",
+    "summary": "FPS fans have spent months obsessing about Battlefield 6 map sizes, so some players finally took the time to measure and compare nearly every map the series has seen in the last 15 years.",
+    "imageUrl": "https://assets-prd.ignimgs.com/2025/10/28/ss-47da1e8b9adb2a99824ef44dc5eade8c71c6007c-1920x1080-1761648759946.jpg?width=1280&format=jpg&auto=webp&quality=80"
+  },
+  {
+    "title": "The Sims 2 lead designer on the importance of the series' diversity: \"It’s a medium of self-expression\" - Rock Paper Shotgun",
+    "source": "Rock Paper Shotgun",
+    "url": "https://www.rockpapershotgun.com/the-sims-2-lead-designer-on-the-importance-of-the-series-diversity-its-a-medium-of-self-expression",
+    "publishedAt": "2025-11-03T18:06:39Z",
+    "summary": "The art director of the original Sims and lead designer of The Sims 2 has shared his thoughts on why the series' take on diversity is important.",
+    "imageUrl": "https://assetsio.gnwcdn.com/the-sims-2-rps-100.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+  },
+  {
+    "title": "Grand Theft Auto Won't Leave the US. The Game's Co-Founder Explains Why - Motor1.com",
+    "source": "Motor1 ",
+    "url": "https://www.motor1.com/news/777804/grand-theft-auto-love-america/",
+    "publishedAt": "2025-11-03T18:01:00Z",
+    "summary": "Grand Theft Auto co-founder reveals why the series will likely never leave the United States, and it has to do with America’s diverse culture.",
+    "imageUrl": "https://cdn.motor1.com/images/mgl/RqMjk9/s1/grand-theft-auto-vi.jpg"
+  },
+  {
+    "title": "A Wonderful Read From The Duke Chronicle - Duke Basketball Report",
+    "source": "Duke Basketball Report",
+    "url": "https://www.dukebasketballreport.com/main/82271/a-wonderful-read-from-the-duke-chronicle",
+    "publishedAt": "2025-11-03T17:30:36Z",
+    "summary": "This is highly impressive.",
+    "imageUrl": "https://platform.dukebasketballreport.com/wp-content/uploads/sites/77/2025/11/gettyimages-2238666005.jpg?quality=90&strip=all&crop=0%2C10.74229589284%2C100%2C78.515408214321&w=1200"
+  },
+  {
+    "title": "Elon Musk Wants to Block Out the Sun - Gizmodo",
+    "source": "Gizmodo.com",
+    "url": "https://gizmodo.com/elon-musk-wants-to-block-out-the-sun-2000680770",
+    "publishedAt": "2025-11-03T17:25:20Z",
+    "summary": "The CEO of the largest satellite company in the world just proposed a bold—and totally misguided—solution to the climate crisis.",
+    "imageUrl": "https://gizmodo.com/app/uploads/2025/11/Earth-and-Sun-1200x675.jpg"
+  },
+  {
+    "title": "Amazon Canada's early Black Friday deals are here: 50 best deals on Apple AirPods, TVs, Christmas decor, home essentials and more, starting at $8 - Yahoo Lifestyle Canada",
+    "source": "Yahoo Entertainment",
+    "url": "https://ca.style.yahoo.com/amazon-canadas-early-black-friday-deals-are-here-50-best-deals-on-apple-airpods-tvs-christmas-decor-home-essentials-and-more-starting-at-8-172305594.html",
+    "publishedAt": "2025-11-03T17:23:06Z",
+    "summary": "You can score up to 88% on thousands of items.",
+    "imageUrl": "https://s.yimg.com/ny/api/res/1.2/aTXeHg9uWR9y4z1jGH3PHA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-11/c77178e0-b8d6-11f0-9d43-9f6a4308eca7"
+  },
+  {
+    "title": "Concord's sudden shutdown is such a big deal, it’s been brought up during UK government debates on video game consumer laws - Eurogamer",
+    "source": "Eurogamer.net",
+    "url": "https://www.eurogamer.net/concords-sudden-shutdown-is-such-a-big-deal-its-been-brought-up-during-uk-government-debates-on-video-game-consumer-laws",
+    "publishedAt": "2025-11-03T17:12:02Z",
+    "summary": "Concord's sudden shutdown is such a big deal, it’s been brought up during UK government debates on video game consumer laws.",
+    "imageUrl": "https://assetsio.gnwcdn.com/Concord-25000-Copies-Sold-Sony-Estimated.jpg.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+  },
+  {
+    "title": "Mega Charizard X ex and More from the Pokémon TCG: Mega Evolution—Phantasmal Flames Expansion - Pokemon.com",
+    "source": "Pokemon.com",
+    "url": "https://www.pokemon.com/us/pokemon-news/mega-charizard-x-ex-and-more-from-the-pokemon-tcg-mega-evolution-phantasmal-flames-expansion",
+    "publishedAt": "2025-11-03T17:06:58Z",
+    "summary": "Five new cards are ready to sear the battlefield when the expansion releases November 14, 2025.",
+    "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/_tiles/me/me02/preview-cards/me02-preview-cards-2-169-en.png"
+  },
+  {
+    "title": "Hydreigon with the Mightiest Mark Is Coming to 7‑Star Tera Raid Battles - Pokemon.com",
+    "source": "Pokemon.com",
+    "url": "https://www.pokemon.com/us/pokemon-news/hydreigon-with-the-mightiest-mark-is-coming-to-7-star-tera-raid-battles",
+    "publishedAt": "2025-11-03T17:06:58Z",
+    "summary": "You’ll encounter Poison–Tera Type Hydreigon with the Mightiest Mark at Pokémon Scarlet and Pokémon Violet black Tera Raid crystals.",
+    "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/video-games/_tiles/pokemon-scarlet-violet/events/2025/11/03/scarlet-violet-169-en.png"
+  },
+  {
+    "title": "2026 Kawasaki Ninja ZX-10R and ZX-10RR First Look Gallery - Motorcycle.com",
+    "source": "Motorcycle.com",
+    "url": "https://www.motorcycle.com/bikes/new-model-preview/s-2026-kawasaki-ninja-zx-10r-and-zx-10rr-first-look-gallery-44654731",
+    "publishedAt": "2025-11-03T17:00:09Z",
+    "summary": "The Kawasaki Ninja ZX-10R and ZX-10RR return for 2026 with a redesigned fairing with an aerodynamic winglet, and a five-inch TFT display.",
+    "imageUrl": "https://cdn-fastly.motorcycle.com/media/2025/11/03/11481/social-44654731.jpg?size=1200x628"
+  },
+  {
+    "title": "Apex Legends Season 27 patch notes: Movement updates, Olympus rework, Legend buffs & nerfs - Dexerto",
+    "source": "Dexerto",
+    "url": "https://www.dexerto.com/apex-legends/apex-legends-season-27-patch-notes-movement-updates-olympus-rework-legend-buffs-nerfs-3277061/",
+    "publishedAt": "2025-11-03T16:38:33Z",
+    "summary": "Apex Legends Season 27, titled Amped, delivers one of the biggest movement-focused updates the game has seen in years.",
+    "imageUrl": "https://www.dexerto.com/cdn-image/wp-content/uploads/2025/10/30/apex-legends.jpg"
+  },
+  {
+    "title": "Forge+Bond Reincarnates as F+B Sports, a Pickleball Paddle Manufacturer - Pinkbike",
+    "source": "Pinkbike.com",
+    "url": "https://www.pinkbike.com/news/forgebond-reincarnates-as-fb-sports-a-pickleball-paddle-manufacturer.html",
+    "publishedAt": "2025-11-03T16:33:46Z",
+    "summary": "The MTB industry is in a bigger pickle than we thought",
+    "imageUrl": "https://ep1.pinkbike.org/p4pb28976769/p4pb28976769.jpg"
+  },
+  {
+    "title": "What to Expect from Xbox’s Black Friday 2025 Sale - IGN",
+    "source": "IGN",
+    "url": "https://www.ign.com/articles/black-friday-xbox-predictions-what-to-expect-2025",
+    "publishedAt": "2025-11-03T16:30:22Z",
+    "summary": "Xbox’s Black Friday 2025 sale could be tricky for bargain hunters. With prices rising all year, we break down where the real value might still be found once the sales properly kick off this month.",
+    "imageUrl": "https://assets-prd.ignimgs.com/2025/11/03/black-friday-xbox-what-to-expect-1762181717164.png?width=1280&format=jpg&auto=webp&quality=80"
+  },
+  {
+    "title": "30 Years, Part 1 - Magic: The Gathering",
+    "source": "Wizards.com",
+    "url": "https://magic.wizards.com/en/news/making-magic/30-years-part-1",
+    "publishedAt": "2025-11-03T16:11:30Z",
+    "summary": "Mark rings in his 30th year working on Magic: The Gathering by exploring notable elements of sets he's been a part of.",
+    "imageUrl": "https://images.ctfassets.net/s5n2t79q9icq/3xW2O1pL2ybksjRY9UjG5X/90042e16a657ec7dd976c16b5aaece23/ODY_Broodhatch_Nantuko_960x540.jpg"
+  },
+  {
+    "title": "Intervaltree with Rust Back End",
+    "source": "Hacker News",
+    "url": "https://github.com/Athe-kunal/intervaltree_rs",
+    "publishedAt": "2025-11-02T07:04:59.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "By the Power of Grayscale",
+    "source": "Hacker News",
+    "url": "https://zserge.com/posts/grayskull/",
+    "publishedAt": "2025-10-31T12:11:03.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "SPy: An interpreter and compiler for a fast statically typed variant of Python",
+    "source": "Hacker News",
+    "url": "https://antocuni.eu/2025/10/29/inside-spy-part-1-motivations-and-goals/",
+    "publishedAt": "2025-10-30T16:08:25.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Apple’s Persona technology uses Gaussian splatting to create 3D facial scans",
+    "source": "Hacker News",
+    "url": "https://www.cnet.com/tech/computing/apple-talks-to-me-about-vision-pro-personas-where-is-our-virtual-presence-headed/",
+    "publishedAt": "2025-10-30T15:53:21.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "RISC-V takes first step toward international ISO/IEC standardization",
+    "source": "Hacker News",
+    "url": "https://riscv.org/blog/risc-v-jtc1-pas-submitter/",
+    "publishedAt": "2025-10-30T13:30:37.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Vectorizing for Fun and Performance",
+    "source": "Hacker News",
+    "url": "https://www.ibm.com/support/pages/vectorizing-fun-and-performance",
+    "publishedAt": "2025-10-29T17:19:40.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Developers are choosing older AI models, and the data explains why",
+    "source": "Hacker News",
+    "url": "https://www.augmentcode.com/blog/developers-are-choosing-older-ai-models-and-16b-tokens-of-data-explain-why",
+    "publishedAt": "2025-10-29T17:08:28.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Whole Earth Index",
+    "source": "Hacker News",
+    "url": "https://wholeearth.info/",
+    "publishedAt": "2025-10-28T15:36:39.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Frozen String Literals: Past, Present, Future?",
+    "source": "Hacker News",
+    "url": "https://byroot.github.io/ruby/performance/2025/10/28/string-literals.html",
+    "publishedAt": "2025-10-28T15:08:31.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Asus Announces October Availability of ProArt Display 8K PA32KCX",
+    "source": "Hacker News",
+    "url": "https://press.asus.com/news/press-releases/asus-proart-display-8k-pa32kcx-availability/",
+    "publishedAt": "2025-10-28T14:17:04.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "FDD – Diskettes",
+    "source": "Hacker News",
+    "url": "https://retrocmp.de/fdd/diskette/diskette.htm",
+    "publishedAt": "2025-10-27T22:42:28.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Inside an Isotemp OCXO107-10 Oven Controlled Crystal Oscillator",
+    "source": "Hacker News",
+    "url": "https://tomverbeure.github.io/2025/10/26/Inside-an-Isotemp-OCXO107-10.html",
+    "publishedAt": "2025-10-27T21:35:46.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Singing bus horns in West Sumatra",
+    "source": "Hacker News",
+    "url": "https://www.auralarchipelago.com/auralarchipelago/kalason",
+    "publishedAt": "2025-10-24T07:54:17.000Z",
+    "summary": "No description available"
+  }
+]

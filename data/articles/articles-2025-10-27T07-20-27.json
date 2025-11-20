@@ -1,0 +1,436 @@
+[
+  {
+    "title": "Diphtheria, a once vanquished killer of children, is resurgent",
+    "source": "Hacker News",
+    "url": "https://www.nytimes.com/2025/10/27/health/diptheria-somalia-vaccines.html",
+    "publishedAt": "2025-10-27T05:01:37.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "How I turned Zig into my favorite language to write network programs in",
+    "source": "Hacker News",
+    "url": "https://lalinsky.com/2025/10/26/zio-async-io-for-zig.html",
+    "publishedAt": "2025-10-27T00:01:17.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Are-we-fast-yet implementations in Oberon, C++, C, Pascal, Micron and Luon",
+    "source": "Hacker News",
+    "url": "https://github.com/rochus-keller/Are-we-fast-yet",
+    "publishedAt": "2025-10-26T23:08:09.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Microsoft 365 Copilot – Arbitrary Data Exfiltration via Mermaid Diagrams",
+    "source": "Hacker News",
+    "url": "https://www.adamlogue.com/microsoft-365-copilot-arbitrary-data-exfiltration-via-mermaid-diagrams-fixed/",
+    "publishedAt": "2025-10-26T22:58:31.000Z",
+    "summary": "https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20251023095538&#x2F;https:&#x2F;&#x2F;www.adaml......"
+  },
+  {
+    "title": "Show HN: Helium Browser for Android with extensions support, based on Vanadium",
+    "source": "Hacker News",
+    "url": "https://github.com/jqssun/android-helium-browser",
+    "publishedAt": "2025-10-26T22:41:02.000Z",
+    "summary": "Been working on an experimental Chromium-based browser that brings 2 major features to your phone&#x2F;tablet:1. desktop-style extensions: natively in..."
+  },
+  {
+    "title": "Poison, Poison Everywhere",
+    "source": "Hacker News",
+    "url": "https://loeber.substack.com/p/29-poison-poison-everywhere",
+    "publishedAt": "2025-10-26T22:36:34.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "We Saved $500k per Year by Rolling Our Own \"S3\"",
+    "source": "Hacker News",
+    "url": "https://engineering.nanit.com/how-we-saved-500-000-per-year-by-rolling-our-own-s3-6caec1ee1143",
+    "publishedAt": "2025-10-26T21:05:09.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Show HN: MyraOS – My 32-bit operating system in C and ASM (Hack Club project)",
+    "source": "Hacker News",
+    "url": "https://github.com/dvir-biton/MyraOS",
+    "publishedAt": "2025-10-26T20:43:40.000Z",
+    "summary": "Hi HN, I’m Dvir, a young developer. Last year, I got rejected after a job interview because I lacked some CPU knowledge. After that, I decided to deep..."
+  },
+  {
+    "title": "A definition of AGI",
+    "source": "Hacker News",
+    "url": "https://arxiv.org/abs/2510.18212",
+    "publishedAt": "2025-10-26T18:09:37.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Alzheimer's disrupts circadian rhythms of plaque-clearing brain cells",
+    "source": "Hacker News",
+    "url": "https://medicine.washu.edu/news/alzheimers-disrupts-circadian-rhythms-of-plaque-clearing-brain-cells/",
+    "publishedAt": "2025-10-26T17:40:06.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Books by People – Defending Organic Literature in an AI World",
+    "source": "Hacker News",
+    "url": "https://booksbypeople.org/",
+    "publishedAt": "2025-10-26T16:57:44.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Ken Thompson recalls Unix's rowdy, lock-picking origins",
+    "source": "Hacker News",
+    "url": "https://thenewstack.io/ken-thompson-recalls-unixs-rowdy-lock-picking-origins/",
+    "publishedAt": "2025-10-26T16:57:12.000Z",
+    "summary": "https:&#x2F;&#x2F;computerhistory.org&#x2F;blog&#x2F;a-computing-legend-speaks&#x2F;The full 4-1&#x2F;2 hours: https:&#x2F;&#x2F;www.youtube.com&#x2F;..."
+  },
+  {
+    "title": "Making the Electron Microscope",
+    "source": "Hacker News",
+    "url": "https://www.asimov.press/p/electron-microscope",
+    "publishedAt": "2025-10-26T16:46:22.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Feed the bots",
+    "source": "Hacker News",
+    "url": "https://maurycyz.com/misc/the_cost_of_trash/",
+    "publishedAt": "2025-10-26T12:09:02.000Z",
+    "summary": "https:&#x2F;&#x2F;maurycyz.com&#x2F;projects&#x2F;trap_bots&#x2F;..."
+  },
+  {
+    "title": "You already have a Git server",
+    "source": "Hacker News",
+    "url": "https://maurycyz.com/misc/easy_git/",
+    "publishedAt": "2025-10-26T10:53:37.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Asbestosis",
+    "source": "Hacker News",
+    "url": "https://diamondgeezer.blogspot.com/2025/10/asbestosis.html",
+    "publishedAt": "2025-10-26T08:34:38.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Pico-Banana-400k",
+    "source": "Hacker News",
+    "url": "https://github.com/apple/pico-banana-400k",
+    "publishedAt": "2025-10-26T02:01:17.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "I tried ChatGPT's Atlas browser to rival Google - here's what I found - BBC",
+    "source": "BBC News",
+    "url": "https://www.bbc.com/news/articles/c20pdy1exxvo",
+    "publishedAt": "2025-10-25T23:24:03Z",
+    "summary": "OpenAI hopes to upend the browser market currently dominated by Google Chrome, but it depends on paid users.",
+    "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/a33c/live/c9e36ee0-b0b5-11f0-aba1-bffe4144781c.jpg"
+  },
+  {
+    "title": "Halo Esports 2026 Update | Halo - Official Site (en) - Halo Waypoint",
+    "source": "Halowaypoint.com",
+    "url": "https://www.halowaypoint.com/news/halo-esports-2026-update",
+    "publishedAt": "2025-10-25T23:17:00Z",
+    "summary": "<p>Earlier in the summer we announced that Year 4 would be the final year for Official HCS competition on Halo Infinite, and today at HaloWC we announced some more information about what competitors can expect in 2026. Competitive Halo is important to you, th…",
+    "imageUrl": "https://wpassets.halowaypoint.com/wp-content/2024/01/HCS-Hall-Of-Champions.png"
+  },
+  {
+    "title": "M5 MacBook Pro SSD Read & Write Speeds Run Circles Around The M4 MacBook Pro, New Comparison Shows An Impressive 211% Faster Performance - Wccftech",
+    "source": "Wccftech",
+    "url": "https://wccftech.com/m5-macbook-pro-vs-m4-macbook-pro-ssd-read-and-write-speed-test-comparison/",
+    "publishedAt": "2025-10-25T20:40:00Z",
+    "summary": "Running Blackmagic speed test, the M5 MacBook Pro is shown to be equipped with faster NAND flash, gaining up to 211 percent faster performance than M4 model",
+    "imageUrl": "https://cdn.wccftech.com/wp-content/uploads/2025/10/M5-MacBook-Pro-5-1.jpg"
+  },
+  {
+    "title": "OpenAI reportedly developing new generative music tool - TechCrunch",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2025/10/25/openai-reportedly-developing-new-generative-music-tool/",
+    "publishedAt": "2025-10-25T19:48:54Z",
+    "summary": "Such a tool could be used to add music to existing videos, or to add guitar accompaniment to an existing vocal track, sources said.",
+    "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2021258442.jpg?resize=1200,800"
+  },
+  {
+    "title": "These are the best laptops to buy in Fall 2025 - 41 notebooks in a tough clash - Notebookcheck",
+    "source": "Notebookcheck.net",
+    "url": "https://www.notebookcheck.net/These-are-the-best-laptops-to-buy-in-Fall-2025-41-notebooks-in-a-tough-clash.1142072.0.html",
+    "publishedAt": "2025-10-25T19:36:00Z",
+    "summary": "Night and day, Notebookcheck tests the latest laptops of all stripes and colors. Allow us to present an overview of our test results from the last few months, revealing the best laptops in their respective classes. Spoiler alert: No, this time the best multim…",
+    "imageUrl": "https://www.notebookcheck.net/fileadmin/Notebooks/Awards/bestoflaptops46.jpg"
+  },
+  {
+    "title": "Game thread: NC State vs. Pitt - Backing The Pack",
+    "source": "Backing The Pack",
+    "url": "https://www.backingthepack.com/nc-state-football/34496/game-thread-nc-state-vs-pitt",
+    "publishedAt": "2025-10-25T19:05:00Z",
+    "summary": "No description available",
+    "imageUrl": "https://platform.backingthepack.com/wp-content/uploads/sites/17/2025/10/gettyimages-861344548.jpg?quality=90&strip=all&crop=0%2C2.7745345037685%2C100%2C78.299134011578&w=1200"
+  },
+  {
+    "title": "Battlefield 6's battle royale \"Battlefield: RedSec\" could shadowdrop as soon as next week, dataminers claim - Eurogamer",
+    "source": "Eurogamer.net",
+    "url": "https://www.eurogamer.net/battlefield-6s-battle-royale-battlefield-redsec-could-shadowdrop-as-soon-as-next-week-dataminers-claim",
+    "publishedAt": "2025-10-25T16:42:09Z",
+    "summary": "Battlefield 6's battle royale mode could release as soon as next week.",
+    "imageUrl": "https://assetsio.gnwcdn.com/battlefield-6-best-guns-hero.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+  },
+  {
+    "title": "Long-time Microsoft-exclusive Halo is coming to PS5 for the very first time: \"This is Halo for everyone\" - Eurogamer",
+    "source": "Eurogamer.net",
+    "url": "https://www.eurogamer.net/xbox-mascot-and-long-time-microsoft-exclusive-halo-is-coming-to-ps5-for-the-very-first-time-this-is-halo-for-everyone",
+    "publishedAt": "2025-10-25T15:43:56Z",
+    "summary": "The Halo series is coming to PlayStation 5.",
+    "imageUrl": "https://assetsio.gnwcdn.com/HaloCE_Wallpaper_Desktop-4K_3840x2160_RGB-d4e38f6e57db5ab9a7e2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+  },
+  {
+    "title": "AirTags and cheap gaming laptops headline our favorite deals this week - The Verge",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/806174/apple-airtag-hulu-with-live-tv-deal-sale",
+    "publishedAt": "2025-10-25T15:09:15Z",
+    "summary": "You can buy a four-pack of AirTags for $65 right now. There are also deals available on Lenovo’s Legion 5 gaming laptop, Hulu with Live TV, and JBL’s Charge 6.",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/AirTags-Lifestyle-Deal.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
+    "title": "Samsung Galaxy Tab S11 Review: The High-End Android Tablet to Beat - CNET",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/computing/samsung-galaxy-tab-s11-review-expensive-but-the-ideal-android-tablet-for-me/",
+    "publishedAt": "2025-10-25T14:00:10Z",
+    "summary": "Samsung's line includes the 14.6-inch Tab S11 Ultra, but I like the 11-inch option better. Its svelte design and great screen make it the ideal Android tablet for me.",
+    "imageUrl": "https://www.cnet.com/a/img/resize/d0bfda491758a20d1af36fc226d9912e609ba094/hub/2025/10/22/027d5bb5-8e94-47c9-81af-2ff817d6a055/samsung-galaxy-tab-s11-in-hand-1.jpg?auto=webp&fit=crop&height=675&width=1200"
+  },
+  {
+    "title": "\"You got my money this time, but it's the last time\" | DICE isn't reverting its Portal XP nerf, claims it's working on challenge difficulty - Windows Central",
+    "source": "Windows Central",
+    "url": "https://www.windowscentral.com/gaming/battlefield-6-dice-portal-changes-update",
+    "publishedAt": "2025-10-25T13:30:00Z",
+    "summary": "Sorry, PvE enjoyers — it looks like your fun has been put on notice.",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/oSZ2QrwMwXWebyYzUgr2u6-1920-80.jpg"
+  },
+  {
+    "title": "Mushrooms show promise as memory chips for future computers - Phys.org",
+    "source": "Phys.Org",
+    "url": "https://phys.org/news/2025-10-mushrooms-memory-chips-future.html",
+    "publishedAt": "2025-10-25T13:20:43Z",
+    "summary": "Fungal networks may be a promising alternative to tiny metal devices used in processing and storing digital memories and other computer data, according to a new study.",
+    "imageUrl": "https://scx2.b-cdn.net/gfx/news/hires/2025/mushrooms-show-promise-1.jpg"
+  },
+  {
+    "title": "Scientists Invented an Entirely New Way to Refrigerate - ScienceAlert",
+    "source": "ScienceAlert",
+    "url": "https://www.sciencealert.com/scientists-invented-an-entirely-new-way-to-refrigerate",
+    "publishedAt": "2025-10-25T12:17:41Z",
+    "summary": "Say hello to ionocaloric cooling.",
+    "imageUrl": "https://www.sciencealert.com/images/2025/10/new_type_refrigeration_header.jpg"
+  },
+  {
+    "title": "The glaring security risks with AI browser agents - TechCrunch",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2025/10/25/the-glaring-security-risks-with-ai-browser-agents/",
+    "publishedAt": "2025-10-25T12:00:00Z",
+    "summary": "New AI browsers from OpenAI and Perplexity promise to increase user productivity, but they also come with increased security risks.",
+    "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-1290478576.jpg?resize=1200,846"
+  },
+  {
+    "title": "Samsung and Google Told Me What Upcoming Smart Glasses Could Bring - CNET",
+    "source": "CNET",
+    "url": "https://www.cnet.com/tech/computing/samsung-and-google-told-me-what-upcoming-smart-glasses-could-bring/",
+    "publishedAt": "2025-10-25T12:00:00Z",
+    "summary": "Mixed reality headsets, smart glasses and live AI. Google's head of Android and Samsung's COO for mobile experiences revealed what's coming next.",
+    "imageUrl": "https://www.cnet.com/a/img/resize/50c5922a9d5e21a70ffdf86077399b10af61bbba/hub/2025/10/24/6fdf98b9-58e5-42b5-bced-6ddd20d7b25a/scott-samsung-xr-headset.jpg?auto=webp&fit=crop&height=675&width=1200"
+  },
+  {
+    "title": "Act Now — Microsoft Issues Emergency Windows Update As Attacks Begin - Forbes",
+    "source": "Forbes",
+    "url": "https://www.forbes.com/sites/daveywinder/2025/10/25/act-now---microsoft-issues-emergency-windows-update-as-attacks-begin/",
+    "publishedAt": "2025-10-25T08:43:46Z",
+    "summary": "You have been warned. The latest Windows attacks have already started, and Microsoft has issued an emergency update. Here’s what you need to know.",
+    "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/68fc877d881b796e82ab5188/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+  },
+  {
+    "title": "Sakurai Confirms Day One Update For Kirby Air Riders On Switch 2 - Nintendo Life",
+    "source": "Nintendo Life",
+    "url": "https://www.nintendolife.com/news/2025/10/sakurai-confirms-day-one-update-for-kirby-air-riders-on-switch-2",
+    "publishedAt": "2025-10-25T07:00:00Z",
+    "summary": "Launching this November",
+    "imageUrl": "https://images.nintendolife.com/1468b58183fc9/large.jpg"
+  },
+  {
+    "title": "Microsoft Gaming Head Confirms First-Party Xbox Design for Next-Gen Console Launch - TechPowerUp",
+    "source": "Techpowerup.com",
+    "url": "https://www.techpowerup.com/342233/microsoft-gaming-head-confirms-first-party-xbox-design-for-next-gen-console-launch",
+    "publishedAt": "2025-10-25T00:31:45Z",
+    "summary": "Recently, after ASUS launched the ROG Xbox Ally series and rumors popped up about Xbox potentially abandoning its long line of first-party console designs, Xbox president, Sarah Bond clarified that Microsoft is \"100% looking at making things in the future,\" a…",
+    "imageUrl": "https://www.techpowerup.com/img/RVfbrutS1wMnrVrY.jpg"
+  },
+  {
+    "title": "iOS 26.1 Beta Liquid Glass Battery Drain Test: Tinted vs Clear Mode - MacRumors",
+    "source": "MacRumors",
+    "url": "https://www.macrumors.com/2025/10/24/ios-26-1-liquid-glass-battery-test/",
+    "publishedAt": "2025-10-24T21:30:33Z",
+    "summary": "In the fourth iOS 26.1 beta, Apple added a \"Tinted\" option that reduces the translucency of Liquid Glass for those who prefer a more opaque...",
+    "imageUrl": "https://images.macrumors.com/t/qVCjBM-27aNBlCHzdqUNSfBV7js=/2500x/article-new/2025/08/iOS-26-Battery-Glass-Feature.jpg"
+  },
+  {
+    "title": "Man takes herbal pain quackery, nearly dies, spends months in hospital - Ars Technica",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/health/2025/10/man-takes-herbal-pain-quackery-nearly-dies-spends-months-in-hospital/",
+    "publishedAt": "2025-10-24T21:29:30Z",
+    "summary": "The 61-year-old had wounds all over, a bacterial infection, and needed intensive care.",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2019/11/GettyImages-462760366-1152x648.jpg"
+  },
+  {
+    "title": "Wordle has achievements now - The Verge",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/news/806578/nyt-games-badges-achievements-wordle-spelling-bee-connections",
+    "publishedAt": "2025-10-24T21:28:43Z",
+    "summary": "Spelling Bee and Connections have them, too.",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Screenshot-2025-10-24-at-2.26.00%E2%80%AFPM.png?quality=90&strip=all&crop=0%2C6.5252100560815%2C100%2C86.949579887837&w=1200"
+  },
+  {
+    "title": "Google claims its latest quantum algorithm can outperform supercomputers on a real-world task - Phys.org",
+    "source": "Phys.Org",
+    "url": "https://phys.org/news/2025-10-google-latest-quantum-algorithm-outperform.html",
+    "publishedAt": "2025-10-24T19:10:01Z",
+    "summary": "Researchers from Google Quantum AI report that their quantum processor, Willow, ran an algorithm for a quantum computer that solved a complex physics problem thousands of times faster than the world's most powerful classical supercomputers. If verified, this …",
+    "imageUrl": "https://scx2.b-cdn.net/gfx/news/2025/google-claims-its-late.jpg"
+  },
+  {
+    "title": "Microsoft’s Mico heightens the risks of parasocial LLM relationships - Ars Technica",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/ai/2025/10/microsofts-mico-heightens-the-risks-of-parasocial-llm-relationships/",
+    "publishedAt": "2025-10-24T17:07:57Z",
+    "summary": "“It looks like you’re trying to find a friend. Would you like help?”…",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/micoheart-1152x648-1761323845.png"
+  },
+  {
+    "title": "Tech Bro Uses AI To Create The Worst FPS Ever - Kotaku",
+    "source": "Kotaku",
+    "url": "https://kotaku.com/gen-ai-fps-tom-clancy-shooter-hyperwrite-2000638861",
+    "publishedAt": "2025-10-24T17:03:59Z",
+    "summary": "This is some of the worst Tom Clancy shovelware I've ever seen",
+    "imageUrl": "https://kotaku.com/app/uploads/2025/10/slopo.jpg"
+  },
+  {
+    "title": "Nike is trying to sell you ‘mind-body’ shoes - The Verge",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/news/806259/nike-mind-neuroscience-footwear-foam-nodes",
+    "publishedAt": "2025-10-24T16:29:35Z",
+    "summary": "Nike’s new Mind 001 and Mind 002 shoes sport nodes in the soles that it says help athletes tap into their mind-body connection.",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/nike-mind-1.jpg?quality=90&strip=all&crop=0%2C9.5315780155298%2C100%2C80.93684396894&w=1200"
+  },
+  {
+    "title": "After Microsoft invested $13 billion into OpenAI, its AI chief is slamming erotica chatbots: ‘This is very dangerous’ - Fortune",
+    "source": "Fortune",
+    "url": "https://fortune.com/2025/10/24/microsoft-no-erotica-chatbots-openai-chatgpt-xai-grok/",
+    "publishedAt": "2025-10-24T16:13:00Z",
+    "summary": "OpenAI CEO Sam Altman defended a newly announced erotica feature for ChatGPT, saying his company is “not the elected moral police of the world.”",
+    "imageUrl": "https://fortune.com/img-assets/wp-content/uploads/2025/10/GettyImages-2207866106-e1761321048264.jpg?resize=1200,600"
+  },
+  {
+    "title": "Microsoft Outlook is getting an AI overhaul under new leaders - The Verge",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/806162/microsoft-outlook-ai-overhaul-notepad",
+    "publishedAt": "2025-10-24T16:00:00Z",
+    "summary": "Microsoft is getting ready to overhaul Outlook again. Microsoft’s mail app is being rebuilt with a focus on AI.",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/247141_NOTEPAD_X_BOX_CVIRGINIA-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
+    "title": "Digital Foundry Delivers Its Verdict On The Outer Worlds 2, With Xbox The Clear Console Winner - Pure Xbox",
+    "source": "Pure Xbox",
+    "url": "https://www.purexbox.com/news/2025/10/digital-foundry-delivers-its-verdict-on-the-outer-worlds-2-with-xbox-the-clear-console-winner",
+    "publishedAt": "2025-10-24T15:31:37Z",
+    "summary": "\"Impressive on Xbox, PS5 needs work\"",
+    "imageUrl": "https://images.purexbox.com/8de871415fe80/large.jpg"
+  },
+  {
+    "title": "Tamper-Sensing Meshes Using Low-Cost, Embedded Time-Domain Reflectometry",
+    "source": "Hacker News",
+    "url": "https://jaseg.de/blog/paper-sampling-mesh-monitor/",
+    "publishedAt": "2025-10-23T17:21:41.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "A bug that taught me more about PyTorch than years of using it",
+    "source": "Hacker News",
+    "url": "https://elanapearl.github.io/blog/2025/the-bug-that-taught-me-pytorch/",
+    "publishedAt": "2025-10-23T17:06:35.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Sphere Computer – The Innovative 1970s Computer Company Everyone Forgot",
+    "source": "Hacker News",
+    "url": "https://sphere.computer/",
+    "publishedAt": "2025-10-23T16:09:27.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "An overengineered solution to `sort | uniq -c` with 25x throughput (hist)",
+    "source": "Hacker News",
+    "url": "https://github.com/noamteyssier/hist-rs",
+    "publishedAt": "2025-10-22T22:26:45.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Sandhill cranes have adopted a Canada gosling",
+    "source": "Hacker News",
+    "url": "https://www.smithsonianmag.com/science-nature/these-sandhill-cranes-have-adopted-a-canadian-gosling-and-birders-have-flocked-to-watch-the-strange-family-180986828/",
+    "publishedAt": "2025-10-22T17:45:21.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Wren: A classy little scripting language",
+    "source": "Hacker News",
+    "url": "https://wren.io/",
+    "publishedAt": "2025-10-22T16:21:25.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Termite farmers fine-tune their weed control",
+    "source": "Hacker News",
+    "url": "https://arstechnica.com/science/2025/10/termite-farmers-fine-tune-their-weed-control/",
+    "publishedAt": "2025-10-21T13:57:28.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "NORAD’s Cheyenne Mountain Combat Center, c.1966",
+    "source": "Hacker News",
+    "url": "https://flashbak.com/norad-cheyenne-mountain-combat-center-478804/",
+    "publishedAt": "2025-10-21T03:39:21.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Eavesdropping on Internal Networks via Unencrypted Satellites",
+    "source": "Hacker News",
+    "url": "https://satcom.sysnet.ucsd.edu/",
+    "publishedAt": "2025-10-20T22:21:59.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "A Looking Glass Half Empty, Part 2: A Series of Unfortunate Events",
+    "source": "Hacker News",
+    "url": "https://www.filfre.net/2025/10/a-looking-glass-half-empty-part-2-a-series-of-unfortunate-events/",
+    "publishedAt": "2025-10-20T21:57:32.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Researchers demonstrate centimetre-level positioning using smartwatches",
+    "source": "Hacker News",
+    "url": "https://www.otago.ac.nz/news/newsroom/researchers-demonstrate-centimetre-level-positioning-using-smartwatches",
+    "publishedAt": "2025-10-20T01:27:29.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Searching for Charles Fourier in the ruins of a socialist utopia outside LA",
+    "source": "Hacker News",
+    "url": "https://kubicki.org/letters/the-dogs-of-llano-del-rio-i/",
+    "publishedAt": "2025-10-19T17:30:46.000Z",
+    "summary": "No description available"
+  },
+  {
+    "title": "Downloadable movie posters from the 40s, 50s, 60s, and 70s",
+    "source": "Hacker News",
+    "url": "https://hrc.contentdm.oclc.org/digital/collection/p15878coll84/search",
+    "publishedAt": "2025-10-18T21:48:37.000Z",
+    "summary": "No description available"
+  }
+]
