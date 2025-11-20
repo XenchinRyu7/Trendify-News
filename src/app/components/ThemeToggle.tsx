@@ -24,7 +24,7 @@ export default function ThemeToggle() {
       whileHover={{ scale: 1.05 }}
       whileTap={{ scale: 0.95 }}
       onClick={toggleTheme}
-      className="fixed top-4 right-4 sm:top-6 sm:right-6 z-50 p-3 sm:p-4 rounded-full bg-white/5 backdrop-blur-xl border border-white/10 hover:bg-white/10 hover:border-purple-500/30 transition-all shadow-lg"
+      className="fixed top-6 right-6 sm:top-8 sm:right-8 z-50 p-3 sm:p-4 rounded-full bg-white/5 backdrop-blur-xl border border-black/10 dark:border-white/10 hover:bg-white/10 hover:border-sky-500/30 transition-all shadow-lg"
       aria-label="Toggle theme"
     >
       {isDark ? (
@@ -43,7 +43,7 @@ export default function ThemeToggle() {
         </svg>
       ) : (
         <svg
-          className="w-6 h-6 text-indigo-300"
+          className="w-6 h-6 text-sky-300"
           fill="none"
           stroke="currentColor"
           viewBox="0 0 24 24"

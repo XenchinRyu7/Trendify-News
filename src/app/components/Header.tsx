@@ -24,28 +24,28 @@ export default function Header({ onSearch, lastUpdated }: HeaderProps) {
       className="mb-12 sm:mb-16 w-full"
     >
       <div className="text-center mb-10">
-        <motion.h1 
+        <motion.h1
           initial={{ scale: 0.9 }}
           animate={{ scale: 1 }}
           transition={{ duration: 0.5 }}
-          className="text-5xl sm:text-6xl lg:text-7xl font-extrabold text-white mb-4"
+          className="text-5xl sm:text-6xl lg:text-7xl font-extrabold dark:text-white mb-4"
         >
-          <span className="bg-gradient-to-r from-purple-400 via-fuchsia-400 to-purple-400 bg-clip-text text-transparent drop-shadow-lg">
+          <span className="bg-gradient-to-r from-sky-400 via-indigo-400 to-sky-400 bg-clip-text text-transparent drop-shadow-lg">
             Trendify
           </span>
         </motion.h1>
-        <p className="text-gray-300 text-base sm:text-lg mb-3">
+        <p className="dark:text-gray-300 text-base sm:text-lg mb-3">
           Your Daily Dose of Tech News
         </p>
         {lastUpdated && (
-          <p className="text-gray-500 text-xs sm:text-sm">
+          <p className="dark:text-gray-300 text-xs sm:text-sm">
             Last updated: {new Date(lastUpdated).toLocaleString()}
           </p>
         )}
       </div>
 
       <div className="w-full flex justify-center">
-        <motion.div 
+        <motion.div
           initial={{ opacity: 0, y: 10 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ delay: 0.2 }}
@@ -56,10 +56,10 @@ export default function Header({ onSearch, lastUpdated }: HeaderProps) {
             placeholder="Search by title, source, or keywords..."
             value={searchQuery}
             onChange={handleSearch}
-            className="w-full px-6 py-4 sm:py-5 rounded-2xl bg-white/5 backdrop-blur-xl border border-white/10 text-white placeholder-gray-500 focus:outline-none focus:ring-2 focus:ring-purple-500/50 focus:border-purple-500/50 focus:bg-white/10 transition-all duration-300 text-sm sm:text-base"
+            className="w-full px-6 py-4 sm:py-5 rounded-2xl bg-white/5 backdrop-blur-xl border border-black/10 dark:border-white/10 dark:text-white placeholder-slate-500 dark:placeholder-gray-500 focus:outline-none focus:ring-2 focus:ring-sky-500/50 focus:border-sky-500/50 focus:bg-white/10 transition-all duration-300 text-sm sm:text-base"
           />
           <svg
-            className="absolute right-5 top-1/2 transform -translate-y-1/2 w-5 h-5 text-gray-400 group-focus-within:text-purple-400 transition-colors"
+            className="absolute right-5 top-1/2 transform -translate-y-1/2 w-5 h-5 group-focus-within:text-sky-400 transition-colors"
             fill="none"
             stroke="currentColor"
             viewBox="0 0 24 24"

@@ -2,8 +2,8 @@ name: Fetch Latest News
 
 on:
   schedule:
-    # Berjalan setiap jam, akan di-filter berdasarkan logika dinamis untuk variasi commit
-    - cron: '0 * * * *'
+    # Berjalan 1 kali per hari pada jam 09:00 UTC (16:00 WIB)
+    - cron: '0 9 * * *'
   workflow_dispatch:
 
 permissions:
@@ -17,66 +17,21 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         
-      - name: Check if should run
-        id: should_run
-        run: |
-          # Mendapatkan hari dalam minggu (1-7) dan jam saat ini
-          DOW=$(date +%u)  # 1=Senin, 7=Minggu
-          HOUR=$(date +%H)
-          DAY=$(date +%d)
-          
-          # Menghitung kombinasi untuk variasi (berputar berdasarkan hari + tanggal)
-          COMBO=$(( (DOW + DAY) % 5 + 1 ))  # Hasil: 1-5
-          
-          # Pola dinamis commit per hari berdasarkan COMBO:
-          # COMBO=1 -> 1 commit/hari (jam 09)
-          # COMBO=2 -> 2 commit/hari (jam 09, 17)
-          # COMBO=3 -> 3 commit/hari (jam 08, 13, 20)
-          # COMBO=4 -> 4 commit/hari (jam 07, 11, 15, 21)
-          # COMBO=5 -> 5 commit/hari (jam 06, 10, 14, 18, 22)
-          
-          SHOULD_RUN=false
-          
-          case $COMBO in
-            1)  # 1x sehari
-              [[ $HOUR -eq 9 ]] && SHOULD_RUN=true
-              ;;
-            2)  # 2x sehari
-              [[ $HOUR -eq 9 || $HOUR -eq 17 ]] && SHOULD_RUN=true
-              ;;
-            3)  # 3x sehari
-              [[ $HOUR -eq 8 || $HOUR -eq 13 || $HOUR -eq 20 ]] && SHOULD_RUN=true
-              ;;
-            4)  # 4x sehari
-              [[ $HOUR -eq 7 || $HOUR -eq 11 || $HOUR -eq 15 || $HOUR -eq 21 ]] && SHOULD_RUN=true
-              ;;
-            5)  # 5x sehari
-              [[ $HOUR -eq 6 || $HOUR -eq 10 || $HOUR -eq 14 || $HOUR -eq 18 || $HOUR -eq 22 ]] && SHOULD_RUN=true
-              ;;
-          esac
-          
-          echo "Day of week: $DOW, Hour: $HOUR, Combo: $COMBO, Should run: $SHOULD_RUN"
-          echo "should_run=$SHOULD_RUN" >> $GITHUB_OUTPUT
-        
       - name: Setup Node.js
-        if: steps.should_run.outputs.should_run == 'true'
         uses: actions/setup-node@v4
         with:
           node-version: '20'
           cache: 'npm'
           
       - name: Install dependencies
-        if: steps.should_run.outputs.should_run == 'true'
         run: npm ci
         
       - name: Fetch news articles
-        if: steps.should_run.outputs.should_run == 'true'
         run: npm run fetch-news
         env:
           NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
           
       - name: Commit and push changes
-        if: steps.should_run.outputs.should_run == 'true'
         run: |
           git config --local user.email "${{ github.actor }}@users.noreply.github.com"
           git config --local user.name "${{ github.actor }}"
