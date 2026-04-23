@@ -3,26 +3,22 @@ import fs from 'fs/promises';
 import path from 'path';
 
 const ARTICLES_DIR = path.join(process.cwd(), 'data', 'articles');
-const MAX_FILE_AGE_DAYS = 7; // Hapus file yang lebih dari 7 hari
+const MAX_ARTICLE_FILES = 30; // Hapus file terlama ketika jumlah melebihi batas ini
 
 /**
- * Hapus file artikel yang lebih tua dari MAX_FILE_AGE_DAYS
+ * Hapus file artikel terlama ketika jumlah file melebihi MAX_ARTICLE_FILES
  */
 async function cleanupOldArticles(): Promise<void> {
   try {
     const files = await fs.readdir(ARTICLES_DIR);
-    const now = Date.now();
-    const maxAge = MAX_FILE_AGE_DAYS * 24 * 60 * 60 * 1000; // Convert ke milliseconds
+    const articleFiles = files
+      .filter((file) => file.endsWith('.json') && file !== 'latest.json' && file !== '.gitkeep')
+      .sort(); // urutan abjad = urutan kronologis karena nama file pakai timestamp
 
-    for (const file of files) {
-      // Skip latest.json dan .gitkeep
-      if (file === 'latest.json' || file === '.gitkeep') continue;
-      
-      const filepath = path.join(ARTICLES_DIR, file);
-      const stats = await fs.stat(filepath);
-      const fileAge = now - stats.mtimeMs;
-
-      if (fileAge > maxAge) {
+    if (articleFiles.length > MAX_ARTICLE_FILES) {
+      const filesToDelete = articleFiles.slice(0, articleFiles.length - MAX_ARTICLE_FILES);
+      for (const file of filesToDelete) {
+        const filepath = path.join(ARTICLES_DIR, file);
         await fs.unlink(filepath);
         console.log(`🗑️  Deleted old file: ${file}`);
       }
@@ -51,7 +47,7 @@ export async function saveArticles(articles: Article[]): Promise<void> {
 
     console.log(`✅ Saved ${articles.length} articles to ${filename}`);
     
-    // Cleanup file lama (delete otomatis yang >7 hari)
+    // Cleanup file lama (hapus otomatis jika jumlah file > 30)
     await cleanupOldArticles();
   } catch (error: unknown) {
     console.error('Error saving articles:', error);
