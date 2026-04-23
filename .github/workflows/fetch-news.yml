@@ -2,8 +2,12 @@ name: Fetch Latest News
 
 on:
   schedule:
-    # Berjalan 1 kali per hari pada jam 09:00 UTC (16:00 WIB)
-    - cron: '0 9 * * *'
+    # Pagi: 01:00 UTC (08:00 WIB) - selalu jalan
+    - cron: '0 1 * * *'
+    # Siang: 06:00 UTC (13:00 WIB) - random 50%
+    - cron: '0 6 * * *'
+    # Malam: 13:00 UTC (20:00 WIB) - random 50%
+    - cron: '0 13 * * *'
   workflow_dispatch:
 
 permissions:
@@ -12,26 +16,55 @@ permissions:
 jobs:
   fetch-news:
     runs-on: ubuntu-latest
-    
+
     steps:
+      - name: Decide whether to run (random skip for non-morning runs)
+        id: random_check
+        run: |
+          # Manual triggers always run
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "skip=false" >> $GITHUB_OUTPUT
+            exit 0
+          fi
+
+          HOUR=$(date -u +%H)
+          # Morning run (01:xx UTC) always runs
+          if [ "$HOUR" = "01" ]; then
+            echo "skip=false" >> $GITHUB_OUTPUT
+          else
+            # Siang/Malam: 50% chance to skip so total per day is random 1-3x
+            RAND=$((RANDOM % 2))
+            if [ "$RAND" = "0" ]; then
+              echo "skip=true" >> $GITHUB_OUTPUT
+              echo "⏭️  Skipping this run (random decision)"
+            else
+              echo "skip=false" >> $GITHUB_OUTPUT
+            fi
+          fi
+
       - name: Checkout repository
+        if: steps.random_check.outputs.skip != 'true'
         uses: actions/checkout@v4
         
       - name: Setup Node.js
+        if: steps.random_check.outputs.skip != 'true'
         uses: actions/setup-node@v4
         with:
           node-version: '20'
           cache: 'npm'
           
       - name: Install dependencies
+        if: steps.random_check.outputs.skip != 'true'
         run: npm ci
         
       - name: Fetch news articles
+        if: steps.random_check.outputs.skip != 'true'
         run: npm run fetch-news
         env:
           NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
           
       - name: Commit and push changes
+        if: steps.random_check.outputs.skip != 'true'
         run: |
           git config --local user.email "${{ github.actor }}@users.noreply.github.com"
           git config --local user.name "${{ github.actor }}"
