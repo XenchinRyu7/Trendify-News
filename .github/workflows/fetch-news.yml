@@ -2,11 +2,11 @@ name: Fetch Latest News
 
 on:
   schedule:
-    # Pagi: 01:00 UTC (08:00 WIB) - selalu jalan
+    # Pagi: 01:00 UTC (08:00 WIB) - selalu jalan, set target harian
     - cron: '0 1 * * *'
-    # Siang: 06:00 UTC (13:00 WIB) - random 50%
+    # Siang: 06:00 UTC (13:00 WIB) - jalan jika target >= 2
     - cron: '0 6 * * *'
-    # Malam: 13:00 UTC (20:00 WIB) - random 50%
+    # Malam: 13:00 UTC (20:00 WIB) - jalan jika target >= 3
     - cron: '0 13 * * *'
   workflow_dispatch:
 
@@ -18,56 +18,115 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Decide whether to run (random skip for non-morning runs)
-        id: random_check
+      # Checkout selalu dilakukan pertama untuk membaca state file
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Compute run plan and decide whether to run
+        id: plan
         run: |
-          # Manual triggers always run
+          # Manual triggers always run (no skip, no plan update)
           if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
             echo "skip=false" >> $GITHUB_OUTPUT
+            echo "🚀 Manual dispatch: always running"
             exit 0
           fi
 
           HOUR=$(date -u +%H)
-          # Morning run (01:xx UTC) always runs
-          if [ "$HOUR" = "01" ]; then
-            echo "skip=false" >> $GITHUB_OUTPUT
+          TODAY=$(date -u +%Y-%m-%d)
+          PLAN_FILE="data/meta/run-plan.json"
+
+          # Read existing plan (safe defaults if file missing or malformed)
+          if [ -f "$PLAN_FILE" ]; then
+            PLAN_DATE=$(jq -r '.date // ""' "$PLAN_FILE" 2>/dev/null || echo "")
+            PLAN_TARGET=$(jq -r '.target_runs_today // 0' "$PLAN_FILE" 2>/dev/null || echo "0")
+            YESTERDAY_TARGET=$(jq -r '.yesterday_target // 0' "$PLAN_FILE" 2>/dev/null || echo "0")
           else
-            # Siang/Malam: 50% chance to skip so total per day is random 1-3x
-            RAND=$((RANDOM % 2))
-            if [ "$RAND" = "0" ]; then
-              echo "skip=true" >> $GITHUB_OUTPUT
-              echo "⏭️  Skipping this run (random decision)"
-            else
-              echo "skip=false" >> $GITHUB_OUTPUT
-            fi
+            PLAN_DATE=""
+            PLAN_TARGET=0
+            YESTERDAY_TARGET=0
           fi
 
-      - name: Checkout repository
-        if: steps.random_check.outputs.skip != 'true'
-        uses: actions/checkout@v4
-        
+          echo "📋 Current plan: date=$PLAN_DATE, target=$PLAN_TARGET, yesterday=$YESTERDAY_TARGET"
+
+          if [ "$HOUR" = "01" ]; then
+            # Pagi: pilih target baru yang BERBEDA dari kemarin.
+            # run-plan.json ditulis oleh morning run KEMARIN, sehingga
+            # PLAN_TARGET = target kemarin (bukan yesterday_target yang
+            # merupakan target dua hari lalu).
+            PREV=$PLAN_TARGET
+            case "$PREV" in
+              1) CHOICES="2 3" ;;
+              2) CHOICES="1 3" ;;
+              3) CHOICES="1 2" ;;
+              *) CHOICES="1 2 3" ;;
+            esac
+            CHOICES_ARR=($CHOICES)
+            RAND_IDX=$((RANDOM % ${#CHOICES_ARR[@]}))
+            NEW_TARGET=${CHOICES_ARR[$RAND_IDX]}
+
+            mkdir -p data/meta
+            printf '{\n  "date": "%s",\n  "target_runs_today": %s,\n  "yesterday_target": %s\n}\n' \
+              "$TODAY" "$NEW_TARGET" "$PREV" > "$PLAN_FILE"
+
+            echo "skip=false" >> $GITHUB_OUTPUT
+            echo "🌅 Morning run: new target=$NEW_TARGET (yesterday=$PREV)"
+
+          elif [ "$HOUR" = "06" ]; then
+            # Siang: jalan hanya jika today's target >= 2
+            if [ "$PLAN_DATE" = "$TODAY" ] && [ "$PLAN_TARGET" -ge 2 ] 2>/dev/null; then
+              echo "skip=false" >> $GITHUB_OUTPUT
+              echo "☀️  Noon run: target=$PLAN_TARGET >= 2, running"
+            else
+              echo "skip=true" >> $GITHUB_OUTPUT
+              echo "⏭️  Noon run: target=$PLAN_TARGET < 2 or plan not for today, skipping"
+            fi
+
+          elif [ "$HOUR" = "13" ]; then
+            # Malam: jalan hanya jika today's target >= 3
+            if [ "$PLAN_DATE" = "$TODAY" ] && [ "$PLAN_TARGET" -ge 3 ] 2>/dev/null; then
+              echo "skip=false" >> $GITHUB_OUTPUT
+              echo "🌙 Evening run: target=$PLAN_TARGET = 3, running"
+            else
+              echo "skip=true" >> $GITHUB_OUTPUT
+              echo "⏭️  Evening run: target=$PLAN_TARGET < 3 or plan not for today, skipping"
+            fi
+
+          else
+            echo "skip=true" >> $GITHUB_OUTPUT
+            echo "⏭️  Unexpected hour $HOUR, skipping"
+          fi
+
       - name: Setup Node.js
-        if: steps.random_check.outputs.skip != 'true'
+        if: steps.plan.outputs.skip != 'true'
         uses: actions/setup-node@v4
         with:
           node-version: '20'
           cache: 'npm'
-          
+
       - name: Install dependencies
-        if: steps.random_check.outputs.skip != 'true'
+        if: steps.plan.outputs.skip != 'true'
         run: npm ci
-        
+
       - name: Fetch news articles
-        if: steps.random_check.outputs.skip != 'true'
+        if: steps.plan.outputs.skip != 'true'
         run: npm run fetch-news
         env:
           NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
-          
+
+      - name: Update heartbeat (guarantees a diff every allowed run)
+        if: steps.plan.outputs.skip != 'true'
+        run: |
+          mkdir -p data/meta
+          printf '{\n  "last_run": "%s",\n  "trigger": "%s"\n}\n' \
+            "$(date -u +%Y-%m-%dT%H:%M:%SZ)" \
+            "${{ github.event_name }}" > data/meta/last_run.json
+
       - name: Commit and push changes
-        if: steps.random_check.outputs.skip != 'true'
+        if: steps.plan.outputs.skip != 'true'
         run: |
           git config --local user.email "${{ github.actor }}@users.noreply.github.com"
           git config --local user.name "${{ github.actor }}"
-          git add data/articles/
+          git add data/articles/ data/meta/
           git diff --staged --quiet || git commit -m "Auto-update: Fetch latest tech news - $(date +'%Y-%m-%d %H:%M')"
           git push origin main
